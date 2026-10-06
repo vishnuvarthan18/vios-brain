@@ -1,0 +1,11 @@
+---
+source: personal Mac ~/india-monorepo/core/requirements.txt
+---
+
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+psycopg[binary,pool]==3.2.3
+pydantic==2.10.4
+pydantic-settings==2.7.0
+boto3==1.35.90
+python-multipart==0.0.20

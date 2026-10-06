@@ -1,0 +1,1064 @@
+---
+tags: source
+---
+# Google Drive file list — office (files stay in Google Drive)
+
+Path | bytes | date
+
+- YGC_Estimation_v1.xlsx | 9297 | 2026-09-15
+- sinolink-final-out.mp4-captions.txt | 361 | 2026-06-30
+- YGC_Estimation_v1_FINAL.xlsx | 10310 | 2026-09-15
+- aci-stage2-attendance .pdf | 29770921 | 2026-06-16
+- aci-customer-feedback (1).pdf | 517887 | 2026-06-16
+- sinolink-final-out.mp4 | 11499891 | 2026-06-30
+- aci-stage2-attendance (1).pdf | 29770921 | 2026-06-16
+- Google Forms user data/Form draft responses.csv | 327 | 2026-10-06
+- aci-customer-feedback .pdf | 517887 | 2026-06-16
+- arc- nc1.xlsx | 12413 | 2026-05-26
+- arc- nc 2.xlsx | 17547 | 2026-05-26
+- Change request form.docx | 21464 | 2026-05-12
+- clause wise report.xlsx | 71381 | 2026-05-13
+- aci-tm-004-vishnu-drive.html | 436 | 2026-05-03
+- aracreate 5.1.xlsx | 11137 | 2026-05-10
+- ISO 27001 INTERNAL AUDIT REPORT.xlsx | 46843 | 2026-05-05
+- Statement of Applicability _justification - model reference.xlsx | 40093 | 2026-04-27
+- sample  Measurable Objectives  ISMS - 2022(1).xlsx | 88302 | 2026-04-27
+- example for Context to the Organization.xlsx | 31707 | 2026-04-27
+- example for Context to the Organization(1).xlsx | 31707 | 2026-04-27
+- iso-27001-prj.html | 416 | 2026-03-11
+- new.csv | 36306 | 2026-04-16
+- ARACREATE -IS-06-RATP Risk Assesment and Treatment Plan.xlsx | 88872 | 2026-04-15
+- Copy of iso-27001-template.xlsx | 67316 | 2026-02-10
+- Comprehensive_Process_Flows.txt | 83450 | 2026-01-29
+- erpnext_complete_umbrella_flows.txt | 63424 | 2026-01-29
+- erpnext_all_flows.txt | 31167 | 2026-01-29
+- MRM report aracreate(1).docx | 201871 | 2026-05-13
+- iso-27001-template(1).xlsx | 67316 | 2026-02-10
+- MRM Plan.xlsx | 7598 | 2026-05-13
+- MRM Agenda.docx | 197456 | 2026-05-13
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0010 - srimathi senthilkumar.jpg | 101610 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_115456 - Mohamed Nabil.jpg | 2022601 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0018 - Ponkaviya.S.jpg | 135912 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0022 - Anuja Ayyachamy.jpg | 144122 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_122753 - Santhiya.jpg | 981985 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/PDF Gallery_20260926_121500 - Enitha Elamurugan.pdf | 121639 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0002 - Brintha Shanmugam.jpg | 110176 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/20260926_111304 - M Lathishamailsamy.jpg | 3182711 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0000 - ponarasi V.jpg | 101293 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0008 - Kanishka.jpg | 143995 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG20260926112057 - Dharun Venkatesh.S.jpg | 7185676 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0013 - Rajeswari R.jpg | 142256 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/LASER SQUAD - Kaviya chinnasamy.pdf | 714573 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/ vehicle hight detection - joshna.jpg | 291029 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0002 - Mynavathy.jpg | 125501 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0022 - Viji Viji.jpg | 453155 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0003 - Bharath Muthu.jpg | 119332 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0004 - Paramashwari.jpg | 1978735 | 2026-09-25
+- Unorganised/Lastenheft.docx | 21310 | 2024-09-09
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0025 - Dharshinibai.jpg | 156747 | 2026-09-26
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0006 - Vignesh.jpg | 570698 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0002 - Sharu Mithra.jpg | 147879 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Team BYTE FORCE - ARUNA DEVI N.jpg | 1642811 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/gateforce - Shalini Chitra.jpg | 998303 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Screenshot_20260926_121106 - Sivamurugesh B.jpg | 685419 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Team photo with project - Narmatha S.jpg | 3703082 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0007 - Harshavardhan R.S.jpg | 144672 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0013 - Divyanand .s.jpg | 76211 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/1000123350 - thirukkumaran senthil2007.jpg | 1306982 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Screenshot_2026-09-26-11-43-59-03_99c04817c0de5652397fc8b56c3b3817 - Tanu shree ECE.jpg | 544915 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/power pulse 07 - Jeevanandham Jeevanandham.pdf | 1385481 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0000 - Nethira M.jpg | 183145 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0006 - Jochihal Chelian.jpg | 158898 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG20260926112228 - Varshini Prabagaran.jpg | 10405884 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG20260926112228 - Varshini Prabagaran(1).jpg | 10405884 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0004 - Balasarathy.jpg | 189532 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/power pulse 07 - kalaiselvan mathiyalagan.pdf | 1385481 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0011 - Kamali.jpg | 1069130 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_112252348~3 - Praveena sri.jpg | 2606354 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0003 - Guru Vishnu.jpg | 139391 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Image to PDF 20260926 11.53.17 - S.Dharsini 1234.pdf | 113875 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_112252348~3 - Praveena sri(1).jpg | 2606354 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0013 - Gnaneshh D.S.jpg | 436787 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0001 - Subima Subi.jpg | 148010 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0009 - Sritharan.jpg | 118719 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/power pulse 07 - Hemavarshini R.pdf | 1385481 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/aaya - Atchiya Thirupathi.pdf | 810640 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG20260926114648 - Suwetha2007.jpg | 2219180 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Screenshot_2026-09-26-11-43-59-03_99c04817c0de5652397fc8b56c3b3817 - Tanu shree ECE(1).jpg | 544915 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0017 - Hemaa Sriee.jpg | 160225 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/live wire final project - Harina.txt | 154 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0001 - Jagan G.jpg | 104614 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/DIODE SQUAD ARACREATE - VIKASHINI.pdf | 817033 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0003 - Guru Vishnu(1).jpg | 139391 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/power pulse 07 - SUBITHRA S.pdf | 1385481 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0001 - V N SUVETHA.jpg | 119543 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/Document from ★Ꮪʜɪꪜᴀ...!!!😎 - Shivanesh 2211.pdf | 810640 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0011 - Kamali(1).jpg | 1069130 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0007 - Dhivakar .D.jpg | 145473 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/20260926_111139 - Kavya Venkat.jpg | 2008152 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_115423 - Selva Ragavan.jpg | 3024201 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/signal team - Shubhashree M.jpeg | 184280 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260925_155927 - Jagan G.jpg | 1374833 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0000 - Nethira M(1).jpg | 183145 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0000 - Rutharesh S N.jpg | 147879 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_111547 - Shajahan.jpg | 5619443 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG_20260926_112049 - Shanjaykumar V.jpg | 7798444 | 2026-09-25
+- 5-sep-payslip.pdf | 143815 | 2025-10-28
+- vishnu-drive.html | 414 | 2025-08-19
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/DATACREW (Smart toll gate monitoring system) - Harshini Kumar.jpg | 3173574 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG-20260926-WA0005 - Suvishya Suvi.jpg | 172104 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/IMG20260926111850 - Vainavi.jpg | 2281030 | 2026-09-25
+- Bootcamp Feedback.zip | 54681 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/aaya - Mohan raj.v.pdf | 810640 | 2026-09-25
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/66825-9mb - Srimathi.jpg | 9435136 | 2026-09-25
+- 2-june-payslip.pdf | 197660 | 2025-08-12
+- 1-may-payslip.pdf | 197645 | 2025-08-12
+- Team Photo & Project Name (File responses)/Project and photo (File responses)/20260926_111501 - Viveetha Periyasamy.jpg | 3061632 | 2026-09-25
+- Team Photo & Project Name.zip | 48976 | 2026-09-25
+- media-kit-abs2025-banner-2.png | 6003854 | 2025-06-09
+- media-kit-abs2025-banner-6.png | 7422577 | 2025-06-09
+- media-kit-abs2025-banner-4.png | 8375740 | 2025-06-09
+- media-kit-abs2025-banner-3.png | 9145616 | 2025-06-09
+- media-kit-abs2025-banner-1.png | 7412564 | 2025-06-09
+- media-kit-abs2025-banner-5.png | 8353089 | 2025-06-09
+- 2-media/edited-video/without-text.mp4 | 82312998 | 2025-01-09
+- prodsphere-audit-aracreate-service-deck.pdf | 4312161 | 2025-06-04
+- 2-media/edited-video/v1.mp4 | 42599531 | 2025-01-09
+- 2-media/2025-01-07-vce/Photos/CHE00237.JPG | 11337728 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00236.JPG | 11108352 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00235.JPG | 12189696 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00234.JPG | 11272192 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00233.JPG | 10878976 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00232.JPG | 11436032 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00230.JPG | 10092544 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00231.JPG | 9273344 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00229.JPG | 8257536 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00227.JPG | 10027008 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00226.JPG | 9371648 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00224.JPG | 11730944 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00225.JPG | 12156928 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00223.JPG | 9863168 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00221.JPG | 10223616 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00220.JPG | 12058624 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00222.JPG | 12451840 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00219.JPG | 11337728 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00228.JPG | 8028160 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00218.JPG | 7012352 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00216.JPG | 10616832 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00215.JPG | 13369344 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00213.JPG | 9568256 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00214.JPG | 13467648 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00217.JPG | 7733248 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0026.MP4-captions.txt | 654 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0026M01.XML | 1431 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0025M01.XML | 1429 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0025.MP4 | 12587634 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0024.MP4 | 213939048 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0024M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0026.MP4 | 117457836 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0023.MP4 | 58730646 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0023M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0022M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0020.MP4-captions.txt | 101 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0022.MP4 | 130042512 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0021M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0021.MP4 | 62925454 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0020.MP4 | 20977250 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0019.MP4-captions.txt | 346 | 2025-01-06
+- theregenroom-webflow.-contact.xlsx | 6609 | 2026-09-01
+- ERP.xlsx | 4952 | 2026-01-29
+- 2-media/2025-01-07-vce/Videos/C0020M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0019.MP4 | 75509754 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0019M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0018.MP4-captions.txt | 295 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0018M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0018.MP4 | 67120390 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0017.MP4 | 67120390 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0017M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0016M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0015.MP4 | 46146350 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0015M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0016.MP4 | 58730646 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0014M01.XML | 1431 | 2025-01-06
+- pitch-deck-dsp-2025(1).pdf | 69053552 | 2025-06-04
+- 2025 Destinations Announced-2.psb | 67004826 | 2025-05-27
+- prodsphere-audit-aracreate-service-deck(1).pdf | 4312161 | 2025-06-04
+- ABS2025.html | 404 | 2025-05-23
+- pitch-deck-dsp-2025.pdf | 69053552 | 2025-06-04
+- 2025 Destinations Announced-1.psb | 55147272 | 2025-05-27
+- 2025 Destinations Announced-3.psb | 41259690 | 2025-05-27
+- arkos ecommerce.pdf | 502856 | 2025-03-21
+- invitation-letter-aracreate.html | 455 | 2025-02-27
+- ac-ac.xlsx | 6115 | 2026-03-31
+- new.xlsx | 41367 | 2026-04-16
+- contact-page/Contact V2.pdf | 6771419 | 2025-04-01
+- contact-page/contact-v1.1.pdf | 5792783 | 2025-04-07
+- 2-media/2025-01-07-vce/Photos/CHE00212.JPG | 10387456 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00211.JPG | 12320768 | 2025-01-07
+- ARA-Create-Letterhead.docx | 88445 | 2026-07-31
+- 2-media/2025-01-07-vce/Photos/CHE00208.JPG | 10256384 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00209.JPG | 10649600 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00210.JPG | 8978432 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00207.JPG | 10649600 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00206.JPG | 11010048 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00205.JPG | 10485760 | 2025-01-07
+- EDE Website – Project Plan (start 12 Oct 2026).xlsx | 20987 | 2026-10-01
+- 2-media/2025-01-07-vce/Photos/CHE00204.JPG | 12943360 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00201.JPG | 11862016 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00202.JPG | 11927552 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00203.JPG | 9961472 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00200.JPG | 10452992 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00199.JPG | 10354688 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00197.JPG | 10485760 | 2025-01-07
+- MRM report aracreate.docx | 200656 | 2026-05-13
+- 2-media/2025-01-07-vce/Photos/CHE00196.JPG | 9502720 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00195.JPG | 9306112 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00194.JPG | 11468800 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00198.JPG | 10584064 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00192.JPG | 10780672 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00193.JPG | 10682368 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00191.JPG | 10289152 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00190.JPG | 10256384 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00189.JPG | 10321920 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00188.JPG | 10125312 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0014.MP4 | 134237320 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0013M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0012.MP4 | 29367118 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0012M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0010.MP4-captions.txt | 101 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0011M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0010.MP4 | 37756354 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0010M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0011.MP4 | 92288988 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0009M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0013.MP4 | 88094556 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0009.MP4 | 121652768 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0008M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0008.MP4 | 20977122 | 2025-01-06
+- Notes – ACI Town Hall Meeting.docx | 7492 | 2025-12-01
+- 2-media/2025-01-07-vce/Videos/C0007M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0007.MP4 | 163601100 | 2025-01-06
+- deeptech-foundry-concept-note.docx | 591456 | 2026-02-27
+- 2-media/2025-01-07-vce/Videos/C0006.MP4 | 117458340 | 2025-01-06
+- araCreate Academy Deck.pptx | 934202 | 2026-09-07
+- 2-media/2025-01-07-vce/Videos/C0006M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0005M01.XML | 1429 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0004M01.XML | 1429 | 2025-01-06
+- cover-letter-vishnu.docx | 394290 | 2026-03-02
+- 2-media/2025-01-07-vce/Videos/C0004.MP4 | 54535838 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0003M01.XML | 1431 | 2025-01-06
+- b.halle.docx | 8604 | 2025-06-13
+- 2-media/2025-01-07-vce/Videos/C0005.MP4 | 50340778 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0002.MP4 | 163600724 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0002M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-08-vce/photos/VJP07691.JPG | 11599872 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07692.JPG | 12025856 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07690.JPG | 11468800 | 2025-01-08
+- sample  Measurable Objectives  ISMS - 2022.xlsx | 87227 | 2026-04-27
+- 2-media/2025-01-08-vce/photos/VJP07685.JPG | 15564800 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07684.JPG | 14843904 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07682.JPG | 9175040 | 2025-01-08
+- 2-media/2025-01-07-vce/Videos/C0003.MP4 | 528550404 | 2025-01-06
+- 2-media/2025-01-08-vce/photos/VJP07680.JPG | 9633792 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07679.JPG | 12713984 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07677.JPG | 10911744 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07681.JPG | 9109504 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07676.JPG | 12910592 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07674.JPG | 9830400 | 2025-01-08
+- iso-27001-template.xlsx-comments.html | 7782 | 2026-02-10
+- 2-media/2025-01-08-vce/photos/VJP07671.JPG | 10715136 | 2025-01-08
+- Aracreate Stage -01 Corrective Action Report (CAR) (1).docx | 278768 | 2026-05-26
+- 2-media/2025-01-08-vce/photos/VJP07670.JPG | 9469952 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07669.JPG | 9502720 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07666.JPG | 11337728 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07667.JPG | 10387456 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07661.JPG | 9273344 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07663.JPG | 9797632 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07662.JPG | 11501568 | 2025-01-08
+- 2-june-payslip.docx | 319859 | 2025-08-18
+- 2-media/2025-01-08-vce/photos/VJP07660.JPG | 10518528 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07657.JPG | 11173888 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07659.JPG | 9961472 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07655.JPG | 11239424 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07652.JPG | 11894784 | 2025-01-08
+- 2-media/2025-01-07-vce/Photos/CHE00187.JPG | 9895936 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00185.JPG | 9895936 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00186.JPG | 10092544 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00181.JPG | 9666560 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00182.JPG | 9895936 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00180.JPG | 9601024 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00179.JPG | 9404416 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00178.JPG | 9404416 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00184.JPG | 9732096 | 2025-01-07
+- Untitled spreadsheet.xlsx | 181694 | 2026-02-04
+- 2-media/2025-01-07-vce/Photos/CHE00183.JPG | 11960320 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00176.JPG | 9502720 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00177.JPG | 9437184 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00174.JPG | 11436032 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00173.JPG | 11272192 | 2025-01-07
+- 5-sep-payslip.docx | 319714 | 2025-12-03
+- 2-media/2025-01-07-vce/Photos/CHE00172.JPG | 11141120 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00171.JPG | 11698176 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00175.JPG | 10354688 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00169.JPG | 10321920 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00170.JPG | 10452992 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00168.JPG | 12091392 | 2025-01-07
+- 02-Corrective Action Report (CAR)-Aracreate - James Jaganathan_.docx | 257541 | 2026-07-07
+- 2-media/2025-01-07-vce/Photos/CHE00167.JPG | 11763712 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00165.JPG | 11206656 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00164.JPG | 11599872 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0037.MP4-captions.txt | 125 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00166.JPG | 11239424 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00163.JPG | 11042816 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/.DS_Store | 8196 | 2025-01-13
+- 1-may-payslip.docx | 319884 | 2025-09-11
+- 2-media/2025-01-08-vce/Videos/C0037.MP4 | 37755178 | 2025-01-07
+- aracreate-master-service-deck-draft.pptx | 867131 | 2025-12-15
+- 2-media/2025-01-08-vce/Videos/C0036.MP4 | 37754942 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0035.MP4 | 29365618 | 2025-01-07
+- Google Earth/Untitled project.kml | 297 | 2025-04-14
+- 2-media/2025-01-08-vce/Videos/C0034.MP4 | 62922670 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0033.MP4 | 20976534 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0031.MP4 | 20976534 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0029.MP4-captions.txt | 177 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0032.MP4 | 41949722 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0030.MP4 | 29365858 | 2025-01-07
+- UI_UX Design Comparison-comments.html | 14281 | 2025-07-10
+- 2-media/2025-01-08-vce/Videos/C0029.MP4 | 50338806 | 2025-01-07
+- web-video-02/c45327a1d087b95ab6a58ecb0daee82f.mov | 11869463 | 2025-11-18
+- 2-media/2025-01-08-vce/Videos/C0028.MP4 | 33560398 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0027.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0026.MP4-captions.txt | 98 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0026.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0025.MP4 | 62922670 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0024.MP4 | 37755178 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0023.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0022.MP4 | 33560398 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0020.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0021.MP4 | 50339042 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0019.MP4 | 37754942 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0017.MP4 | 37754942 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0018.MP4 | 33560398 | 2025-01-07
+- web-video-02/web-video-02-content-styles.json | 496 | 2025-11-18
+- 2-media/2025-01-08-vce/Videos/C0016.MP4 | 20976534 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0014.MP4 | 67117210 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0015.MP4 | 33560398 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07651.JPG | 8847360 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07646.JPG | 9273344 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07642.JPG | 10420224 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07643.JPG | 9338880 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07635.JPG | 9404416 | 2025-01-08
+- Package draft.docx | 13171 | 2025-07-08
+- 2-media/2025-01-08-vce/photos/VJP07641.JPG | 10485760 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07632.JPG | 9961472 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07628.JPG | 10878976 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07624.JPG | 10616832 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07626.JPG | 9732096 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07630.JPG | 9404416 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07620.JPG | 9469952 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07622.JPG | 8552448 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07617.JPG | 9863168 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07614.JPG | 8847360 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07615.JPG | 12582912 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07607.JPG | 9699328 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07611.JPG | 11141120 | 2025-01-08
+- 2-media/2025-01-08-vce/photos/VJP07567.JPG | 7045120 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07565.JPG | 7176192 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07564.JPG | 7503872 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07561.JPG | 10682368 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07562.JPG | 8912896 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07563.JPG | 8683520 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00162.JPG | 11272192 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00161.JPG | 8552448 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00159.JPG | 9568256 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00157.JPG | 10092544 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00160.JPG | 8454144 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00156.JPG | 10289152 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00158.JPG | 10027008 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00153.JPG | 11173888 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00152.JPG | 11632640 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00151.JPG | 11763712 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00150.JPG | 10125312 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00155.JPG | 10092544 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00149.JPG | 9928704 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00147.JPG | 11501568 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00146.JPG | 9175040 | 2025-01-07
+- ui_ux-workshop-certificate (Responses).xlsx | 26337 | 2025-03-08
+- 2-media/2025-01-07-vce/Photos/CHE00145.JPG | 8355840 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00148.JPG | 11436032 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00144.JPG | 10158080 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07608.JPG | 11599872 | 2025-01-08
+- 2-media/2025-01-07-vce/Photos/CHE00143.JPG | 10256384 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00140.JPG | 8650752 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00142.JPG | 9469952 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00141.JPG | 8978432 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00138.JPG | 8847360 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00139.JPG | 8060928 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00137.JPG | 8224768 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0013.MP4 | 33560398 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0012.MP4 | 33560398 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0011.MP4 | 79701314 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0010.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0009.MP4 | 25171078 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0008.MP4 | 16781994 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0007.MP4 | 41949482 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0006.MP4 | 75506286 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0005.MP4 | 20976534 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0003.MP4 | 33560398 | 2025-01-07
+- vishnu - 4.pptx | 181992 | 2025-02-24
+- 2-media/2025-01-08-vce/Videos/C0004.MP4 | 50338806 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0002.MP4 | 29365858 | 2025-01-07
+- 2-media/2025-01-08-vce/Videos/C0001.MP4 | 41949482 | 2025-01-07
+- iso-27001-template.xlsx | 66428 | 2026-02-11
+- 2-media/2025-01-07-vce/Photos/CHE00136.JPG | 7831552 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00135.JPG | 8093696 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00134.JPG | 8126464 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00133.JPG | 11665408 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00132.JPG | 10846208 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00131.JPG | 11272192 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00130.JPG | 8814592 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00129.JPG | 9076736 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00128.JPG | 8421376 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00127.JPG | 8617984 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00125.JPG | 4259840 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00126.JPG | 8945664 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00124.JPG | 4128768 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00122.JPG | 5537792 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00123.JPG | 5079040 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00121.JPG | 5701632 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00119.JPG | 5079040 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00120.JPG | 4980736 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00118.JPG | 5013504 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00117.JPG | 3244032 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00116.JPG | 3342336 | 2025-01-06
+- UI_UX Design Comparison.docx | 400767 | 2025-07-10
+- 2-media/2025-01-07-vce/Photos/CHE00114.JPG | 3571712 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00115.JPG | 3604480 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00113.JPG | 2949120 | 2025-01-06
+- halle-estimations_.xlsx | 20413 | 2025-05-14
+- 2-media/2025-01-08-vce/photos/VJP07560.JPG | 12353536 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07558.JPG | 9371648 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07559.JPG | 9699328 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07554.JPG | 7536640 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07506.JPG | 13500416 | 2025-01-07
+- Untitled spreadsheet(1).xlsx | 8374 | 2026-01-20
+- 2-media/2025-01-08-vce/photos/VJP07557.JPG | 7471104 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07553.JPG | 7798784 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00112.JPG | 3801088 | 2025-01-06
+- 2-media/2025-01-08-vce/photos/VJP07504.JPG | 10944512 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07505.JPG | 10944512 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07502.JPG | 11632640 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07500.JPG | 11632640 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07499.JPG | 10354688 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07498.JPG | 9306112 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07495.JPG | 10190848 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07501.JPG | 11632640 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07496.JPG | 11567104 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07497.JPG | 13533184 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07494.JPG | 13631488 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07490.JPG | 9895936 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07489.JPG | 11829248 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07493.JPG | 11337728 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07483.JPG | 8716288 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07487.JPG | 12058624 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07485.JPG | 9633792 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07484.JPG | 12255232 | 2025-01-07
+- 2-media/2025-01-07-vce/Videos/C0001M01.XML | 1431 | 2025-01-06
+- 2-media/2025-01-07-vce/Videos/C0001.MP4 | 171990212 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00109.JPG | 3276800 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00110.JPG | 2916352 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00108.JPG | 3309568 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00111.JPG | 3801088 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00106.JPG | 2686976 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00105.JPG | 2752512 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00107.JPG | 2621440 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00103.JPG | 3768320 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00102.JPG | 4030464 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00100.JPG | 2719744 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00099.JPG | 2686976 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00098.JPG | 3538944 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00097.JPG | 3571712 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00101.JPG | 2654208 | 2025-01-06
+- proposal-vts-marine.docx | 396123 | 2025-06-22
+- 2-media/2025-01-07-vce/Photos/CHE00096.JPG | 3375104 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00104.JPG | 3670016 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00093.JPG | 4096000 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00094.JPG | 4128768 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00095.JPG | 3604480 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00090.JPG | 3407872 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00091.JPG | 3538944 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00087.JPG | 2949120 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00088.JPG | 2949120 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00092.JPG | 3014656 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00089.JPG | 3047424 | 2025-01-06
+- 01-jan-2024-batch-trainee(2).xlsx | 44072 | 2025-01-23
+- VJP07358.jpg | 8266538 | 2025-01-09
+- VJP07372.jpg | 8791174 | 2025-01-09
+- VJP07313.jpg | 8259667 | 2025-01-09
+- VJP07472.jpg | 8389618 | 2025-01-09
+- CHE00215 (1).jpg | 8528765 | 2025-01-09
+- VJP07380.jpg | 8448999 | 2025-01-09
+- VJP07317.jpg | 8228700 | 2025-01-09
+- CHE00018.jpg | 5577717 | 2025-01-09
+- CHE00073 (1).jpg | 5316354 | 2025-01-09
+- CHE00030.jpg | 8031412 | 2025-01-09
+- 2-media/2025-01-07-vce/Photos/CHE00085.JPG | 3997696 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00084.JPG | 3735552 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00086.JPG | 2949120 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00082.JPG | 4653056 | 2025-01-06
+- CHE00181.jpg | 5061695 | 2025-01-09
+- 2-media/2025-01-07-vce/Photos/CHE00083.JPG | 3997696 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00081.JPG | 3211264 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00079.JPG | 3145728 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00078.JPG | 3538944 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00077.JPG | 4128768 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00080.JPG | 3211264 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00076.JPG | 3670016 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00074.JPG | 8126464 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00071.JPG | 4096000 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00073.JPG | 8585216 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00072.JPG | 4128768 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00070.JPG | 3375104 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00075.JPG | 3768320 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00069.JPG | 2949120 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00067.JPG | 3604480 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00068.JPG | 3801088 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00066.JPG | 3702784 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00065.JPG | 3538944 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00064.JPG | 3571712 | 2025-01-06
+- Copy of training-ppt-template.pptx | 1791447 | 2025-03-10
+- 2-media/2025-01-07-vce/Photos/CHE00063.JPG | 3342336 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00062.JPG | 4161536 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00059.JPG | 3932160 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00060.JPG | 3604480 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00058.JPG | 3670016 | 2025-01-06
+- Copy of aci-document-template.docx | 392209 | 2025-02-27
+- 2-media/2025-01-07-vce/Photos/CHE00057.JPG | 4194304 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00061.JPG | 4128768 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00056.JPG | 3571712 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00054.JPG | 5734400 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00055.JPG | 5439488 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00053.JPG | 3506176 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00052.JPG | 3735552 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00051.JPG | 3932160 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00050.JPG | 3899392 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00047.JPG | 12386304 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00048.JPG | 4489216 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00045.JPG | 12451840 | 2025-01-06
+- test/copy-halle-test-report-comments.html | 12248 | 2026-08-21
+- 2-media/2025-01-07-vce/Photos/CHE00046.JPG | 12943360 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00043.JPG | 11829248 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00044.JPG | 11108352 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00042.JPG | 10452992 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00049.JPG | 2293760 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00040.JPG | 9535488 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00039.JPG | 9371648 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00041.JPG | 10747904 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00038.JPG | 10911744 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00037.JPG | 12812288 | 2025-01-06
+- Untitled presentation.pptx | 3354351 | 2025-08-14
+- 2-media/2025-01-08-vce/photos/VJP07482.JPG | 9109504 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07481.JPG | 11927552 | 2025-01-07
+- ui_ux-workshop-certificate.zip | 175039 | 2025-03-08
+- 2-media/2025-01-08-vce/photos/VJP07480.JPG | 9469952 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07479.JPG | 11665408 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07478.JPG | 13238272 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07477.JPG | 10485760 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07476.JPG | 10682368 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07475.JPG | 13336576 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07473.JPG | 12353536 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07474.JPG | 11075584 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07471.JPG | 11534336 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07470.JPG | 10846208 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07472.JPG | 11436032 | 2025-01-07
+- WORKING.pptx | 3330938 | 2025-08-14
+- 2-media/2025-01-08-vce/photos/VJP07468.JPG | 12451840 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07467.JPG | 12288000 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07466.JPG | 11108352 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07464.JPG | 10452992 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07463.JPG | 11730944 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07462.JPG | 11370496 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07460.JPG | 10420224 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07459.JPG | 12681216 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07458.JPG | 11075584 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07457.JPG | 10780672 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07456.JPG | 10321920 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07455.JPG | 12812288 | 2025-01-07
+- 2-media/2025-01-07-vce/Photos/CHE00036.JPG | 10354688 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00035.JPG | 9404416 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00034.JPG | 11042816 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00033.JPG | 6291456 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00032.JPG | 5472256 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00031.JPG | 9371648 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00030.JPG | 12255232 | 2025-01-06
+- Untitled document.docx | 6491 | 2025-02-24
+- 2-media/2025-01-07-vce/Photos/CHE00029.JPG | 11206656 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00028.JPG | 11501568 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00027.JPG | 8617984 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00026.JPG | 8650752 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00025.JPG | 8290304 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00024.JPG | 9961472 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00023.JPG | 9109504 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00021.JPG | 11894784 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00022.JPG | 9601024 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00020.JPG | 12484608 | 2025-01-06
+- vishnu - 6.pptx | 786760 | 2025-02-24
+- 2-media/2025-01-07-vce/Photos/CHE00017.JPG | 8978432 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00016.JPG | 10223616 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00015.JPG | 9568256 | 2025-01-06
+- Google AI Studio/Taglines for Customers, Employees, and Org | 56218 | 2025-02-16
+- 2-media/2025-01-07-vce/Photos/CHE00013.JPG | 10518528 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00012.JPG | 10584064 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00019.JPG | 11993088 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00018.JPG | 9699328 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00014.JPG | 9863168 | 2025-01-06
+- ui-ux/Design Thinking.pdf | 74507 | 2025-01-30
+- 2-media/2025-01-07-vce/Photos/CHE00011.JPG | 11599872 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00010.JPG | 11567104 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00009.JPG | 10125312 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00007.JPG | 12222464 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00008.JPG | 10223616 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00006.JPG | 10092544 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00005.JPG | 10649600 | 2025-01-06
+- vishnu - 5.pptx | 786760 | 2025-02-24
+- 2-media/2025-01-07-vce/Photos/CHE00004.JPG | 12124160 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00003.JPG | 12451840 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00002.JPG | 10387456 | 2025-01-06
+- 2-media/2025-01-07-vce/Photos/CHE00001.JPG | 9895936 | 2025-01-06
+- 2-media/2025-01-08-vce/photos/VJP07454.JPG | 9797632 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07453.JPG | 8388608 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07452.JPG | 12910592 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07451.JPG | 12976128 | 2025-01-07
+- Attendance.xlsx | 35098 | 2025-02-10
+- Untitled presentation (Untitled project).json | 366 | 2025-02-23
+- 2-media/2025-01-08-vce/photos/VJP07449.JPG | 11141120 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07448.JPG | 12812288 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07446.JPG | 12222464 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07447.JPG | 13008896 | 2025-01-07
+- Untitled presentation(2).pptx | 32146 | 2025-02-23
+- 2-media/2025-01-08-vce/photos/VJP07445.JPG | 9601024 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07444.JPG | 9568256 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07443.JPG | 12288000 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07442.JPG | 12091392 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07441.JPG | 12779520 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07440.JPG | 8781824 | 2025-01-07
+- halle-uiux-report.docx | 3590773 | 2025-04-01
+- 2-media/2025-01-08-vce/photos/VJP07439.JPG | 8912896 | 2025-01-07
+- vishnu - 2.pptx | 786761 | 2025-02-24
+- 2-media/2025-01-08-vce/photos/VJP07438.JPG | 8716288 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07436.JPG | 12615680 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07437.JPG | 8093696 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07435.JPG | 12386304 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07434.JPG | 12517376 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07433.JPG | 11665408 | 2025-01-07
+- Untitled presentation(1).pptx | 286939 | 2025-02-23
+- 2-media/2025-01-08-vce/photos/VJP07430.JPG | 13107200 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07432.JPG | 11960320 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07431.JPG | 11075584 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07429.JPG | 12845056 | 2025-01-07
+- 7-external-workshop/vcet/ece/media/1-videos/C0039.MP4 | 20976534 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0038.MP4 | 54533346 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0037.MP4 | 58728366 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0032.MP4-captions.txt | 101 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0035.MP4 | 71311990 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0036.MP4 | 134231552 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0034.MP4 | 54533586 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0032.MP4 | 50339042 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0033.MP4 | 37754942 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0031.MP4 | 50338806 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0030.MP4 | 33560398 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0027.MP4-captions.txt | 125 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0029.MP4 | 33560398 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0028.MP4 | 50339042 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0027.MP4 | 37754942 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0026.MP4 | 41949722 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0025.MP4 | 37755178 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0024.MP4 | 54533586 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0023.MP4 | 50339042 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0022.MP4 | 79701314 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0021.MP4 | 96479718 | 2018-01-26
+- Untitled spreadsheet(2).xlsx | 7138 | 2025-01-23
+- 7-external-workshop/vcet/ece/media/1-videos/C0020.MP4 | 29365618 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0019.MP4 | 109063582 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0017.MP4 | 41949722 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0018.MP4 | 62922906 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0016.MP4 | 25171078 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0015.MP4 | 50339042 | 2018-01-26
+- 2-media/2025-01-08-vce/photos/VJP07428.JPG | 13041664 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07422.JPG | 12419072 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07426.JPG | 11272192 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07425.JPG | 12189696 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07421.JPG | 12058624 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07420.JPG | 12615680 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07419.JPG | 10223616 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07417.JPG | 11042816 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07418.JPG | 8716288 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07416.JPG | 10485760 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07415.JPG | 10452992 | 2025-01-07
+- Untitled presentation (Untitled project)(1).json | 366 | 2025-02-23
+- 2-media/2025-01-08-vce/photos/VJP07413.JPG | 11141120 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07414.JPG | 11010048 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07412.JPG | 10878976 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07411.JPG | 9502720 | 2025-01-07
+- Copy of 00-ac-guidelines.docx | 2084206 | 2025-03-14
+- 2-media/2025-01-08-vce/photos/VJP07409.JPG | 9404416 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07410.JPG | 9338880 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07408.JPG | 9895936 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07407.JPG | 10551296 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07405.JPG | 11862016 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07406.JPG | 10125312 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07403.JPG | 12156928 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07404.JPG | 12582912 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07402.JPG | 12419072 | 2025-01-07
+- CHE00159 (1).jpg | 5532598 | 2025-01-09
+- 2-media/2025-01-08-vce/photos/VJP07400.JPG | 9797632 | 2025-01-07
+- CHE00148.jpg | 6810904 | 2025-01-09
+- CHE00219.jpg | 7224109 | 2025-01-09
+- CHE00108 (1).jpg | 2235038 | 2025-01-09
+- 00.Copy this.docx | 390017 | 2025-01-09
+- 01-jan-2024-batch-trainee.xlsx | 62660 | 2025-01-23
+- IMG_20250104_190220.jpg | 3140945 | 2025-01-06
+- EAadhaar_(id removed).pdf | 1045187 | 2025-01-06
+- Id card.pdf | 191545 | 2025-01-05
+- footer-section/footer-section-v1.0.pdf | 8898863 | 2024-12-17
+- footer-section/footer-section-v1.1.pdf | 9154989 | 2024-12-17
+- vishnu - 1.pptx | 789220 | 2025-02-24
+- Search-bar/Searchbar_2.pdf | 702104 | 2024-12-30
+- Search-bar/Display products with a popup.pdf | 1160766 | 2024-12-30
+- Search-bar/Searchbar_1.pdf | 691729 | 2024-12-30
+- Search-bar/Searchbar_3.pdf | 692307 | 2024-12-30
+- home-page/UI UX Design Changelog 2.gdoc.html | 459 | 2026-01-01
+- 01-jan-2024-batch-trainee(1).xlsx | 62748 | 2025-01-23
+- home-page/concept-4-v0.1.5 (yellow).pdf | 7940846 | 2024-10-22
+- home-page/concept-4-v0.1.7 (Blue).pdf | 7959413 | 2024-10-22
+- home-page/concept-4-v0.1.3.pdf | 8005024 | 2024-09-22
+- home-page/concept-4-v0.1.2.pdf | 8029721 | 2024-09-16
+- home-page/concept-4-v0.1.6 (Green).pdf | 7941227 | 2024-10-22
+- home-page/concept-4-v0.1.4.pdf | 7890784 | 2024-09-26
+- home-page/concept-4-v0.1.0.pdf | 27480246 | 2024-09-10
+- home-page/concept-4-v0.1.1.pdf | 4060950 | 2024-09-10
+- home-page/concept-5-v0.1.0.pdf | 2409845 | 2024-08-19
+- home-page/concept-2-v0.1.0.pdf | 3166007 | 2024-08-19
+- home-page/concept-3-v0.1.0.pdf | 2862024 | 2024-08-11
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03123.JPG | 11960320 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03122.JPG | 12582912 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03121.JPG | 12845056 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03120.JPG | 13172736 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03118.JPG | 12353536 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03119.JPG | 12943360 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03117.JPG | 13565952 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03115.JPG | 13008896 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03116.JPG | 12943360 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03113.JPG | 14155776 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03114.JPG | 14123008 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03112.JPG | 13565952 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03111.JPG | 13565952 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03110.JPG | 13336576 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03109.JPG | 13467648 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03108.JPG | 13008896 | 2018-01-26
+- act-completion.pptx | 519894 | 2025-02-24
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03107.JPG | 12976128 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03105.JPG | 12976128 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03106.JPG | 13107200 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03103.JPG | 12845056 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03104.JPG | 13107200 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03102.JPG | 12550144 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03100.JPG | 14254080 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03101.JPG | 13402112 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03099.JPG | 14024704 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03098.JPG | 11436032 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03097.JPG | 10780672 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03096.JPG | 10878976 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03095.JPG | 13041664 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03094.JPG | 12943360 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03093.JPG | 13598720 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03092.JPG | 13303808 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03090.JPG | 13041664 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03091.JPG | 13467648 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03089.JPG | 12910592 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03087.JPG | 12943360 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03088.JPG | 12877824 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03086.JPG | 13598720 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03085.JPG | 12320768 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03084.JPG | 12320768 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03083.JPG | 12451840 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03081.JPG | 12582912 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03080.JPG | 12517376 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03077.JPG | 11632640 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03079.JPG | 12320768 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03078.JPG | 11862016 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03074.JPG | 11010048 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03075.JPG | 10256384 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03073.JPG | 10649600 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03072.JPG | 11894784 | 2018-01-26
+- product-page/archive/product selection page polarizers - v3.1.pdf.pdf | 2302348 | 2024-12-12
+- product-page/archive/product selection page Retarder - v3.1.pdf.pdf | 3363330 | 2024-12-12
+- product-page/archive/product selection page Prisms - v3.1.pdf.pdf | 2611482 | 2024-12-12
+- product-page/archive/product selection page Mirrors and Plates - v3.1.pdf.pdf | 2607585 | 2024-12-12
+- product-page/archive/product selection page Lenses and Objectives - v3.1.pdf.pdf | 2625834 | 2024-12-12
+- product-page/archive/product selection page Mechanics - v3.1.pdf.pdf | 2633207 | 2024-12-12
+- product-page/archive/product-pages-www.b-halle.de | 1640462 | 2024-12-11
+- product-page/archive/product selection page polarizers - v3.pdf | 2130735 | 2024-12-10
+- product-page/archive/product selection page polarizers - v1.pdf | 2318408 | 2024-11-27
+- product-page/archive/product selection page polarizers -v2.pdf | 1914565 | 2024-11-27
+- product-page/archive/product selection page polarizers -v2.1.pdf | 1852547 | 2024-11-27
+- product-page/archive/breadcrumbs ui variation.pdf | 1628913 | 2024-11-26
+- drop-down/drop-down.pdf | 4983851 | 2024-11-13
+- 2-media/2025-01-08-vce/photos/VJP07397.JPG | 9732096 | 2025-01-07
+- published-paper-logo/Published paper logo.jpg | 1235645 | 2024-09-26
+- 2-media/2025-01-08-vce/photos/VJP07399.JPG | 10289152 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07396.JPG | 12320768 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07395.JPG | 12320768 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07392.JPG | 10911744 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07393.JPG | 11436032 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07390.JPG | 11436032 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07391.JPG | 11501568 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07389.JPG | 10780672 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07387.JPG | 11370496 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07386.JPG | 10387456 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07385.JPG | 9306112 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07384.JPG | 9568256 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07383.JPG | 9830400 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07382.JPG | 10190848 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07380.JPG | 10125312 | 2025-01-07
+- footer-section/footer-section-v1.0.pdf-drive-comments.html | 4596 | 2024-12-17
+- 2-media/2025-01-08-vce/photos/VJP07379.JPG | 9699328 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07378.JPG | 9732096 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07377.JPG | 10452992 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07376.JPG | 10780672 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07374.JPG | 10616832 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07372.JPG | 11599872 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07369.JPG | 10387456 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07370.JPG | 10518528 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07371.JPG | 10518528 | 2025-01-07
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03071.JPG | 11042816 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03070.JPG | 11173888 | 2018-01-26
+- home-page/concept-4-v0.1.3.pdf-drive-comments.html | 4196 | 2024-09-22
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03069.JPG | 10584064 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03066.JPG | 8650752 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03067.JPG | 9043968 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03065.JPG | 8781824 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03064.JPG | 8552448 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03063.JPG | 8716288 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03062.JPG | 10977280 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03061.JPG | 10452992 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03060.JPG | 10518528 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03058.JPG | 9371648 | 2018-01-26
+- home-page/concept-4-v0.1.2.pdf-drive-comments.html | 12325 | 2024-09-16
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03059.JPG | 9994240 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03057.JPG | 9175040 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03056.JPG | 9895936 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03055.JPG | 9764864 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03051.JPG | 10715136 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03053.JPG | 11698176 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03050.JPG | 10420224 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03049.JPG | 9895936 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03048.JPG | 9469952 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03046.JPG | 9699328 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03047.JPG | 9076736 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03045.JPG | 10027008 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03044.JPG | 9207808 | 2018-01-26
+- product-page/archive/Working-product-page/product selection page polarizers - v3.1.pdf.pdf | 3069774 | 2024-12-18
+- product-page/archive/Working-product-page/product selection page Prisms - v3.1.pdf.pdf | 3279795 | 2024-12-18
+- product-page/archive/Working-product-page/product selection page Lenses and Objectives - v3.1.pdf.pdf | 3171261 | 2024-12-18
+- product-page/archive/Working-product-page/product selection page Mechanics - v3.1.pdf.pdf | 2634642 | 2024-12-18
+- product-page/archive/Working-product-page/product selection page Mirrors and Plates - v3.1.pdf.pdf | 3266221 | 2024-12-18
+- product-page/archive/Working-product-page/product selection page Retarder - v3.1.pdf.pdf | 3490716 | 2024-12-18
+- 7-external-workshop/vcet/ece/media/1-videos/C0012.MP4-captions.txt | 101 | 2018-01-26
+- product-page/archive/Working-product-page/product selection page polarizers -4.pdf | 2291184 | 2024-12-11
+- 7-external-workshop/vcet/ece/media/1-videos/C0014.MP4 | 75506770 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0013.MP4 | 151009956 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0012.MP4 | 104869042 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0011.MP4 | 46144026 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0008.MP4-captions.txt | 101 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0009.MP4 | 25171078 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0010.MP4 | 37754942 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0008.MP4 | 88090634 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0006.MP4-captions.txt | 96 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0007.MP4 | 54533586 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0006.MP4 | 58728126 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0005.MP4 | 79701550 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0001.MP4-captions.txt | 101 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0003.MP4 | 67117686 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0004.MP4 | 46144502 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0002.MP4 | 25171078 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/1-videos/C0001.MP4 | 46144502 | 2018-01-26
+- 2-media/2025-01-08-vce/photos/VJP07367.JPG | 10649600 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07366.JPG | 12222464 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07365.JPG | 12025856 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07361.JPG | 7634944 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07364.JPG | 8257536 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07359.JPG | 9207808 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07360.JPG | 8912896 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07358.JPG | 8814592 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07357.JPG | 8847360 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07355.JPG | 11599872 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07354.JPG | 12419072 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07353.JPG | 11075584 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07352.JPG | 9633792 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07351.JPG | 9502720 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07349.JPG | 12550144 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07350.JPG | 9109504 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07347.JPG | 9797632 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07344.JPG | 9371648 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07343.JPG | 13271040 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07340.JPG | 10715136 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07339.JPG | 9764864 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07338.JPG | 11468800 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07337.JPG | 11206656 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07336.JPG | 10846208 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07333.JPG | 10321920 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07335.JPG | 10846208 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07334.JPG | 10059776 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07332.JPG | 10747904 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07328.JPG | 11272192 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07327.JPG | 8192000 | 2025-01-07
+- product-page/archive/product selection page Prisms - v3.1.pdf.pdf-drive-comments.html | 9659 | 2024-12-12
+- product-page/archive/product selection page polarizers - v3.1.pdf.pdf-drive-comments.html | 5133 | 2024-12-12
+- 2-media/2025-01-08-vce/photos/VJP07326.JPG | 8978432 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07325.JPG | 12288000 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07322.JPG | 10387456 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07318.JPG | 9764864 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07317.JPG | 9240576 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07315.JPG | 8749056 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07316.JPG | 9109504 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07314.JPG | 8486912 | 2025-01-07
+- product-page/archive/product selection page Lenses and Objectives - v3.1.pdf.pdf-drive-comments.html | 7393 | 2024-12-12
+- 2-media/2025-01-08-vce/photos/VJP07313.JPG | 10584064 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07312.JPG | 10223616 | 2025-01-07
+- 2-media/2025-01-08-vce/photos/VJP07311.JPG | 10420224 | 2025-01-07
+- product-page/archive/product selection page Mechanics - v3.1.pdf.pdf-drive-comments.html | 7426 | 2024-12-12
+- 2-media/2025-01-08-vce/photos/VJP07308.JPG | 11960320 | 2025-01-07
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03043.JPG | 9699328 | 2018-01-26
+- product-page/archive/product selection page Mirrors and Plates - v3.1.pdf.pdf-drive-comments.html | 6770 | 2024-12-12
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03041.JPG | 10321920 | 2018-01-26
+- product-page/archive/product selection page Retarder - v3.1.pdf.pdf-drive-comments.html | 10258 | 2024-12-12
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03042.JPG | 11632640 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03040.JPG | 10125312 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03039.JPG | 9797632 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03037.JPG | 10027008 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03038.JPG | 10256384 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03035.JPG | 12156928 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03034.JPG | 12156928 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03036.JPG | 13008896 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03030.JPG | 11665408 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03031.JPG | 12091392 | 2018-01-26
+- product-page/archive/product selection page polarizers - v3.pdf-drive-comments.html | 6316 | 2024-12-10
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03033.JPG | 11993088 | 2018-01-26
+- product-page/archive/product-pages-www.b-halle.de-drive-comments.html | 6619 | 2024-12-11
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03029.JPG | 12320768 | 2018-01-26
+- product-page/archive/product selection page polarizers - v1.pdf-drive-comments.html | 5892 | 2024-11-27
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03028.JPG | 12288000 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03027.JPG | 11960320 | 2018-01-26
+- UI-UX-syllabus.docx | 19852 | 2024-12-03
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03026.JPG | 12288000 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03024.JPG | 10813440 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03025.JPG | 12025856 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03023.JPG | 11698176 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03022.JPG | 12189696 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03020.JPG | 9502720 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03021.JPG | 13008896 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03017.JPG | 10289152 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03018.JPG | 12681216 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03016.JPG | 11927552 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03019.JPG | 9142272 | 2018-01-26
+- 7-external-workshop/vcet/ece/docs/agenda.docx | 394152 | 2025-02-19
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03015.JPG | 12582912 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03014.JPG | 11304960 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03013.JPG | 12517376 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03012.JPG | 12550144 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03010.JPG | 10747904 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03011.JPG | 10813440 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03008.JPG | 10289152 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03009.JPG | 10878976 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03007.JPG | 10158080 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03006.JPG | 9338880 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03005.JPG | 12255232 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03004.JPG | 11403264 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03003.JPG | 11698176 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03002.JPG | 12746752 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03001.JPG | 12845056 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP03000.JPG | 12877824 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02998.JPG | 11632640 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02999.JPG | 11862016 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02995.JPG | 11993088 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02993.JPG | 10485760 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02996.JPG | 12845056 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02997.JPG | 10452992 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02994.JPG | 10911744 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02992.JPG | 10715136 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02991.JPG | 10813440 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02990.JPG | 10518528 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02989.JPG | 13172736 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02988.JPG | 12386304 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02985.JPG | 12550144 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02987.JPG | 12484608 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02986.JPG | 12484608 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02984.JPG | 11730944 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02983.JPG | 11567104 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02980.JPG | 12222464 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02982.JPG | 11567104 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02981.JPG | 11403264 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02979.JPG | 12255232 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02973.JPG | 6979584 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02977.JPG | 9469952 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02975.JPG | 10715136 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02974.JPG | 7766016 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02970.JPG | 9437184 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02972.JPG | 7307264 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02969.JPG | 12419072 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02968.JPG | 12681216 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02967.JPG | 13369344 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02965.JPG | 14352384 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02966.JPG | 10747904 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02961.JPG | 13762560 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02963.JPG | 13533184 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02956.JPG | 11501568 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02959.JPG | 13828096 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02952.JPG | 13008896 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02953.JPG | 12845056 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02950.JPG | 14614528 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02948.JPG | 12222464 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02949.JPG | 11894784 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02947.JPG | 11632640 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02946.JPG | 11960320 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02945.JPG | 11436032 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02944.JPG | 11501568 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02942.JPG | 14221312 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02941.JPG | 11173888 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02938.JPG | 13139968 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02937.JPG | 11960320 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02935.JPG | 14712832 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02936.JPG | 14647296 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02934.JPG | 15106048 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02933.JPG | 15204352 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02932.JPG | 15630336 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02930.JPG | 13565952 | 2018-01-26
+- 7-external-workshop/vcet/ece/docs/ui_ux-workshop-plan.docx | 397232 | 2025-02-20
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02929.JPG | 13434880 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02931.JPG | 14123008 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02928.JPG | 12419072 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02926.JPG | 14811136 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02925.JPG | 13991936 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02927.JPG | 14188544 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02924.JPG | 14450688 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02922.JPG | 14221312 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02920.JPG | 14680064 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02921.JPG | 14974976 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02919.JPG | 14090240 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02916.JPG | 13926400 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02917.JPG | 14286848 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02918.JPG | 12713984 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02915.JPG | 14254080 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02914.JPG | 14712832 | 2018-01-26
+- 7-external-workshop/vcet/ece/media/0-photos/VJP02913.JPG | 13926400 | 2018-01-26
+- product-page/project-selection-page/user-flow-comparison.docx | 9826 | 2025-05-22
+- 7-external-workshop/vcet/ece/docs/uiux-course-plan.docx | 399323 | 2025-02-19
+- 7-external-workshop/vcet/ece/docs/Confirmation-Students.docx | 396186 | 2025-03-08
+- vishnu - 3.pptx | 786761 | 2025-02-24
+-  halle-audit.xlsx | 2072825 | 2026-01-08
+- Hospity - Mother and Child Presentation Template.pptx | 2146637 | 2025-01-04
+-  ui-ux-trainee-syllabus.docx | 406517 | 2025-01-06
+- Hospity - Mother and Child Presentation Template(1).pptx | 2146629 | 2025-01-04
+- test/copy-halle-test-report.xlsx | 18123616 | 2026-08-21
+- web-video-02/web-video-02.mp4 | 1453818 | 2025-11-18

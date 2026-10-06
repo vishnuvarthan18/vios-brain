@@ -1,0 +1,7 @@
+---
+source: personal Mac ~/india-monorepo/ops-console/requirements-dev.txt
+---
+
+-r requirements.txt
+pytest==8.3.4
+httpx==0.28.1

@@ -1,0 +1,428 @@
+---
+tags: me
+source: Google Takeout 2026-10-06
+---
+# Online activity
+
+## Chrome bookmarks
+- Many of you aren’t utilizing Neville’s inner conversation technique enough! : r/NevilleGoddard | https://www.reddit.com/r/NevilleGoddard/comments/ub9z6j/many_of_you_arent_utilizing_nevilles_inner/
+- MATLAB - Wikipedia | https://en.wikipedia.org/wiki/MATLAB
+- Simulink - Wikipedia | https://en.wikipedia.org/wiki/Simulink
+- Registration | https://world-of-photonics-india.com/en/trade-fair/tickets/
+- Elearning | https://learning.pmi.org/course
+- Powerful Workflow Automation Software & Tools - n8n | https://n8n.io/
+- filler zero - Google Search | https://www.google.com/search
+- Monica - Your ChatGPT AI Assistant Chrome Extension | https://monica.im/home/chat/Monica/monica
+- Conference Event Promo, Openers ft. blog & Church Event - Envato | https://envato.prideseotools.com/conference-event-promo-263UDLQ
+- Event Expo Promo, Openers ft. advertising & blog - Envato | https://envato.prideseotools.com/event-expo-promo-QKJKRHY
+- Six Karma - Wear it with your Attitude | https://sixkarma.com/products/endless-knot-karma-symbol-vikings-blue-glow-in-dark-resin-handcrafted-pendant
+- Branding, Digital and Creative Design Agency | https://oneandonlydesign.in/
+- Fluid - Pickleball Club & Tournament Management | https://www.fluidpb.com/
+- Presentations.AI - ChatGPT for Presentations | https://www.presentations.ai/
+- My account - Simon Sinek | https://simonsinek.com/my-account/
+- Explore stock screens - Screener | https://www.screener.in/explore/
+- Aravinth's Calendar | https://aracreate.group/cal
+- Wildlife Hunting And Trade - Centre for Wildlife Studies | https://cwsindia.org/wildlife-hunting-and-trade/
+- Request API Access - eBird | https://ebird.org/api/keygen
+- WILDLABS.NET | https://wildlabs.net/en
+- Tiger (Panthera tigris) – Habitat, Sightings & Conservation | Wild Atlas | https://www.wildatlas.in/animals/tiger
+- Overview · India Data Platform | https://ops.vidivu.in/
+- TNFWCCB - Home | https://tnfwccb.com/
+- Tamil Nadu Wilderness Experiences Corporation | https://www.tnwec.com/
+- Tamil Data Collector — status | https://vishnuvarthan18.github.io/tamil-data-dashboard/#data
+-  | https://claude.ai/cowork/cse_01VXXD96mtXe9vuVxsYDDnqY
+- Test the picker on the real site | about:invalid#zGuavaz
+- Boards in ID Team - Miro | https://miro.com/app/dashboard/
+- Technology | Dezeen | https://www.dezeen.com/technology/
+- designboom magazine | your first source for architecture, design & art news | https://www.designboom.com/
+- Core77 / Industrial Design Magazine + Resource | https://www.core77.com/
+- ADPList: Mentors | https://adplist.org/explore
+- Interview prep for product, engineering, data science, and more - Exponent | https://www.tryexponent.com/
+- v0 by Vercel | https://v0.app/
+- Julius: Chat with your data | https://julius.ai/product/chat-with-your-data
+- Works | Hostinger Website Builder | https://builder.hostinger.com/AQEe3ab30XfpVyDz
+- Job Search India | Indeed | https://in.indeed.com/
+- Search Jobs Online | Hire Candidates | Post a Job | apna.co | https://apna.co/
+- Directory | Y Combinator's Work at a Startup | https://www.workatastartup.com/companies
+- Home | Mynaukri | https://www.naukri.com/mnjuser/homepage
+- Jobs - Job Search 2025 - Latest Job Vacancies - Recruitment - Shine.com | https://www.shine.com/
+- Jobs Search | Recruitment | Employment | Job Vacancies | TimesJobs | https://m.timesjobs.com/
+- Jobs: 9357 Job Vacancies & Openings in India | Search Jobs Online | https://internshala.com/jobs/
+- Jobs: Search Jobs In India, Freshers Jobs Online, Govt Jobs, Recruitment | Freshersworld.com | https://www.freshersworld.com/
+- Cutshort: Making Top Professionals More Successful. | https://cutshort.io/
+- Welcome | Index | https://cdn.digialm.com/EForms/configuredHtml/1258/94260/Index.html
+- (1) LinkedIn | https://www.linkedin.com/jobs/search-results/
+- Home | Hostinger Website Builder | https://builder.hostinger.com/mk34yy0ra4ij68B2
+- Vishnuvarthan | Resume | Project Management & Product Design | https://vishnuvarthan.muradecors.com/vishnuvarthan-resume.pdf
+- Picklezone | https://www.picklezone.com/
+- Peared | https://www.peared.io/
+- thangamayil.com/Digigold?srsltid=AfmBOop2i8NtFqIJ0WRn0fNhIRH9NtAeLYnxGz7NFLItNoLTJi4u6FLW | https://www.thangamayil.com/Digigold
+- Asia Berlin | https://asia.berlin/
+- Valispace – Where the world builds hardware | https://www.valispace.com/
+- Ode to Accounting | https://odetoaccounting.com/
+- getdesign.md — DESIGN.md collection for AI coding agents | https://getdesign.md/
+- OVHcloud | https://manager.us.ovhcloud.com/
+- user experience jobs bangalore | https://www.google.com/search
+- My Account – Madras Bar Association | https://www.madrasbarassociation.in/my-account/
+- Capx · Infrastructure for Agent-Run Companies | https://www.capx.ai/
+- MotionSites AI — Official Premium AI Website Prompts | https://motionsites.ai/
+- Vacancy Notices | Ministry of Electronics and Information Technology, Government of India | https://www.meity.gov.in/vacancies
+- canva pro free  | https://bingotingo.com/best-social-media-platforms/
+- Quixel Bridge - Manage 3D content and export with one click | https://quixel.com/bridge
+- careers.zohocorp.com/candidateportal/application | https://careers.zohocorp.com/candidateportal/application
+- Careers | UX Design Agency| Parallel | https://www.parallelhq.com/careers#jobform-1366790
+- Behance | https://www.behance.net/vishnusniper
+- Bombay Shaving Company CYOB | https://www.bombayshavingcompany.com/apps/gbb/easybundle/34
+
+## Top websites (Chrome visits)
+- 55514 instagram.com
+- 43362 google.com
+- 12556 youtube.com
+- 11654 linkedin.com
+- 5308 amazon.in
+- 3940 app.flutterflow.io
+- 3851 docs.google.com
+- 3843 mail.google.com
+- 2826 music.youtube.com
+- 2207 localhost:8000
+- 2073 photos.google.com
+- 1989 localhost:3000
+- 1618 skyscanner.co.in
+- 1559 figma.com
+- 1416 dash.cloudflare.com
+- 1307 claude.ai
+- 1224 deepstatemap.live
+- 1160 web.telegram.org
+- 1095 airtribe.live
+- 1021 drive.google.com
+- 972 gemini.google.com
+- 959 github.com
+- 925 accounts.google.com
+- 795 hpanel.hostinger.com
+- 741 makemytrip.com
+- 731 notion.so
+- 701 chatgpt.com
+- 677 aracreate.m.frappe.cloud
+- 645 web.whatsapp.com
+- 632 supabase.com
+- 627 airtribe.notion.site
+- 611 localhost:5173
+- 593 calendar.google.com
+- 557 zostel.com
+- 542 vcet.aracreate.academy
+- 497 labs.google
+- 495 in.bookmyshow.com
+- 488 flipkart.com
+- 479 127.0.0.1:5500
+- 445 results.eci.gov.in
+- 425 decathlon.in
+- 401 vercel.com
+- 363 hotstar.com
+- 363 irctc.co.in
+- 323 airbnb.co.in
+- 313 localhost:3001
+- 306 one.google.com
+- 295 manager.us.ovhcloud.com
+- 295 marinetraffic.com
+- 292 dev.arametrics.app
+- 286 cursor.com
+- 265 apple.com
+- 259 apps.b-halle.de
+- 252 spaceappschallenge.org
+- 245 instamart.swiggy.com
+- 239 feedback.arametrics.app
+- 237 groww.in
+- 210 in.store.ui.com
+- 209 lenskart.com
+- 207 ops.vidivu.in
+- 202 x.com
+- 202 plastic-volcano-744.notion.site
+- 199 facebook.com
+- 197 reddit.com
+- 196 mail.zoho.in
+- 195 console.hetzner.com
+- 185 airdigital.store
+- 185 localhost:6006
+- 184 halle-dev.webflow.io
+- 184 in.pinterest.com
+- 184 admin.cloud.microsoft
+- 183 timesofindia.indiatimes.com
+- 178 redbus.in
+- 174 webflow.com
+- 168 croma.com
+- 158 en.wikipedia.org
+- 157 localhost:6007
+- 155 app.clockify.me
+- 148 jmail.world
+- 142 bigrock.in
+- 142 vishnuvarthan18.github.io
+- 140 mailadmin.zoho.in
+- 139 console.cloud.google.com
+- 136 radix-ui.com
+- 134 engine.sathyamangalam.online
+- 133 goindigo.in
+- 132 localhost:4319
+- 127 app.onecal.io
+- 126 tracxn.com
+- 126 play.google.com
+- 124 muradecors.com
+- 121 acmetestco.harvestapp.com
+- 121 firefly.adobe.com
+- 119 entra.microsoft.com
+- 116 mobbin.com
+- 114 app.calendarbridge.com
+- 113 localhost:3002
+- 113 auth.hostinger.com
+- 112 ci.policybazaar.com
+- 109 strava.com
+- 109 localhost:3100
+- 108 hostinger.com
+- 108 console.sakana.ai
+- 105 maharajamultiplex.in
+- 103 idcs-308b1a3556454cf489457b10aafe725a.identity.oraclecloud.com
+- 102 researchgate.net
+- 102 glassdoor.co.in
+- 101 focus.toggl.com
+- 101 bajajfinserv.in
+- 101 zee5.com
+- 100 passbook.epfindia.gov.in
+- 99 aracreate.group
+- 96 adobe.com
+- 95 notes.40-160-137-239.sslip.io
+- 95 theregenroom.co.uk
+- 94 sathyamangalam.online
+- 94 linear.app
+- 93 login.microsoftonline.com
+- 93 web.umang.gov.in
+- 92 chrome-extension:
+- 92 login.live.com
+- 91 cutshort.io
+- 90 app.hubstaff.com
+- 90 motionsites.ai
+- 90 myaccount.policybazaar.com
+- 89 app.cal.com
+- 88 127.0.0.1:8000
+- 88 accenture.com
+- 88 foundit.in
+- 87 justdial.com
+- 87 acrobat.adobe.com
+- 86 primevideo.com
+- 86 127.0.0.1:4000
+- 86 stitch.withgoogle.com
+- 85 passwords.google.com
+- 85 sketchfab.com
+- 85 jiomart.com
+- 85 tnvelaivaaippu.gov.in
+- 83 naukri.com
+- 82 technosport.in
+- 82 perplexity.ai
+- 81 account.adobe.com
+- 81 therighthairstyles.com
+- 80 paypal.com
+- 80 sbicard.com
+- 79 meesho.com
+- 79 netflix.com
+- 77 eu.store.ui.com
+
+## YouTube top channels (0)
+- 621 Hiphop Tamizha - Topic
+- 541 Anirudh Ravichander - Topic
+- 372 Sai Abhyankkar - Topic
+- 327 Think Music India
+- 324 A. R. Rahman - Topic
+- 299 Kaber Vasuki - Topic
+- 277 Chanakyaa
+- 223 HiphopTamizha
+- 175 MC SAI - Topic
+- 170 Santhosh Narayanan - Topic
+- 169 Yuvan Shankar Raja - Topic
+- 165 Release - Topic
+- 161 BlackSheep TV
+- 149 Savukku Media Network
+- 127 kisthenics
+- 123 Kaathadi club
+- 122 T-Series
+- 116 Paal Dabba - Topic
+- 115 A2D Channel
+- 110 Sivabalan_Singam
+- 109 G. V. Prakash Kumar - Topic
+- 103 MH AMALDAS
+- 96 Harris Jayaraj - Topic
+- 93 D_Loki
+- 93 Asal Kolaar - Topic
+- 87 DEEPAK SB
+- 84 Tech Satire
+- 81 Vallal Media
+- 79 Sun TV
+- 79 RuralBytesTamil
+- 77 Varun Talks
+- 76 SonyMusicSouthVEVO
+- 74 BWT Vlogs
+- 74 Arasiyal Sadhurangam
+- 73 கேபர் வாசுகி 
+- 72 Japan Tamil Bros
+- 71 RAJ Files
+- 70 Balu
+- 70 GrooT R6
+- 65 Arivu - Topic
+- 64 Asal Kolaar
+- 62 Saregama Tamil
+- 61 Auto Zoom
+- 59 Sean Roldan - Topic
+- 57 TechWiser
+- 57 FOOD IMPRAMATION
+- 53 Mr.kettaven
+- 52 Ganesh BE MBA🎓
+- 52 Loki Man
+- 52 Tech SuperStar
+- 52 Cbz Karthik Anna 
+- 52 Cineulagam
+- 51 Vaibhav Sisinty
+- 49 Sony Music South
+- 49 Ratty Adhiththan - Topic
+- 48 Paal Dabba
+- 47 Nuke It
+- 47 PuthiyathalaimuraiTV
+- 47 HTX Studio
+- 46 Shadhik Azeez
+- 46 Cookd
+- 46 FWF - Fun with Fabby
+- 45 Shashwat Sachdev - Topic
+- 44 Peppa Foodie
+- 44 carandbike
+- 44 NewsTamil 24X7
+- 43 Jishthetics
+- 43 Sail with Sakthi
+- 42 FORMULA 1
+- 42 BBC News Tamil
+- 41 Racer._.TTFvasan._.1M
+- 40 Explore with Epaphra
+- 40 Henrique Camacho
+- 39 PowerDrift
+- 38 Polimer News
+- 37 TAMIL EEK
+- 37 PR3_IN
+- 37 KeerthiSowmi Vlogs
+- 36 Out of Focus
+- 34 ofRO - Topic
+- 34 Poli Couple💃🕺
+- 33 Govind Vasantha - Topic
+- 33 Pradeep Kumar - Topic
+- 33 SENTI BEE
+- 33 Forrest&#39;s Auto Reviews
+- 33 Austin Mollno
+- 32 Sony Music India
+- 31 Tech Boss
+- 31 VibeWithShiny 
+- 30 Asro Vlogs
+- 30 ZigWheels
+- 30 goofygen
+- 30 Shiva_entertainment
+- 30 Saregama Music
+- 29 MPower By Maathevan
+- 29 Mad Vise
+- 28 Gobinath
+- 28 K.Annamalai
+- 27 Satirical Citizen
+- 27 Vaisagh - Topic
+
+## YouTube top channels (6)
+- 41 Vijay Television
+- 23 SonyMusicSouthVEVO
+- 22 Think Music India
+- 21 Maridhas Answers
+- 19 Sriram Selvan
+- 14 Sun NXT
+- 11 HiphopTamizha
+- 10 Sony Music South
+- 10 A2D Channel
+- 9 FR8
+- 8 Dinamalar
+- 7 Saregama Tamil
+- 7 VET IAS
+- 7 The REGEN Room
+- 7 MotoWagon
+- 7 PuthiyathalaimuraiTV
+- 6 Galatta Voice
+- 6 Birlas Parvai
+- 5 Galatta Tamil | கலாட்டா தமிழ்
+- 5 Tiger Abishak 17 
+- 5 Madan Gowri
+- 5 Vikkals
+- 5 Tech Boss
+- 5 Saregama Malayalam
+- 5 Cheran Academy
+- 5 Sun TV
+- 5 Buying Facts
+- 5 araCreate Group
+- 5 Ayngaran
+- 4 YouCanBookMe Online Scheduling
+- 4 Asal Kolaar
+- 4 Krish &amp; Aish
+- 4 Polimer News
+- 4 Jeff Su
+- 4 AP International
+- 4 Vinh Giang
+- 4 Aditya Music Tamil
+- 3 Tech SuperStar
+- 3 Thanthi TV
+- 3 Rednool
+- 3 Sony Music Malayalam
+- 3 Chanakyaa
+- 3 Quiet Quest - Study Music
+- 3 TED
+- 3 Y Combinator
+- 3 Website Learners
+- 3 Ayngaran Music
+- 3 KTV
+- 3 IDHAYAM TV
+- 3 ramkumarcomic
+- 3 Think Tapes
+- 2 Yar
+- 2 Easytorial
+- 2 Dan Martell
+- 2 Webflow
+- 2 Vj Siddhu Vlogs
+- 2 JetBrains
+- 2 Stuart Barker
+- 2 GSAP Learning
+- 2 BPW Businessplan-Wettbewerb Berlin-Brandenburg
+- 2 Carmemes Tamil
+- 2 men in hills
+- 2 Naveen Ricky
+- 2 Sambavam
+- 2 ABP Nadu
+- 2 kkb kaili king
+- 2 Quicklution Software
+- 2 Neelam Social
+- 2 Behindwoods TV
+- 2 g502911
+- 2 Tamil Pokkisham
+- 2 Pradeep Kumar
+- 2 Mark Tilbury
+- 2 Aldrin Ax
+- 2 Cinema Vikatan
+- 2 BIKE CARE 360* TAMIL
+- 2 EO
+- 2 Design plus Morna
+- 2 Pitching Keys
+- 2 Wunderbar Films
+- 2 Tnnews24 digital
+- 2 Nirmal Pillai
+- 2 Faisal Khan
+- 2 Tomi | Midas
+- 2 NileRed
+- 2 Thirupathi Rajan
+- 2 Ilaya Bharatham-இளைய பாரதம் 
+- 2 Cini Clips
+- 2 AutoTrend தமிழ் Channel 💚
+- 2 Junglee Music Tamil
+- 2 Raw Studios
+- 2 HyundaiIndia
+- 2 Hypermatic Figma Tutorials
+- 2 Deep Chill Music
+- 2 Vels Music International
+- 2 Shafi Zone
+- 2 அடுத்து என்ன - WHAT NEXT???
+- 2 2D Entertainment
+- 2 IndiaMarvel

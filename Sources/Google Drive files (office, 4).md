@@ -1,0 +1,592 @@
+---
+tags: source
+---
+# Google Drive file list — office (files stay in Google Drive)
+
+Path | bytes | date
+
+- Venkaateswari.xlsx | 57337 | 2026-06-08
+- iso/iso-27001/7-archive/duplicate-aci-pol-082.docx | 400079 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-045.docx | 389700 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-054.docx | 392450 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-065.docx | 392351 | 2026-06-12
+- iso/iso-27001/7-archive/duplicate-change-management-procedure.docx | 364436 | 2026-05-11
+- Sanctioned Employees Vacancy Details Report 2026-10-02 (2).xlsx | 20436 | 2026-10-01
+- iso/iso-27001/7-archive/master-list.xlsx | 12273 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-055.docx | 393383 | 2026-06-12
+- iso/iso-27001/7-archive/duplicate-authentication-information-policy.docx | 364470 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-056.docx | 391717 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-057.docx | 391630 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-043.docx | 389955 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-062.docx | 392466 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-059.docx | 391180 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-048.docx | 389743 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-047.docx | 390856 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-049.docx | 391756 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-052.docx | 390397 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-041.docx | 389421 | 2026-06-12
+- iso/iso-27001/7-archive/cryptography-control-procedure.docx | 401115 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-063.docx | 392689 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-051.docx | 390775 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-058.docx | 391052 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-042.docx | 390501 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-046.docx | 391138 | 2026-06-12
+- personal/secured_instagram.zip | 142820225 | 2026-08-16
+- iso/iso-27001/2-Policies/aci-pol-060.docx | 392612 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-040.docx | 389879 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-044.docx | 390078 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-042.docx | 391694 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-008.docx | 390179 | 2026-06-13
+- iso/iso-27001/2-Policies/aci-pol-050.docx | 391129 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-040.docx | 390126 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-038.docx | 389837 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-043.docx | 354519 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-041.docx | 390378 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-036.docx | 389574 | 2026-06-12
+- Google Forms User Data/Form Draft Responses.csv | 385 | 2026-10-06
+- iso/iso-27001/3-Procedures/aci-pro-037.docx | 390477 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-035.docx | 389848 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-034.docx | 392423 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-039.docx | 389733 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-017.docx | 398871 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-064.docx | 388411 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-003.docx | 389926 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-012.docx | 390049 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-010.docx | 390637 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-032.docx | 390024 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-030.docx | 389696 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-021.docx | 389364 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-014.docx | 390131 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-024.docx | 354575 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-029.docx | 389730 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-031.docx | 389307 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-033.docx | 389552 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-005.docx | 389482 | 2026-06-12
+- iso/iso-27001/4-Annex-A/A5-organization-control/responsiblity-metrics.xlsx | 9481 | 2026-05-10
+- iso/iso-27001/4-Annex-A/A5-organization-control/organizaional-control-risk-register.xlsx | 6768 | 2026-06-14
+- iso/iso-27001/3-Procedures/aci-pro-002.docx | 389619 | 2026-06-12
+- iso/iso-27001/1-Clauses/clause-5/5.1 Information Security Policy.xlsx | 7611 | 2026-05-11
+- iso/iso-27001/4-Annex-A/A8-technical-controls/technical-control-related.xlsx | 6663 | 2026-05-12
+- iso/iso-27001/4-Annex-A/A6-people-controls/people-control-related.xlsx | 6598 | 2026-06-12
+- iso/iso-27001/4-Annex-A/A8-technical-controls/user-access-matrix.xlsx | 7824 | 2026-05-10
+- iso/iso-27001/4-Annex-A/A7-physical-controls/physical-control-related.xlsx | 6569 | 2026-05-12
+- iso/iso-27001/4-Annex-A/A7-physical-controls/aci-physical-perimeter.jpeg | 53716 | 2026-02-08
+- iso/iso-27001/5-Evidence/Common-Evidence/aci-iso-trainning-record.xlsx | 12951 | 2026-05-08
+- iso/iso-27001/1-Clauses/clause-6/6.1 Risks and Opportunities Analysis.xlsx | 21192 | 2026-05-13
+- iso/iso-27001/2-Policies/aci-pol-053.docx | 391621 | 2026-06-12
+- iso/iso-27001/5-Evidence/Common-Evidence/aci-employee-skills.xlsx | 7306 | 2026-05-11
+- iso/iso-27001/5-Evidence/Common-Evidence/security-incidents.xlsx | 7183 | 2026-05-10
+- iso/iso-27001/5-Evidence/Common-Evidence/iso-training-attendance-record.xlsx | 8130 | 2026-05-09
+- iso/iso-27001/5-Evidence/Common-Evidence/onboarding-checklist-log.xlsx | 6985 | 2026-05-10
+- 2022 EXPENSES .xlsx | 28792 | 2026-06-02
+- table.xlsx | 66684 | 2026-06-02
+- iso/iso-27001/5-Evidence/Common-Evidence/aci-control-related.xlsx | 98628 | 2026-06-14
+- iso/iso-27001/3-Procedures/aci-pro-006.docx | 391421 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-027.docx | 354609 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-019.docx | 389157 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-020.docx | 388816 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-004.docx | 389603 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-023.docx | 355145 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-015.docx | 389376 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-028.docx | 354510 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-025.docx | 354636 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-011.docx | 389111 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-001.docx | 391822 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-026.docx | 354509 | 2026-06-12
+- iso/iso-27001/3-Procedures/change-management-form.xlsx | 9800 | 2026-05-12
+- iso/iso-27001/3-Procedures/aci-pro-009.docx | 390575 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-066.docx | 390088 | 2026-05-26
+- iso/iso-27001/3-Procedures/aci-pro-016.docx | 539371 | 2026-06-12
+- iso/iso-27001/3-Procedures/araCreate Communication Procedure.docx | 322453 | 2026-05-10
+- iso/iso-27001/3-Procedures/aci-pro-022.docx | 354578 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-013.docx | 389732 | 2026-06-12
+- iso/iso-27001/3-Procedures/change-request-form.docx | 319919 | 2026-05-12
+- iso/iso-27001/3-Procedures/aci-pro-007.docx | 389702 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-025.docx | 390375 | 2026-06-12
+- iso/iso-27001/3-Procedures/Document Control Procedure.xlsx | 5735 | 2026-05-10
+- iso/iso-27001/2-Policies/aci-pol-061.docx | 395650 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-035.docx | 389814 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-024.docx | 399333 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-027.docx | 390525 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-032.docx | 389475 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-023.docx | 389420 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-037.docx | 391316 | 2026-06-12
+- iso/iso-27001/3-Procedures/aci-pro-018.docx | 389567 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-031.docx | 389613 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-026.docx | 390858 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-028.docx | 389151 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-034.docx | 389224 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-029.docx | 391404 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-038.docx | 389313 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-039.docx | 390196 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-033.docx | 389349 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-015.docx | 389531 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-010.docx | 390250 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-007.docx | 388784 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-001.docx | 354820 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/user-access-matrix.png | 362900 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-018.docx | 390272 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-036.docx | 389291 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-006.docx | 390408 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-008.docx | 390425 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/2step.png | 317629 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/security-announcement-slack-2026.png | 89726 | 2026-05-10
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/corrective-action-log.xlsx | 7007 | 2026-05-10
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/isms-management-review-meeting-minutes.docx | 394032 | 2026-05-10
+- iso/iso-27001/2-Policies/aci-pol-017.docx | 389920 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/onboarding.png | 94819 | 2026-05-11
+- iso/iso-27001/2-Policies/aci-pol-002.docx | 389750 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-019.docx | 389138 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/information-security-objectives-2026.docx | 394663 | 2026-05-10
+- iso/iso-27001/2-Policies/aci-pol-011.docx | 390374 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-004.docx | 391740 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-005.docx | 390328 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-013.docx | 390253 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-021.docx | 354879 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-003.docx | 390465 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-020.docx | 389659 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-016.docx | 388928 | 2026-06-12
+- iso/iso-27001/6-Audit/isms-mrm-mar-2026.docx | 396258 | 2026-05-13
+- iso/iso-27001/2-Policies/aci-pol-012.docx | 393852 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-030.docx | 389666 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-014.docx | 389163 | 2026-06-12
+- iso/iso-27001/6-Audit/ISMS-MRM-PLN.xlsx | 6357 | 2026-06-14
+- iso/iso-27001/2-Policies/aci-pol-009.docx | 390452 | 2026-06-12
+- iso/iso-27001/2-Policies/aci-pol-022.docx | 391822 | 2026-06-12
+- iso/iso-27001/6-Audit/internal-audit-report.docx | 396375 | 2026-05-13
+- iso/iso-27001/6-Audit/iso-internal-audit-plan.xlsx | 6239 | 2026-05-08
+- iso/iso-27001/6-Audit/iso-training-plan.xlsx | 6330 | 2026-05-09
+- iso/iso-27001/6-Audit/iso-audit-ready.xlsx | 36525 | 2026-05-13
+- iso/iso-27001/6-Audit/iso-int_ext-audit-plan.xlsx | 6483 | 2026-05-08
+- iso/iso-27001/0-Master/business-process-framework.docx | 394423 | 2026-05-14
+- iso/iso-27001/6-Audit/nc-register.xlsx | 34795 | 2026-05-25
+- iso/iso-27001/0-Master/documents-master-list.xlsx | 14199 | 2026-06-12
+- iso/iso-27001/0-Master/iso-template.docx | 395454 | 2026-06-12
+- iso/iso-27001/0-Master/iso-justification.xlsx | 12970 | 2026-05-23
+- iso/iso-27001/0-Master/compliance-register.xlsx | 6945 | 2026-05-10
+- iso/iso-27001/0-Master/aci-isms-required-documents.docx | 588210 | 2026-05-13
+- iso/iso-27001/0-Master/araCreate-isms-scope-v1-0.docx | 394971 | 2026-05-13
+- iso/iso-27001/0-Master/risk-assessment-and-treatment-plan.xlsx | 46367 | 2026-05-11
+- iso/iso-27001/0-Master/ISMS Clause 4.4 – Process Interaction Matrix.xlsx | 476936 | 2026-05-08
+- iso/iso-27001/0-Master/isms-information-security-objectives-register.xlsx | 13660 | 2026-05-12
+- iso/iso-27001/0-Master/iso-27001-checklist.xlsx | 159037 | 2026-03-23
+- iso/iso-27001/0-Master/context-organization.xlsx | 7758 | 2026-05-08
+- iso/iso-27001/0-Master/risk-register-isms-2026.xlsx | 7014 | 2026-05-10
+- iso/iso-27001/0-Master/aci-iso-application.pdf | 597222 | 2026-01-12
+- iso/iso-27001/0-Master/gap-assessment.xlsx | 13411 | 2026-05-12
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/tool-subscription-invoices/Invoice-AJMF6WDD-0006.pdf | 25816 | 2026-05-10
+- iso/iso-27001/0-Master/isms-risk-assessment-and-treatment-plan.xlsx | 46416 | 2026-05-08
+- iso/iso-27001/5-Evidence/Specific/clause-5.1/tool-subscription-invoices/Invoice-AJMF6WDD-0005.pdf | 26078 | 2026-05-10
+- iso/iso-27001/0-Master/aci-policy-template.docx | 387727 | 2026-01-13
+- iso/iso-27001/6-Audit/5-manual/aci-isms-00.docx | 391729 | 2026-05-12
+- iso/iso-27001/0-Master/statement-of-applicability-soa.xlsx | 23972 | 2026-05-19
+- iso/iso-27001/0-Master/isms-interested-parties-register.xlsx | 15437 | 2026-05-13
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-014.docx | 394189 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/02-mdm-evidance.docx | 401422 | 2026-04-06
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-015.docx | 396415 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-000.docx | 393786 | 2026-05-11
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/Aracreate Stage -01 Corrective Action Report (CAR).docx | 279996 | 2026-06-01
+- iso/iso-27001/0-Master/org-chart.docx | 429245 | 2026-05-23
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/org-chart.pdf | 294234 | 2026-05-31
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-013.docx | 397979 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/manual-016.docx | 393999 | 2026-05-12
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/iso-evidance-list.xlsx | 36550 | 2026-04-14
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-011.docx | 393911 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-008.docx | 392975 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-010.docx | 396868 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/aci-isms-00.pdf | 457919 | 2026-05-12
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-009.docx | 393907 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-012.docx | 397287 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-005.docx | 393347 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-007.docx | 394447 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-004.docx | 393589 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/backup-policy/cloud-console-showing-recent-successful-backup.png | 83307 | 2026-04-05
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-001.docx | 394513 | 2026-05-11
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-003.docx | 394084 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/sdlc-policy/pull-request-1.png | 145511 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/sdlc-policy/A8.25-A8.29-SDLC-Evidence.txt | 12360 | 2026-06-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/sdlc-policy/A8.31-A8.34-Environments-Change-Test-Audit-Evidence.txt | 14991 | 2026-06-13
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-002.docx | 396032 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/data-retention-and-disposal-policy/image (6).png | 362900 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/backup-policy/cloud-console-showing-recent-successful-backup-1.png | 74785 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/software-installation-policy/Screenshot 2026-04-07 at 11.23.56.png | 269532 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/server-security-policy/Screenshot 2026-04-07 at 15.38.16.png | 66699 | 2026-04-06
+- iso/iso-27001/6-Audit/5-manual/separate/aci-manual-006.docx | 393511 | 2026-05-11
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/privacy-policy/image (5).png | 351595 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/privacy-policy/A8.18-Privileged-Utility-Programs-Evidence.txt | 5578 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/encryption-policy/ssl-tls-or-https-certificate-details-for-public-facing-domains.png | 63244 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/secure-development-policy/separation-server-with-firewall.png | 82888 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/change-management-procedure/Screenshot 2026-04-07 at 11.52.04.png | 214421 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/secure-development-policy/github-code-access.png | 65238 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/antivirus-policy_/A8.8-Vulnerability-Management-Evidence-2026-06.txt | 15723 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/secure-development-policy/Screenshot 2026-06-14 at 08.06.27.png | 196186 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/secure-development-policy/secrets-in-github.png | 104892 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/software-installation-policy/Screenshot 2026-04-07 at 11.17.55.png | 60046 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/sdlc-policy/pull-request-2.png | 146333 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/antivirus-policy_/mac-mini-os-update.png | 86070 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/secure-development-policy/branch-settings-showing-dev-staging-production-are-separate.png | 22408 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/server-security-policy/Screenshot 2026-04-07 at 15.36.02.png | 187374 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/patch-management-policy/Copy of os-patches-applied.png | 4873 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/antivirus-policy_/os-patches-applied.png | 4873 | 2026-04-05
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/antivirus-policy_/A8.7-macOS-evidence.txt | 534 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/email-policy/image 112.png | 330014 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/A8.15-Logging-Evidenc6.txt | 9703 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/monit-system-performance.png | 357562 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/clock-sync-server.png | 126749 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/image (3).png | 306416 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/Hetzner-Server-Metrics-2026-06.png | 319809 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/network-policy/Screenshot 2026-06-13 at 16.18.34.png | 79641 | 2026-06-12
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/patch-management-policy/Copy of mac-mini-os-update.png | 86070 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/cloud-console-showing-alerts-monitoring-configured-on-servers-or-services.png | 57116 | 2026-04-05
+- Saved from Chrome/URTICARIA.pdf | 3067049 | 2026-05-29
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/monitoring-logs/image.png | 317629 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/antivirus-policy_/A8.9-Configuration-Management-Evidence-2026-06.txt | 5653 | 2026-06-13
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/mobile-device-policy/01-mobile-devices.xlsx | 6516 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/mobile-device-policy/file-encryption.png | 33739 | 2026-04-05
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-002/soa-revision-history-change-record.xlsx | 9624 | 2026-05-31
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/security-incident-management-policy/incident-register.xlsx | 8387 | 2026-05-11
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-002/iso-justification.xlsx | 12970 | 2026-05-22
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-002/soa-review-approval-record.xlsx | 9202 | 2026-05-31
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/password-policy/image (4).png | 320598 | 2026-04-14
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/password-policy/password-nordpass-1.png | 237010 | 2026-04-06
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/password-policy/image.png | 317629 | 2026-04-14
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-002/soa-control-applicability-checklist.xlsx | 6980 | 2026-05-25
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-002/roles-and-responsibilities-assignment-record.xlsx | 6955 | 2026-05-25
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/network-policy/network-setup-subnet.png | 41842 | 2026-06-12
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/common-evidence/internal-audit-checklist-verification.xlsx | 9846 | 2026-05-31
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/common-evidence/training-awareness-attendance.xlsx | 7142 | 2026-05-31
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/common-evidence/internal-audit-mrm-compliance-verification-record.xlsx | 9258 | 2026-05-31
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/email-policy/image (1).png | 351458 | 2026-04-14
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/common-evidence/management-review-meeting.xlsx | 7956 | 2026-05-31
+- iso/iso-27001/5-Evidence/Specific/technical-evidence/password-policy/password-nordpass-2.png | 47469 | 2026-04-06
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-001/statutory-regulatory-compliances.xlsx | 18410 | 2026-05-31
+- ACI ISMS Master Document List.docx | 16541 | 2026-06-24
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-001/legal-regulatory-compliance-awareness-training.xlsx | 6537 | 2026-05-25
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-001/compliance-roles-responsibilities-matrix.xlsx | 6430 | 2026-05-25
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-001/statutory-regulatory-compliance-review-log.xlsx | 9538 | 2026-05-31
+- convertcsv (1).csv | 25204 | 2026-04-16
+- aci_risk_assessment_treatment.csv | 79095 | 2026-04-16
+- aci_risk_assessment_treatment(1).csv | 79095 | 2026-04-16
+- Risks and Opportunities Analysis- REFERENCE.xlsx | 47285 | 2026-04-08
+- iso/iso-27001/6-Audit/first-audit-nc/first-audit-nc/ACI-NC-001/legal-regulatory-compliance-review-procedure.xlsx | 6672 | 2026-05-25
+- project-manager-vishnuvarthan.pdf | 51963 | 2025-11-19
+- APM-vishnuvarthan(1).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan.pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(2).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(8).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(6).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(5).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(13).pdf | 50323 | 2025-11-11
+- APM-vishnuvarthan(7).pdf | 50585 | 2025-11-12
+- project-manager-vishnuvarthan(1).pdf | 51782 | 2025-11-11
+- APM-vishnuvarthan(12).pdf | 50323 | 2025-11-11
+- APM-vishnuvarthan(9).pdf | 50585 | 2025-11-12
+- vishnuvarthan-associate product manager(1).pdf | 50226 | 2025-11-06
+- project-manager-vishnuvarthan(2).pdf | 51782 | 2025-11-11
+- APM-vishnuvarthan(10).pdf | 50585 | 2025-11-12
+- APM-vishnuvarthan(14).pdf | 50323 | 2025-11-11
+- vishnuvarthan-associate product manager(5).pdf | 50226 | 2025-11-06
+- vishnuvarthan-associate product manager(6).pdf | 50226 | 2025-11-06
+- Case Study- HubSpot-vishnuvarthan.pdf | 76983 | 2025-11-05
+- APM-vishnuvarthan(11).pdf | 50323 | 2025-11-11
+- vishnuvarthan-associate product manager(4).pdf | 50226 | 2025-11-06
+- vishnuvarthan-associate product manager(7).pdf | 50226 | 2025-11-06
+- APM-vishnuvarthan(3).pdf | 50585 | 2025-11-12
+- example for Context to the Organization.xlsx | 31707 | 2026-04-27
+- PM-vishnuvarthan.pdf | 50284 | 2025-11-04
+- vishnuvarthan-associate product manager.pdf | 50226 | 2025-11-06
+- PM-vishnuvarthan(3).pdf | 50284 | 2025-11-04
+- PM-vishnuvarthan(1).pdf | 50284 | 2025-11-04
+- PM-vishnuvarthan(2).pdf | 50284 | 2025-11-04
+- awign-APM-vishnuvarthan.pdf | 50284 | 2025-11-04
+- Untitled.xlsx | 6837 | 2025-10-11
+- APM-vishnuvarthan(4).pdf | 50585 | 2025-11-12
+- vishnuvarthan-associate product manager(2).pdf | 50226 | 2025-11-06
+- COS_3344.jpg | 12756268 | 2025-10-07
+- vishnu-APM.pdf | 44838 | 2025-10-06
+- vishnu-APM(1).pdf | 44838 | 2025-10-06
+- invoice-166428_copy.pdf | 232735 | 2025-10-03
+- vishnu-APM(2).pdf | 44839 | 2025-10-06
+- Make the. Tabe bit more explain way and inclide th....pdf | 71785 | 2025-11-03
+- Product Manager-vishnu.pdf | 80341 | 2025-09-22
+- Associate Product Manager-vishnu.pdf | 80341 | 2025-09-19
+- Urbanpro-APM_VISHNUVARTHAN.pdf | 51123 | 2025-11-04
+- Associate Product Manager-vishnu(1).pdf | 79643 | 2025-09-19
+- freelancer/Branding and logo /B-Halle-Optik-Logodesign-Guide-V01 (1).pdf | 2157326 | 2025-10-21
+- freelancer/Branding and logo /PICKLEZONE-brand-guidelines (1).pdf | 10034536 | 2025-10-21
+- Product Manager-vishnu(1).pdf | 80341 | 2025-09-19
+- vishnuvarthan-associate product manager(3).pdf | 50226 | 2025-11-06
+- freelancer/Branding and logo /dss-brand-guidelines (1).pdf | 14501075 | 2025-10-21
+- vishnu-pm.pdf | 79498 | 2025-09-15
+- freelancer/Branding and logo /TARA Branding_v1_compressed.pdf | 777054 | 2025-10-21
+- freelancer/Branding and logo /branding-design-process.pdf | 1833935 | 2025-10-21
+- vishnu-pm(1).pdf | 79498 | 2025-09-15
+- ac-swm-estimations.xlsx | 32504 | 2025-08-21
+- Clinic_Appointment_Booking_System_Tasks.xlsx | 7530 | 2025-08-21
+- arametrics-estimations.xlsx | 14797 | 2025-08-21
+- Task for Project Manager (1).pdf | 75961 | 2025-08-20
+- ISO 27001 Certification Master Documentation Tracker(1).xlsx | 7745 | 2026-06-25
+- Top_6_PM_Courses_India_2025.csv | 788 | 2025-08-01
+- Company Business Process Framework.docx | 9080 | 2026-05-14
+- resume/APM-vishnuvarthan.pdf | 50323 | 2025-11-11
+- Google AI Studio/Embedded Systems Class Introduction | 28546352 | 2026-07-30
+- resume/project-manager-vishnuvarthan.pdf | 51782 | 2025-11-11
+- Google AI Studio/applet_access_history.json | 388 | 2025-12-09
+- Google AI Studio/Design System Font Requirements | 27397 | 2025-02-18
+- Google AI Studio/UI_UX Seminar_ Student Attraction | 70648 | 2025-02-18
+- Google AI Studio/Speech Prep for 120 Students | 196785 | 2025-02-18
+- Google AI Studio/Finding LinkedIn URLs From Emails | 45079 | 2025-03-28
+- Google AI Studio/UI_UX Designer_s Management Program Search | 51782 | 2025-08-04
+- Google AI Studio/College Course Schedule Options | 27169 | 2025-02-19
+- Google AI Studio/Getmax_abstract_logo.svg | 682 | 2025-02-12
+- Google AI Studio/Website Migration Client Changes | 34548 | 2025-02-12
+- Google AI Studio/Meeting Vishnu | 86856 | 2025-02-12
+- Google AI Studio/Google Search Result Duplicate Fix | 45312 | 2025-02-16
+- ac-vishnu-offer-letter-06-09-2024 (1).pdf | 246932 | 2024-09-08
+- Google AI Studio/Greeting and Assistance | 85584 | 2025-02-18
+- Google AI Studio/Branding Colors_Logo Needs Palette | 128490 | 2025-02-12
+- Google AI Studio/LMS Project Management First Steps | 100334 | 2025-02-12
+- Google AI Studio/Screenshot 2026-06-30 at 13.50.18.png | 117060 | 2026-06-30
+- Vishnu-primary/Amma /IRTT body donation certificate .pdf | 276444 | 2024-05-09
+- Vishnu-primary/bills-warranty/Woodland_.pdf | 43208 | 2022-03-21
+- araCreate Final SoA - ISO 27001_2022.xlsx | 8111 | 2026-05-15
+- Vishnu-primary/bills-warranty/OD431821815077486100 (1).pdf | 269171 | 2024-10-08
+- Vishnu-primary/bills-warranty/881056139020492_encrypt_signedFinal.pdf | 60771 | 2022-02-08
+- Vishnu-primary/bills-warranty/invoice Woodland_.pdf | 56514 | 2022-03-21
+- Vishnu-primary/bills-warranty/receipt881056139020492.pdf | 30883 | 2022-02-08
+- Vishnu-primary/bills-warranty/oyk-byfn-buu - Jun 1, 2024.pdf | 8538 | 2024-05-31
+- ac-vishnu-contract (2).pdf | 262842 | 2024-11-04
+- job-career/resume/CV Template without Photo.pdf | 2416950 | 2025-02-18
+- job-career/resume/Vishnuvarthan resume_compressed (1).pdf | 599686 | 2024-03-11
+- job-career/resume/Vishnuvarthan resume.pdf | 2416950 | 2024-02-28
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_10-09-2023-15-12-54-3.pdf | 77475 | 2023-12-20
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_30-08-2023-18-13-17.pdf | 76674 | 2024-02-07
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_27-07-2023-19-54-56(2).pdf | 82659 | 2023-07-27
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_30-08-2023-18-13-17(1).pdf | 76674 | 2024-02-07
+- Vishnu-primary/Photos/tattoo/WhatsApp Image 2024-08-08 at 8.50.59 PM.jpeg.html | 478 | 2025-02-18
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_27-07-2023-19-54-56 (1).pdf | 82659 | 2023-08-05
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_02-03-2023-19-16-28_compressed.pdf | 191290 | 2023-03-02
+- job-career/EPFO/101967934610-UAN.pdf | 223950 | 2024-06-02
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_03-03-2023-15-25-49_compressed.pdf | 191758 | 2023-03-03
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_27-07-2023-19-54-56(1).pdf | 82659 | 2023-07-29
+- job-career/resume/ui resume.pdf | 62542 | 2023-07-11
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_27-07-2023-19-54-56(3).pdf | 82659 | 2023-07-27
+- job-career/scaler/vishnuvarthan-venkatapathy-scaler.pdf | 6127482 | 2025-08-29
+- Tnpsc/IMG-20211126-WA0008 (2).jpg | 119200 | 2022-04-15
+- Tnpsc/20106066- assignment 1.pdf | 2888271 | 2022-06-16
+- job-career/resume/Vishnuvarthan PM.pdf | 3142255 | 2024-07-24
+- Tnpsc/IMG20220415165539.jpg | 2233214 | 2022-04-15
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_11-05-2023-15-31-12.pdf | 63405 | 2023-05-11
+- Vishnu-primary/Photos/tattoo/Endless knot.jpg | 44035 | 2025-03-07
+- job-career/resume/VISHNUVARTHAN_VENKATAPATHY_Resume_27-07-2023-19-54-56.pdf | 82659 | 2023-07-29
+- Vishnu-primary/Photos/My-photos/CHE00181.jpg | 5061695 | 2025-01-07
+- Vishnu-primary/Photos/My-photos/VS4.jpg | 8777735 | 2025-09-15
+- Vishnu-primary/Photos/My-photos/IMG-20211126-WA0008 (2)(2).jpg | 119200 | 2022-04-15
+- Vishnu-primary/Photos/My-photos/DSC_0590.JPG | 4859347 | 2024-09-17
+- Vishnu-primary/Photos/My-photos/IMG-20211126-WA0008 (2).jpg | 119200 | 2022-04-15
+- Vishnu-primary/Documents/PAN/Vishnu PAN.pdf | 1222396 | 2024-11-19
+- Vishnu-primary/Documents/Collage /20250622_104935.jpg | 2409585 | 2025-06-21
+- Vishnu-primary/Documents/PAN/PAN card.pdf | 403070 | 2024-04-01
+- Vishnu-primary/Photos/TN90L0006/IMG_1459.HEIC | 880783 | 2024-12-21
+- Vishnu-primary/Documents/assets/document of the house.pdf | 5806709 | 2024-12-11
+- Vishnu-primary/Photos/TN90L0006/DSC00621.JPG | 5919952 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00620.JPG | 5885145 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/IMG_1448.HEIC | 1633750 | 2024-12-21
+- Vishnu-primary/Photos/TN90L0006/DSC00609.JPG | 6996986 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00618.JPG | 6927187 | 2023-03-27
+- Vishnu-primary/Photos/My-photos/IMG-20211126-WA0008 (2)(1).jpg | 119200 | 2022-04-15
+- Vishnu-primary/Photos/TN90L0006/IMG_1457.HEIC | 929236 | 2024-12-21
+- Vishnu-primary/Photos/TN90L0006/DSC00619.JPG | 7028780 | 2023-03-27
+- Vishnu-primary/Documents/Japan/screencapture-japan-internship-program-form-kintoneapp-public-jip-form2-2025-06-17-12_25_37.pdf | 2734352 | 2025-06-16
+- Vishnu-primary/Photos/TN90L0006/DSC00598.ARW | 28676096 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00597.ARW | 28037120 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00597.JPG | 4886776 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00595.ARW | 27901952 | 2023-03-27
+- job-career/resume/ui designer resume.pdf | 82659 | 2023-08-05
+- Vishnu-primary/Photos/TN90L0006/DSC00608.JPG | 7612161 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00594.ARW | 27930624 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00594.JPG | 4795669 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00596.JPG | 4579150 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00596.ARW | 27906048 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00592.ARW | 27721728 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00593.ARW | 27996160 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00591.ARW | 28401664 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00593.JPG | 4916674 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00592.JPG | 4079586 | 2023-03-27
+- Meghalaya 60-Hour Backpacker Sprint V3.xlsx | 7626 | 2026-07-03
+- Vishnu-primary/Documents/aadhar /Vishnu Aadhar.pdf | 387980 | 2024-11-19
+- Untitled spreadsheet(2).xlsx | 20241 | 2026-07-16
+- Vishnu-primary/Photos/TN90L0006/DSC00591.JPG | 5622679 | 2023-03-27
+- doc2-qa-test-plan.md.docx | 376568 | 2026-06-12
+- Vishnu-primary/Documents/aadhar /aadhar.pdf | 280365 | 2024-04-01
+- Vishnu-primary/Documents/vaccination certificate /certificate (1).pdf | 459310 | 2021-07-14
+- Vishnu-primary/Photos/TN90L0006/DSC00595.JPG | 4710447 | 2023-03-27
+- fit.xlsx | 5595 | 2026-05-13
+- Vishnu-primary/Photos/TN90L0006/DSC00590.JPG | 5581309 | 2023-03-27
+- job-career/FR8/Payslipfor-E00941-June_23.pdf | 57526 | 2023-07-25
+- job-career/FR8/Exit Interview - FR8.docx | 298037 | 2024-03-29
+- Vishnu-primary/Documents/aadhar /EAadhaar_(id removed).pdf | 543342 | 2021-07-14
+- Vishnu-primary/Photos/TN90L0006/DSC00589.JPG | 5449730 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00588.ARW | 28430336 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00590.ARW | 28405760 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00598.JPG | 5764652 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00589.ARW | 28434432 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00588.JPG | 5415514 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00587.ARW | 28672000 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00586.JPG | 9427865 | 2023-03-27
+- job-career/FR8/Confirmation Order - Vishnuvarthan Venkatapath.pdf | 458754 | 2023-06-20
+- Vishnu-primary/Photos/TN90L0006/DSC00586.ARW | 30765056 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00584.ARW | 29564928 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00585.ARW | 30535680 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00587.JPG | 5776480 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00585.JPG | 9093218 | 2023-03-27
+- calendar-merger-prd.md.docx | 224207 | 2026-06-12
+- Vishnu-primary/Photos/TN90L0006/DSC00583.ARW | 29417472 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00581.JPG | 6672025 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00583.JPG | 7103584 | 2023-03-27
+- Project Workflow Tracker.xlsx | 5650 | 2026-05-28
+- Vishnu-primary/Photos/TN90L0006/DSC00582.JPG | 7104725 | 2023-03-27
+- job-career/Doodleblue/Vishnuvarthan venkatapathy_Exp Letter.pdf | 2804485 | 2025-02-13
+- Vishnu-primary/Photos/TN90L0006/DSC00580.ARW | 29184000 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00582.ARW | 29421568 | 2023-03-27
+- Vishnu-primary/Photos/TN90L0006/DSC00580.JPG | 6501318 | 2023-03-27
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431 (5).pdf | 53898 | 2024-10-22
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431 (4).pdf | 53898 | 2024-10-22
+- job-career/Doodleblue/_Vishnu_NDA.docx (1).pdf | 149015 | 2024-11-19
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431.pdf | 53969 | 2024-10-22
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431 (2).pdf | 54078 | 2024-10-22
+- Vishnu-primary/Photos/TN90L0006/DSC00584.JPG | 7438702 | 2023-03-27
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431 (3).pdf | 54038 | 2024-10-22
+- Vishnu-primary/Photos/TN90L0006/DSC00581.ARW | 29073408 | 2023-03-27
+- job-career/Aracreate /ac-vishnu-contract.pdf | 262842 | 2024-11-04
+- ISMS Roles and Process Framework - ISO 27001 Audit Submission.docx | 9500 | 2026-05-14
+- job-career/Trust9tech/SC flyer.pdf | 1745846 | 2024-08-13
+- job-career/resume/APM/vishnuvarthan-resume (1).pdf | 167063 | 2025-08-20
+- job-career/Aracreate /payslip/1-may-payslip.pdf | 197645 | 2025-08-12
+- job-career/Aracreate /ac-vishnu-offer-letter-06-09-2024 (1) (1).pdf | 246932 | 2024-09-08
+- job-career/Aracreate /payslip/2-june-payslip.pdf | 197660 | 2025-08-12
+- job-career/Doodleblue/Vishnuvarthan Venkatapathy - DB1431 (1).pdf | 54201 | 2024-10-22
+- BACKUP - Team Photo & Project Name (Responses) - before dedupe.xlsx | 17215 | 2026-09-27
+- job-career/Aracreate /payslip/3-july-payslip.pdf | 197670 | 2025-08-12
+- Trash/Audio from Vishnuvarthan.ogg | 20247 | 2025-10-06
+- Detailed Register of Interested Parties - ISO 27001 Compliance V2.xlsx | 6952 | 2026-05-14
+- ACI ISMS Master Document List.xlsx | 10222 | 2026-06-24
+- Complete Statutory and Regulatory Compliance Matrix (V2).xlsx | 8710 | 2026-05-26
+- Untitled spreadsheet (Untitled project).json | 1124 | 2026-07-16
+- FINAL_ISMS_Scope_Document_araCreate_V1.0.docx | 9694 | 2026-05-14
+- Acne Vulgaris - 100 Page Monograph Structure.docx | 10339 | 2026-05-28
+- Untitled project.json | 3084 | 2026-06-04
+- Make the. Tabe bit more explain way and inclide th.._.docx | 9127 | 2025-11-03
+- Statutory and Regulatory Compliance Matrix.xlsx | 7548 | 2026-05-26
+- doc1-developer-spec.md.docx | 378405 | 2026-06-12
+- Untitled spreadsheet(1).xlsx | 7761 | 2026-09-25
+- Untitled presentation.pptx | 33082 | 2026-01-22
+- iso/iso-27001/6-Audit/STAGE2_AUDIT_COMBINED_CHECKLIST.xlsx | 4937 | 2026-06-15
+- ACI-PRO-009 Incident Management Procedure.docx | 11469 | 2026-05-11
+- Untitled form.zip | 42640 | 2025-09-23
+- master-lsit (Untitled project).json | 11665 | 2026-06-25
+- ISMS Awareness Record Template - Clause 7.3.docx | 8668 | 2026-05-10
+- Production-Ready Compliance Matrix (V3).xlsx | 8418 | 2026-05-26
+- Acne Vulgaris - Full Content V1.docx | 8980 | 2026-05-28
+- Untitled spreadsheet (Untitled project)(1).json | 366 | 2026-04-16
+- Untitled spreadsheet.xlsx | 21927 | 2026-10-01
+- ISMS Scope Document - araCreate India Private Limited.docx | 9182 | 2026-05-14
+- ACI-PRO-009 Incident Management Procedure V2.docx | 11469 | 2026-05-11
+- ACI-PRO-002 Risk Assessment and Treatment Procedure.docx | 11197 | 2026-05-11
+- MRM Minutes - 18 Mar 2026.docx | 10346 | 2026-05-13
+- ACI-POL-006 Authentication Information Policy.docx | 11454 | 2026-05-11
+- ACI-PRO-010 External Provider Procedure.docx | 11463 | 2026-05-11
+- ACI-PRO-007 Supplier Security Procedure.docx | 11420 | 2026-05-11
+- ISO 27001 Certification Master Documentation Tracker.xlsx | 14071 | 2026-06-25
+- mr-v3.xlsx | 41162 | 2026-06-02
+- ISMS Roles and Responsibilities Matrix - ISO 27001 Audit Submission.xlsx | 5869 | 2026-05-14
+- ACI-PRO-008 Communication Procedure.docx | 11413 | 2026-05-11
+- araCreate India - ISO 27001_2022 FINAL AUDIT READY MASTER.xlsx | 7517 | 2026-05-12
+- mr-v1.xlsx | 52960 | 2026-06-02
+- ISMS Document Control Register (Table Format).xlsx | 5672 | 2026-05-10
+- ACI-POL-005 Access Control Policy.docx | 11682 | 2026-05-11
+- araCreate India Master SoA - ISO 27001_2022 Full List (All YES).xlsx | 11935 | 2026-05-15
+- ISMS Legal Compliance Evaluation Record.xlsx | 6345 | 2026-05-26
+- Case Study- HubSpot-vishnuvarthan.docx | 11165 | 2025-11-05
+- araCreate India - ISO 27001_2022 Audit Evidence Master Sheet.xlsx | 46935 | 2026-05-12
+- ACI-PRO-003 Control of Documented Information Procedure.docx | 11540 | 2026-05-11
+- araCreate Communication Procedure V2 (ACI-PRO-002).docx | 10854 | 2026-05-10
+- ACI-ISMS-Master-Register.xlsx | 19302 | 2026-06-12
+- Untitled document.docx | 11438 | 2025-11-16
+- araCreate Communication Procedure (ACI-PRO-002).docx | 10125 | 2026-05-10
+- give me like a table simple.xlsx | 6848 | 2025-12-05
+- master-lsit.xlsx | 35363 | 2026-06-25
+- job-career/getMax/Getmax Mock-1-comments.html | 7877 | 2025-02-15
+- The Integration of UI_UX, Industrial Design, and Project Management.docx | 12026 | 2025-04-12
+- ACI-PRO-006 Change Management Procedure.docx | 11471 | 2026-05-11
+- mr-v2.xlsx | 99810 | 2026-06-02
+- Vishnu-primary/collage/Collage.docx | 6876 | 2020-08-20
+- Untitled spreadsheet(7).xlsx | 6529 | 2025-09-26
+- Untitled spreadsheet(4).xlsx | 15537 | 2026-04-16
+- Untitled spreadsheet(3).xlsx | 35198 | 2026-04-27
+- Travel Itinerary.xlsx | 6746 | 2026-01-28
+- Task for Project Manager (1).docx | 9226 | 2025-08-21
+- ACI-PRO-005 Nonconformity and Corrective Action Procedure V2.docx | 11362 | 2026-05-11
+- Zepto On-Demand Printing User Survey.zip | 170429 | 2025-09-23
+- Untitled spreadsheet(6).xlsx | 51926 | 2025-10-11
+- pm-araCreate.xlsx | 76724 | 2025-08-21
+- ac-vishnu-contract (2).docx | 332402 | 2025-05-19
+- araCreate Document Control Procedure (ACI-PRO-001).docx | 10152 | 2026-05-10
+- araCreate Document Control Procedure (ACI-PRO-001) Sheet.xlsx | 7362 | 2026-05-10
+- job-career/Trust9tech/outsellinc.com.xlsx | 5656 | 2024-11-19
+- Saved from Chrome/URTICARIA.docx | 1711131 | 2026-05-29
+- job-career/Trust9tech/krish-project-plan-for-stock-inventory-management.docx | 11251 | 2025-02-05
+- Change Request Form - araCreate India.docx | 9789 | 2026-05-13
+- MRM Plan 2026-2028.xlsx | 5700 | 2026-05-13
+- Acne Vulgaris – Clinical Overview and Management (Untitled project).json | 1604 | 2026-07-13
+- ISMS Clause 4.4 – Process Interaction Matrix Evid.._.xlsx | 7279 | 2026-05-09
+- job-career/Aracreate /. E-commerce & Retail_ (Brand Protection, Market.._.xlsx | 7309 | 2025-02-18
+- ac-vishnu-offer-letter-06-09-2024 (1).docx | 323177 | 2025-05-19
+- n8n-test.xlsx | 5457 | 2025-05-16
+- Resume.docx | 455276 | 2026-03-23
+- job-career/getMax/Getmax.docx | 87696 | 2025-02-16
+- PM.docx | 476292 | 2025-08-16
+- Untitled spreadsheet(5).xlsx | 4998 | 2026-04-16
+- ac-vishnu-offer-letter-06-09-2024 (1)(1).docx | 323177 | 2025-04-04
+- job-career/getMax/Getmax Mock-2-comments.html | 9235 | 2025-02-15
+- job-career/Aracreate /_popular social media in us and canada with uses count in table.xlsx | 5352 | 2023-09-12
+- project-manager-siam-computing.xlsx | 17547 | 2025-08-22
+- 6.1 Risks and Opportunities Analysis.xlsx | 47648 | 2026-05-10
+- job-career/Dsign-edwin/Design Thoughts Evolution_.docx | 7727 | 2024-08-14
+- Vishnu-primary/Documents/archive/Lvoe Agreement.docx | 232295 | 2025-02-18
+- linkedin_.xlsx | 5346 | 2025-07-30
+- job-career/Freelance /Website.xlsx | 203497 | 2025-05-21
+- job-career/Doodleblue/doodleblue-time sheet.xlsx | 5826 | 2024-12-15
+- NASA Space Apps Erode - Local Event Logo.pptx | 936113 | 2026-08-24
+- job-career/getMax/Getmax Mock-3-comments.html | 8656 | 2025-02-15
+- Ema APM Program - Vishnuvarthan Venkatapathy.pptx | 5678286 | 2025-11-10
+- job-career/Aracreate /ac-vishnu-contract.docx | 379072 | 2024-11-04
+- job-career/archive/sample portfolio.pptx | 6376832 | 2025-02-18
+- Acne Vulgaris – Clinical Overview and Management.docx | 6126869 | 2026-07-13
+- Vishnu-primary/Documents/archive/expenses_.xlsx | 106239 | 2025-02-23
+- ACI-PRO-004 Internal Audit Procedure.docx | 11320 | 2026-05-11
+- Copy of [MAKE A COPY] 2025 NASA Space Apps Certificates.pptx | 3030826 | 2025-11-19
+- job-career/getMax/Getmax Mock-2.pptx | 1947294 | 2025-02-15
+- Copy of [MAKE A COPY TO EDIT] Create your own Local Event Logo - Template.pptx | 932342 | 2025-07-15
+- ACI-POL-007 Intellectual Property Rights Policy.docx | 11538 | 2026-05-11
+- Acne Vulgaris Comprehensive Clinical Overview.docx | 9439 | 2026-05-28
+- Top_6_PM_Courses_India_2025.xlsx | 7380 | 2025-08-04
+- araCreate Letterhead Draft.docx | 8738 | 2026-07-31
+- araCreate Statement of Applicability (SoA) - ISO 27001_2022 v1.1.xlsx | 22176 | 2026-05-15
+- Register of Interested Parties - ISO 27001 Compliance.xlsx | 5935 | 2026-05-14
+- ISMS Legal Compliance Evaluation Record (New File).xlsx | 6389 | 2026-05-26
+- Copy of [MAKE A COPY TO EDIT] Create your own Local Event Logo - Template(1).pptx | 1021441 | 2025-04-10
+- araCreate Resource Planning Records (ACI-REC-003).xlsx | 5910 | 2026-05-10
+-  PRODUCT REQUIREMENTS DOCUMENT (PRD).docx | 2158298 | 2025-11-15
+- araCreate ISMS Awareness Record Template (ACI-REC-002).docx | 10036 | 2026-05-10
+- Zepto On-Demand Printing User Survey (Responses).xlsx | 7734 | 2025-09-19
+- Basic_Electronics_Workshop_Deck_AraCreate.pptx | 24520269 | 2026-07-30
+- job-career/getMax/GETMAX - BRAND DESIGN (Suggestion)-comments.html | 12520 | 2025-02-06
+- job-career/getMax/GETMAX - BRAND DESIGN (Suggestion).docx | 12330 | 2025-02-06
+- Urticaria Comprehensive Overview.docx | 8656 | 2026-05-28
+- z-overall.docx | 420329 | 2026-05-05
+- araCreate Resource Planning Records (ACI-REC-003).docx | 10159 | 2026-05-10
+- aci_risk_assessment_treatment.xlsx | 31247 | 2026-04-16
+- Untitled spreadsheet(8).xlsx | 5118 | 2025-08-11
+- job-career/getMax/Getmax Mock-1.pptx | 869981 | 2025-02-15
+- job-career/getMax/Getmax Mock-3.pptx | 6507915 | 2025-02-15

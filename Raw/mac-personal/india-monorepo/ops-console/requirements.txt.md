@@ -1,0 +1,13 @@
+---
+source: personal Mac ~/india-monorepo/ops-console/requirements.txt
+---
+
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+psycopg[binary,pool]==3.2.3
+pydantic==2.10.4
+pydantic-settings==2.7.0
+jinja2==3.1.5
+itsdangerous==2.2.0
+python-multipart==0.0.20
+argon2-cffi==23.1.0

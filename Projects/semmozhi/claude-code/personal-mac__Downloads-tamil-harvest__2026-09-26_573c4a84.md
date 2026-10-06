@@ -1,0 +1,7 @@
+**Vishnu** (2026-09-26T04:46): You are an unattended run of the Realism Engine supervisor. Nobody will answer questions: never ask, decide safely and log it.
+Task: T4-copper_plate - Auto-tune the copper_plate material (Prompt 4 section 8, T4). Started by the supervisor at 2026-09-26 10:16:51 IST. Hard time cap 90 minutes (killed at 95).
+First read design/realism/AGENT_BRIEF.md and design/realism/tasks/T4-copper_plate.md, then do only this task and finish as the brief says.
+Queue entry now: status running, depends_on {"T4-palm_leaf": "blocked"}, crashes before this run 4.
+Notes from earlier runs (resume from them): none
+
+**Claude** (2026-09-26T04:46): You've hit your session limit · resets 10:30am (Asia/Calcutta)

@@ -1,0 +1,16 @@
+# ac-training — all chats
+
+- 2026-09-16 — [[Projects/ac-training/chats/2026-09-16 Bootcamp infrastructure setup|Bootcamp infrastructure setup]]
+- 2026-09-16 — [[Projects/ac-training/chats/2026-09-16 Progress so far|Progress so far]]
+- 2026-09-16 — [[Projects/ac-training/chats/2026-09-16 The plan|The plan]]
+- 2026-09-16 — [[Projects/ac-training/chats/2026-09-16 UI-UX production workflow|UI/UX production workflow]]
+- 2026-09-17 — [[Projects/ac-training/chats/2026-09-17 Student progress tracking platform|Student progress tracking platform]]
+- 2026-09-19 — [[Projects/ac-training/chats/2026-09-19 Completing and completed|Completing and completed]]
+- 2026-09-19 — [[Projects/ac-training/chats/2026-09-19 Dual development lanes|Dual development lanes]]
+- 2026-09-19 — [[Projects/ac-training/chats/2026-09-19 Rework status report|Rework status report]]
+- 2026-09-19 — [[Projects/ac-training/chats/2026-09-19 Session state review|Session state review]]
+- 2026-09-19 — [[Projects/ac-training/chats/2026-09-19 Track 5 student profile page|Track 5 student profile page]]
+- 2026-09-20 — [[Projects/ac-training/chats/2026-09-20 Deployment tasks|Deployment tasks]]
+- 2026-09-20 — [[Projects/ac-training/chats/2026-09-20 Project bugs and dashboard issues|Project bugs and dashboard issues]]
+- 2026-09-24 — [[Projects/ac-training/chats/2026-09-24 Daily poster for social media|Daily poster for social media]]
+- 2026-09-26 — [[Projects/ac-training/chats/2026-09-26 Team photo and project form|Team photo and project form]]

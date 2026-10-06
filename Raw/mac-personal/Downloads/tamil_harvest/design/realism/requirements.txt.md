@@ -1,0 +1,15 @@
+---
+source: personal Mac ~/Downloads/tamil_harvest/design/realism/requirements.txt
+---
+
+ImageIO==2.37.4
+lazy-loader==0.6
+networkx==3.7
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+packaging==26.3
+pillow==12.3.0
+pypdf==6.19.0
+scikit-image==0.26.0
+scipy==1.18.1
+tifffile==2026.9.20

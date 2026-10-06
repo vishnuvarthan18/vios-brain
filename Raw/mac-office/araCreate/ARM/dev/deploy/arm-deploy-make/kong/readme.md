@@ -1,0 +1,3 @@
+# KONG
+
+`kong.yml.tmpl` — the **template** for Kong's DB-less declarative config; `make generate-kong-config` renders it to `generated/kong.yml`, which is what the compose files mount. It is a template because Kong interpolates nothing in declarative config — an earlier revision shipped `secret: (secret removed) and Kong used that placeholder text as the literal HMAC key. Edge-only: validates JWTs, injects the `X-User-Id` header, and routes external traffic to `core-be`/`calendar-be`. Used on the server only — local dev runs neither Kong nor Caddy, which is why the backends' `X-User-Id` JWT fallback is the active auth path there. The JWT consumer secret is substituted from `JWT_ACCESS_SECRET` at render time, so the two cannot drift.

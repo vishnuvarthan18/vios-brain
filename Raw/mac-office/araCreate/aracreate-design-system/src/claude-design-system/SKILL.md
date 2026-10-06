@@ -1,0 +1,19 @@
+---
+name: aracreate-design
+description: Use this skill to generate well-branded interfaces and assets for araCreate Group, either for production or throwaway prototypes/mocks/etc. Contains essential design guidelines, colours, type, fonts, assets, and UI kit components for prototyping.
+user-invocable: true
+---
+
+Read `readme.md` within this skill first, then `CLAUDE.md` for the standing rules, and explore the other available files.
+If creating visual artifacts (slides, mocks, throwaway prototypes, etc), copy assets out and create static HTML files for the user to view. If working on production code, you can copy assets and read the rules here to become an expert in designing with this brand.
+If the user invokes this skill without any other guidance, ask them what they want to build or design, ask some questions, and act as an expert designer who outputs HTML artifacts _or_ production code, depending on the need.
+
+Quick reference:
+- **Colours:** Golden Sun `#f9bf3b` (accent, never text), Graphite Gray `#555555` (ALL text — headings and body — plus borders, focus and the dark band). **There is no black in this system**, stroke `#cecece`, canvas `#f6f6f6` (the page), white `#ffffff` (the raised surface), pale gold `#fdf3d8` (the alternating band). Stay in palette. Danger `#c0492f`, success `#186a43`; warning reuses gold and information is graphite.
+- **Type:** Monument Extended (logo wordmark ONLY) + Poppins (all headings, titles, body and UI). **Poppins weight scale:** 200 body paragraphs · 300 subheadings, captions, labels · 400 display type only · 500 emphasis and numbers · 700 section headings. Never 600 + Red Hat Mono (specs). Headings 36 / 33 / 31 / 28 / 21 / 16px, with a separate display tier at 64 / 48 / 36 / 28px. Eyebrows and buttons are wide-tracked UPPERCASE; everything else is sentence case.
+- **Shape:** buttons square, inputs 4px, panels 9px, cards 20px, pills full — but anything carrying the signature edge stays square. The signature edge is a 1px border, dotted top and right, solid bottom and left. Hairline dividers, four low neutral shadows, hover lifts ~5px. Every interactive control is at least 44px. No emoji. Imagery is isometric illustration and duotint photos.
+- **Voice:** professional, clear, friendly. "We" / "you". Sentence case. Tagline: *"Empowering ideas from mind to market."* 360° services. Never invent a fact — `docs/brand-facts.md` is the list, and `300+ clients` keeps its plus sign.
+- **Stylesheets:** two entry points. `system.css` is the whole system; `tokens.css` is the variables alone, for pages that style themselves inline (the deck template, the cards).
+- **Tokens:** `tokens/` (fonts, colors, typography, spacing, density, theme-dark). **CSS:** `styles/` (base, signature, components, sections, app, deck). **Behaviour:** `js/`. **Components:** `components/` — 81 exported across eight groups (core, forms, feedback, navigation, data, signature, sections, app), React, also exposed as `(secret removed)`; `docs/components.md` is the reference. **Specimens:** `foundations/`. **Templates:** `templates/` — `acds-template-web` (marketing site: home, about, 404), `acds-template-app` (signed-in product), `acds-template-deck` (ten 1280×720 slides). Copy one rather than composing a page from scratch; there are no UI kits.
+- **Assets:** `assets/` carries the real files — `logos/` (21 SVG plus 11 PNG rasters and three Affinity source sheets), `icons/` (17 isometric and UI SVGs), `illustrations/` (8), `imagery/` (5 duotint photographs), `brand/` (the seal and the letterhead) and `fonts/` (both Monument Extended weights). `docs/assets.md` says which logo belongs on which background — they are not interchangeable.
+- **The live site:** `docs/live-site.md` is a snapshot of aracreate.group verified 17 August 2026. Pages under `/archive/` and `/template/` are not valid reference.

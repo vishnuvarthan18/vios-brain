@@ -1,0 +1,13 @@
+---
+source: office Mac ~/araCreate/SLK/www.sinolink.de/src/robots-pt.txt
+---
+
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (C) 2026, SINOLINK EUROPE, UNIPESSOAL LDA
+# Author: araCreate Group
+# Description: This file contains the crawler rules for sinolink.pt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sinolink.pt/sitemap.xml

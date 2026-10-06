@@ -1,0 +1,43 @@
+---
+tags: calendar
+# Recurring calendar events (Google, personal)
+
+- 20250206 — GetMax Daily Developers Connect (weekly) attendees:7
+- 20250207 — GetMax Branding Daily connect (weekly) attendees:4
+- 20250903 — Join Our Weekly NASA Space Apps Participants Q & A Session - Every Wednesday @7PM IST (weekly) attendees:27
+- 20250922 — GetMax Scrum Standup (weekly) attendees:14
+- 20250927 — AI Product Management Crash Course (weekly) attendees:1
+- 20251013 — GetMax Scrum Standup (weekly) attendees:14
+- 20251218 — Happy birthday! (yearly) attendees:0
+- 20260531 — Dinner (daily) attendees:0
+- 20260531 — Down (daily) attendees:0
+- 20260531 — Family (daily) attendees:0
+- 20260531 — Lunch (daily) attendees:0
+- 20260531 — Morning (daily) attendees:0
+- 20260531 — Refine (daily) attendees:0
+- 20260531 — Training (daily) attendees:0
+- 20260531 — Weekly Review (weekly) attendees:0
+- 20260531 — Work (Prep Mon) (weekly) attendees:0
+- 20260531 — Work (daily) attendees:0
+- 20260601 — Common (weekly) attendees:0
+- 20260601 — Dive (weekly) attendees:0
+- 20260601 — MITs (weekly) attendees:0
+- 20260601 — Office (weekly) attendees:0
+- 20260601 — Travel (weekly) attendees:0
+- 20260601 — Work (FlutterFlow) (weekly) attendees:0
+- 20260602 — Work (Career) (weekly) attendees:0
+- 20260603 — Cleaning (weekly) attendees:0
+- 20260604 — Work (New Skill) (weekly) attendees:0
+- 20260605 — Work (Rest) (weekly) attendees:0
+- 20260606 — Work (Biz Idea) (weekly) attendees:0
+- 20260606 — Work (weekly) attendees:0
+- 20260608 — Training (weekly) attendees:0
+- 20260609 — Lunch (daily) attendees:0
+- 20260613 — Generative AI Mastermind - IND (weekly) attendees:1
+- 20260706 — Ignition (daily) attendees:0
+- 20261225 — new (yearly) attendees:0
+- 20270202 — new (yearly) attendees:0
+- 20270317 — new (yearly) attendees:0
+- 20270515 — new (yearly) attendees:0
+- 20270619 — new (yearly) attendees:0
+- 20270704 — new (yearly) attendees:0
