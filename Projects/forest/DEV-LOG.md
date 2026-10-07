@@ -63,19 +63,19 @@ Coding history from Claude Code sessions on the personal Mac. Repo: vishnuvartha
 - Backups in data/db-backups/ (134 MB) not in git.
 
 ## Session index
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-10-03_eade91de]] — 2026-10-03 — regenerate exports, deploy to dev site; 2026-10-06 save all on main
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-09_c504989d]] — 2026-09-09 — harvest-engine overnight run: tests, retries, blocked status, reaper
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_f192d4c4]] — 2026-09-08 — commits: job_run status, tests, batch size 1, Phase 1 trust layer
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_0c3a56a7]] — 2026-09-08 — dedup window fix, lgd paging fix, management-plan PDF, fixtures
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_913006a3]] — 2026-09-08 — deploy sensitive-species fix to production, explain 20 vs 3 gap
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_56b2131f]] — 2026-09-08 — harvest-engine deep plan Phase 1 (DLQ, stream_health)
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_3a6d6c93]] — 2026-09-08 — per-stream coverage audit
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_8b73fa77]] — 2026-09-07 — ship sensitive-species fix only; deploy 7db6f967
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_d56a3ea0]] — 2026-09-07 — history and people pages
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_a48e8010]] — 2026-09-07 — species and place detail pages
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_57c8be60]] — 2026-09-07 — sensitive registry +9, schema migration on dev
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_c119dbd6]] — 2026-09-07 — schema proposal doc
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-06_086e72f6]] — 2026-09-06 — D1 to atlas.db sync, exports, place merge, local server
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_7ecc4e5c]] — 2026-09-05 — cron status check, dedup freeze found, cron paused
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_4cb645be]] — 2026-09-05 — stream-health dashboard panel, merge and deploy
-- [[Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-02_7634b645]] — 2026-09-02 — comparables library, project overview, share file
+- personal-mac__sathyamangalam-atlas__2026-10-03_eade91de (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-10-03_eade91de.md) — 2026-10-03 — regenerate exports, deploy to dev site; 2026-10-06 save all on main
+- personal-mac__sathyamangalam-atlas__2026-09-09_c504989d (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-09_c504989d.md) — 2026-09-09 — harvest-engine overnight run: tests, retries, blocked status, reaper
+- personal-mac__sathyamangalam-atlas__2026-09-08_f192d4c4 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_f192d4c4.md) — 2026-09-08 — commits: job_run status, tests, batch size 1, Phase 1 trust layer
+- personal-mac__sathyamangalam-atlas__2026-09-08_0c3a56a7 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_0c3a56a7.md) — 2026-09-08 — dedup window fix, lgd paging fix, management-plan PDF, fixtures
+- personal-mac__sathyamangalam-atlas__2026-09-08_913006a3 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_913006a3.md) — 2026-09-08 — deploy sensitive-species fix to production, explain 20 vs 3 gap
+- personal-mac__sathyamangalam-atlas__2026-09-08_56b2131f (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_56b2131f.md) — 2026-09-08 — harvest-engine deep plan Phase 1 (DLQ, stream_health)
+- personal-mac__sathyamangalam-atlas__2026-09-08_3a6d6c93 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_3a6d6c93.md) — 2026-09-08 — per-stream coverage audit
+- personal-mac__sathyamangalam-atlas__2026-09-07_8b73fa77 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_8b73fa77.md) — 2026-09-07 — ship sensitive-species fix only; deploy 7db6f967
+- personal-mac__sathyamangalam-atlas__2026-09-07_d56a3ea0 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_d56a3ea0.md) — 2026-09-07 — history and people pages
+- personal-mac__sathyamangalam-atlas__2026-09-07_a48e8010 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_a48e8010.md) — 2026-09-07 — species and place detail pages
+- personal-mac__sathyamangalam-atlas__2026-09-07_57c8be60 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_57c8be60.md) — 2026-09-07 — sensitive registry +9, schema migration on dev
+- personal-mac__sathyamangalam-atlas__2026-09-07_c119dbd6 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_c119dbd6.md) — 2026-09-07 — schema proposal doc
+- personal-mac__sathyamangalam-atlas__2026-09-06_086e72f6 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-06_086e72f6.md) — 2026-09-06 — D1 to atlas.db sync, exports, place merge, local server
+- personal-mac__sathyamangalam-atlas__2026-09-05_7ecc4e5c (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_7ecc4e5c.md) — 2026-09-05 — cron status check, dedup freeze found, cron paused
+- personal-mac__sathyamangalam-atlas__2026-09-05_4cb645be (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_4cb645be.md) — 2026-09-05 — stream-health dashboard panel, merge and deploy
+- personal-mac__sathyamangalam-atlas__2026-09-02_7634b645 (archived: Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-02_7634b645.md) — 2026-09-02 — comparables library, project overview, share file

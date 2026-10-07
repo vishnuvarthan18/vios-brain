@@ -88,7 +88,7 @@ updated: 2026-10-06
 - **Local folder:** `~/Desktop/mura/w2d/d2c/wedding2day.com` (old path `~/Desktop/wedding2day.com` is empty).
 - **Domain:** wedding2day.com (may be lapsing — see status). Also hosted the landing page of [[Projects/wedding2day-app/SUMMARY]] on [[Tools/Cloudflare]] Pages from 2026-07-16 — how the two share the domain is not clear.
 - **Repo remote:** not recorded.
-- **Chats index:** [[Projects/wedding2day-com/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/wedding2day-com/chats/INDEX.md)
 - **Ticket IDs:** W-001 to W-039. Done out of order often. Always check git log, not BACKLOG.md order.
 - **Tables:** `venue_prospects` (private), `availability` (sparse), session rows in D1. No vendor table.
 - **Testing note:** `npm test` crashes (SIGBUS) in the cloud sandbox — not a code bug. Local tests need `.wrangler/` folder.
@@ -123,7 +123,7 @@ updated: 2026-10-06
 - Is this related to the B2B app, or a separate business line?
 
 ## 9. All chats in this project
-- [[Projects/wedding2day-com/chats/2026-08-05 Zoho mail DNS configuration on Cloudflare|Zoho mail DNS configuration on Cloudflare]] — 2026-08-05
+- Zoho mail DNS configuration on Cloudflare (archived: Projects/wedding2day-com/chats/2026-08-05 Zoho mail DNS configuration on Cloudflare.md) — 2026-08-05
 - Cowork session `bb49ff4c` (title not known) — 2026-07-27 to 2026-07-28
 - Save project to viOS — 2026-10-03
 - (2026-07-16 "QR code for customer data collection" moved to [[Projects/wedding2day-app/SUMMARY]] — it is the app's pre-launch landing page.)

@@ -75,9 +75,9 @@ updated: 2026-10-06
   - Webflow site id 6672e259ffca23748c51b4cd; Style Guide page id 6aa053018c44eb05710cb998.
 - **Standard values (short):** Font Helvetica Neue (Light/Regular/Medium/Bold). Type scale 42 / 26 / 24 / 22 / 20 / 18 / 16 / 12 px. Spacing 8, 16, 20, 24, 32, 40, 48, 64, 80. Corners 4 / 8 / 12 / pill. Icons 18 / 24 / 32 / 36. Grid 1440 page, 80px side margin, 1280 content. Buttons 40px and 50px tall. Input 56px. Placeholder grey #737373. Error #D93025. Success #1B8038.
 - **Responsive rules (2026-09-09):** breakpoints 992 / 768 / 480; side margins 80 / 40 / 24 / 16; H1 42 / 36 / 32 / 28 (more rows in the Style Guide table).
-- **Brand reference:** B. Halle Optik (Berlin) logo design guide V01, May 2024 ([[Raw/mac-personal/Vishnu/projects /creative work/Branding/B-Halle-Optik-Logodesign-Guide-V01.pdf]]).
+- **Brand reference:** B. Halle Optik (Berlin) logo design guide V01, May 2024 (B-Halle-Optik-Logodesign-Guide-V01.pdf (archived: Raw/mac-personal/Vishnu/projects /creative work/Branding/B-Halle-Optik-Logodesign-Guide-V01.pdf.md)).
 - **Dev history:** [[Projects/halle-web/DEV-LOG]] (Claude Code sessions, office Mac). Server work from 2026-10-05 (Kishor's SSH key, tunnel to :3000) was moved to [[Projects/feedback-widget/SUMMARY]].
-- **Chats index:** [[Projects/halle-web/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/halle-web/chats/INDEX.md)
 - **Related:** [[Projects/ac-ds/SUMMARY]] (design system work, link not sure)
 
 ## 7. Files and documents
@@ -99,7 +99,7 @@ updated: 2026-10-06
 - Text hierarchy plan from 2026-07-17 (Phase 1–3) not carried out yet.
 
 ## 9. All chats in this project
-- [[Projects/halle-web/chats/2026-06-18 Webflow vs custom code decision|Webflow vs custom code decision]] — 2026-06-18
-- [[Projects/halle-web/chats/2026-07-13 Webfloe connection setup|Webflow connection setup]] — 2026-07-13
-- [[Projects/halle-web/chats/2026-09-08 Halle website UI analysis|Halle website UI analysis]] — 2026-09-08
-- [[Projects/halle-web/chats/2026-09-09 Button line height issue|Button line height issue]] — 2026-09-09
+- Webflow vs custom code decision (archived: Projects/halle-web/chats/2026-06-18 Webflow vs custom code decision.md) — 2026-06-18
+- Webflow connection setup (archived: Projects/halle-web/chats/2026-07-13 Webfloe connection setup.md) — 2026-07-13
+- Halle website UI analysis (archived: Projects/halle-web/chats/2026-09-08 Halle website UI analysis.md) — 2026-09-08
+- Button line height issue (archived: Projects/halle-web/chats/2026-09-09 Button line height issue.md) — 2026-09-09

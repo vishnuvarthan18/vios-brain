@@ -96,7 +96,7 @@ updated: 2026-10-06
 - **Companies / sources:** [[Companies/Wikimedia]] (Wikipedia, Wikisource, Commons — main data and photo source), [[Companies/Wikidata]], [[Companies/Internet Archive]], [[Companies/Project Madurai]] (richest free Tamil e-texts), [[Companies/OpenAlex]], [[Companies/Cleveland Museum of Art]], [[Companies/Art Institute of Chicago]], [[Companies/The Met]] (open-access APIs, CC0), [[Companies/CICT]] (palm-leaf library, CC BY-NC = reference only), [[Companies/UNESCO]] (Chola temples citation), [[Companies/Google]] (Drive, Noto fonts).
 - **Tools:** [[Tools/Cloudflare]] (Pages, Access, database, DNS), Web Awesome Core, [[Tools/Scrapy]], [[Tools/GitHub]] (Actions + Pages), [[Tools/Python]], [[Tools/Docker]], [[Tools/Caddy]], [[Tools/rclone]], [[Tools/Google Drive]], [[Tools/SQLite]] (local viewer, frontier.db), [[Tools/Three.js]], [[Tools/GSAP]], [[Tools/Claude]].
 - **Live addresses:** www.semmozhi.online (production, "Under construction"), dev.semmozhi.online (staging, full site), engine.semmozhi.online (admin, login). Old semmozhi.pages.dev addresses still respond.
-- **Dev history:** [[Projects/semmozhi/DEV-LOG]] (138 Claude Code sessions, personal Mac). Chats index: [[Projects/semmozhi/chats/INDEX]]. Project docs copied to `docs/`.
+- **Dev history:** [[Projects/semmozhi/DEV-LOG]] (138 Claude Code sessions, personal Mac). Chats index: INDEX (archived: Projects/semmozhi/chats/INDEX.md). Project docs copied to `docs/`.
 - **GitHub repos:** `vishnuvarthan18/tamil-data-collector` (private, code + data; history ~455 MB); `vishnuvarthan18/tamil-data-dashboard` (public, GitHub Pages: https://vishnuvarthan18.github.io/tamil-data-dashboard/ — to be merged away).
 - **Mac folder:** `~/Downloads/tamil_harvest` — the ONE project folder. Inside: `website/` (the site; was `website_live/` until 2026-10-02), `engines/`, `tamil_harvest/` (crawler), `design/`, `viewer_app/`, `PROJECT_MAP.md`.
 - **Server:** Vishnu's OVH server `ubuntu@40.160.137.239` (Ubuntu 26.04, 38 GB disk) — same VPS as [[Projects/india-data-atlas/SUMMARY]] (its `core-infra` services — do not touch). Collector in `/srv/semmozhi/`, idle.
@@ -147,7 +147,7 @@ updated: 2026-10-06
 - Old public dashboard (tamil-data-dashboard) showed stale data; to be merged away.
 
 ## 9. All chats in this project
-- [[Projects/semmozhi/chats/2026-10-02 Moving project to viOS (8)|Moving project to viOS (8)]] — 2026-10-02
+- Moving project to viOS (8) (archived: Projects/semmozhi/chats/2026-10-02 Moving project to viOS (8).md) — 2026-10-02
 - Code sessions: see [[Projects/semmozhi/DEV-LOG]] (session index).
 - Work sessions recorded in the project docs (titles unknown):
 - Crawler build + run #11 — about 2026-08-28 (title unknown)

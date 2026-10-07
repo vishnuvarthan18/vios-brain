@@ -107,7 +107,7 @@ updated: 2026-10-06
   - Earlier design docs: "V OS" in `~/Downloads/VOS` (first blueprint) and `~/Downloads/VOS-OSS` (open-source version, Aug 2026): plain Markdown + git, `vos` CLI (`vos daily`, `vos jot`), folders 00-Inbox / 10-Journal / 20-Projects / 30-Areas / 40-Library / 90-System, Claude skills (inbox, meeting, weekly, decide); Android plan Markor + Syncthing.
   - Old Mac: code `~/own/viOS-system`, old vault `~/own/viOS`, `~/own/viOS-v2/`; global rule `~/.claude/CLAUDE.md` (vi-resume / vi-handoff).
   - Server 217.160.93.75 is Halle's live site — not for viOS.
-- **Chats index:** [[Projects/vios/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/vios/chats/INDEX.md)
 - **Related:** [[Projects/halle-web/SUMMARY]], [[Projects/wedding2day-app/SUMMARY]], [[Projects/system/SUMMARY]]
 
 ## 7. Files and documents
@@ -129,7 +129,7 @@ updated: 2026-10-06
 - An old LibreChat password was shown in the 2026-10-01 chat (secret, not saved) — matters only until the old setup is deleted.
 
 ## 9. All chats in this project
-- [[Projects/vios/chats/2026-09-30 viOS personal operating system|viOS personal operating system]] — 2026-09-30
-- [[Projects/vios/chats/2026-10-02 Status update|Status update]] — 2026-10-02
-- [[Projects/vios/chats/2026-10-02 Moving project to viOS (4)|Moving project to viOS (4)]] — 2026-10-02
-- [[Projects/vios/chats/2026-10-02 RULES.md from viOS brain|RULES.md from viOS brain]] — 2026-10-02
+- viOS personal operating system (archived: Projects/vios/chats/2026-09-30 viOS personal operating system.md) — 2026-09-30
+- Status update (archived: Projects/vios/chats/2026-10-02 Status update.md) — 2026-10-02
+- Moving project to viOS (4) (archived: Projects/vios/chats/2026-10-02 Moving project to viOS (4).md) — 2026-10-02
+- RULES.md from viOS brain (archived: Projects/vios/chats/2026-10-02 RULES.md from viOS brain.md) — 2026-10-02

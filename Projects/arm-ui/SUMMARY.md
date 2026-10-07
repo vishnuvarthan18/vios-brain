@@ -160,7 +160,7 @@ v1 UI/UX pipeline:
 - Should the arm-website / timer work be split into its own project? (timer already has [[Projects/timer/SUMMARY]])
 
 ## 9. All chats in this project
-- Index: [[Projects/arm-ui/chats/INDEX]] (16 chats; imported from the personal account on 2026-10-06) · Claude Code sessions: see [[Projects/arm-ui/DEV-LOG]] session index
+- Index: INDEX (archived: Projects/arm-ui/chats/INDEX.md) (16 chats; imported from the personal account on 2026-10-06) · Claude Code sessions: see [[Projects/arm-ui/DEV-LOG]] session index
 - Project doc: [[Projects/arm-ui/docs/araMetrics Platform — UI-UX Requirements (v1)]]
 - AI tools for UI/UX design — 2026-06-19
 - Where we stopped — 2026-06-21

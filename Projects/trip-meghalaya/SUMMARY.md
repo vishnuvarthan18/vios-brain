@@ -52,7 +52,7 @@ updated: 2026-10-06
 - **Places:** Guwahati, Shillong, Sohra (Cherrapunji), Laitlum, Umiam Lake, Mawphlang, Smit Village
 - **Stays:** Sohra — Da-Da Tourist Cottage & Campsite (Sat); Shillong (Sun). Bookings seen in mail: Zostel Shillong, Lumkynjai Cottages, a Cherrapunji jungle resort (which were used vs cancelled: not sure).
 - **Booking refs, phone numbers and payments:** (private, not saved)
-- **Chats index:** [[Projects/trip-meghalaya/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/trip-meghalaya/chats/INDEX.md)
 - **Related:** none
 
 ## 7. Files and documents
@@ -64,11 +64,11 @@ updated: 2026-10-06
 - Exact dates: 12-14 Sep (chats) vs about 11-13 Sep (Google export) — 12-14 kept.
 
 ## 9. All chats in this project
-- [[Projects/trip-meghalaya/chats/2026-06-16 Cheapest flight from Chennai to tier 2 cities|Cheapest flight from Chennai to tier 2 cities]] — 2026-06-16
+- Cheapest flight from Chennai to tier 2 cities (archived: Projects/trip-meghalaya/chats/2026-06-16 Cheapest flight from Chennai to tier 2 cities.md) — 2026-06-16
 - (2026-06-26 "Bengaluru to Lucknow flight itinerary" chat moved out — separate trip idea.)
-- [[Projects/trip-meghalaya/chats/2026-08-23 Self-drive car alternative plan from Guwahati|Self-drive car alternative plan from Guwahati]] — 2026-08-23
-- [[Projects/trip-meghalaya/chats/2026-08-31 Final plan|Final plan]] — 2026-08-31
-- [[Projects/trip-meghalaya/chats/2026-09-05 Finalizing plan with limited time|Finalizing plan with limited time]] — 2026-09-05
-- [[Projects/trip-meghalaya/chats/2026-09-08 Change in plan|Change in plan]] — 2026-09-08
-- [[Projects/trip-meghalaya/chats/2026-09-09 Plan finalization deadline|Plan finalization deadline]] — 2026-09-09
-- [[Projects/trip-meghalaya/chats/2026-09-10 Starting tomorrow|Starting tomorrow]] — 2026-09-10
+- Self-drive car alternative plan from Guwahati (archived: Projects/trip-meghalaya/chats/2026-08-23 Self-drive car alternative plan from Guwahati.md) — 2026-08-23
+- Final plan (archived: Projects/trip-meghalaya/chats/2026-08-31 Final plan.md) — 2026-08-31
+- Finalizing plan with limited time (archived: Projects/trip-meghalaya/chats/2026-09-05 Finalizing plan with limited time.md) — 2026-09-05
+- Change in plan (archived: Projects/trip-meghalaya/chats/2026-09-08 Change in plan.md) — 2026-09-08
+- Plan finalization deadline (archived: Projects/trip-meghalaya/chats/2026-09-09 Plan finalization deadline.md) — 2026-09-09
+- Starting tomorrow (archived: Projects/trip-meghalaya/chats/2026-09-10 Starting tomorrow.md) — 2026-09-10

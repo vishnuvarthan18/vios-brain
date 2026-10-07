@@ -77,7 +77,7 @@ State: [[Projects/timer/STATE]] · Log: [[Projects/timer/LOG]]
 - **Toggl gaps (design rules for our Timer):** approved entries editable with no warning; empty and future weeks can be submitted; approver can approve an unsubmitted week; cell being edited during Submit is lost; change-request note only on hover, no notification; invite flow forces new org and switches session; start-after-end saved as 22h, 1000h accepted; duplicate project names allowed; blocked URLs redirect silently.
 - **Proposed answers to 8 decisions (Claude's draft, not confirmed):** no screenshots; replace the Clockify script later; approvals in MVP; invoices in V1.1; reopened week → "changes requested" with reason; weekly Mon–Sun; manager approves; no attendance features.
 - **North star metric (proposed):** share of hours captured without typing.
-- **Chats index:** [[Projects/timer/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/timer/chats/INDEX.md)
 - **Related:** [[Projects/arm-ui/SUMMARY]], [[Projects/clockify-automation-project/SUMMARY]], [[Projects/clockify/SUMMARY]]
 
 ## 7. Files and documents
@@ -109,9 +109,9 @@ State: [[Projects/timer/STATE]] · Log: [[Projects/timer/LOG]]
 - Where are the Toggl `shots/` and `flow/` files? Toggl trial org and test accounts still exist (trial ends ~23 Oct 2026).
 
 ## 9. All chats in this project
-- [[Projects/timer/chats/2026-09-08 Timer project analysis|Timer project analysis]] — 2026-09-08
-- [[Projects/timer/chats/2026-09-08 Progress update|Progress update]] — 2026-09-08
-- [[Projects/timer/chats/2026-09-10 Project progress review|Project progress review]] — 2026-09-10
-- [[Projects/timer/chats/2026-09-23 miro planning|miro planning]] — 2026-09-23
-- [[Projects/timer/chats/2026-09-28 Where we stopped|Where we stopped]] — 2026-09-28
-- [[Projects/timer/chats/2026-10-02 Moving project to viOS (7)|Moving project to viOS (7)]] — 2026-10-02 (personal, arm-timer)
+- Timer project analysis (archived: Projects/timer/chats/2026-09-08 Timer project analysis.md) — 2026-09-08
+- Progress update (archived: Projects/timer/chats/2026-09-08 Progress update.md) — 2026-09-08
+- Project progress review (archived: Projects/timer/chats/2026-09-10 Project progress review.md) — 2026-09-10
+- miro planning (archived: Projects/timer/chats/2026-09-23 miro planning.md) — 2026-09-23
+- Where we stopped (archived: Projects/timer/chats/2026-09-28 Where we stopped.md) — 2026-09-28
+- Moving project to viOS (7) (archived: Projects/timer/chats/2026-10-02 Moving project to viOS (7).md) — 2026-10-02 (personal, arm-timer)

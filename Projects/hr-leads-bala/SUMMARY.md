@@ -46,4 +46,4 @@ owner: "[[People/Vishnu]]"
 - Leave balance and price versions may be needed if the team is big or prices change often.
 
 ## 9. All chats in this project
-- [[Projects/hr-leads-bala/chats/2026-07-08 Work-from-home HR and lead tracking PWA|Work-from-home HR and lead tracking PWA]] — 2026-07-08
+- Work-from-home HR and lead tracking PWA (archived: Projects/hr-leads-bala/chats/2026-07-08 Work-from-home HR and lead tracking PWA.md) — 2026-07-08

@@ -47,14 +47,14 @@ Note: this log now also holds the 2 sessions moved from tech-to-me (2026-07-29, 
 - Perimenopause page: full pixel match with Figma not confirmed; real pilot video and final content were placeholders (July).
 
 ## Session index
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-11_d0268dd2]] — 2026-08-11 — SEO/GEO, schema, alt text, backlinks (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-05_759444fb]] — 2026-08-05 — mobile bugs, wrong push to production, backup restore (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_bd19a94e]] — 2026-08-03 — Kartra popup, nav button, mobile nav, overlays (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_399bc7ee]] — 2026-08-03 — video thumbnail, testimonial carousel (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_7365f964]] — 2026-07-31 — PRP page nav, video cards to Figma (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_214fd31f]] — 2026-07-31 — PRP apply section, testimonials, responsive (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_c147b55b]] — 2026-07-31 — copy of 214fd31f (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_0b04f0ff]] — 2026-07-31 — hero height, short (moved from ac-training)
-- [[Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_39f77807]] — 2026-07-29 — Figma MCP, section-by-section fixes, marquee, card sizes (moved from tech-to-me)
-- [[Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_2cccca06]] — 2026-07-29 — Webflow connection fix, build Perimenopause Reset Programme page, staging publish (moved from tech-to-me)
-- [[Projects/the-regen-room/claude-code/home__2026-07-21_4d5a581b]] — 2026-07-21 to 07-22 — Webflow re-auth, nav audit, mobile/desktop nav fixes, revert
+- araCreate-ARA-VCET__2026-08-11_d0268dd2 (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-11_d0268dd2.md) — 2026-08-11 — SEO/GEO, schema, alt text, backlinks (moved from ac-training)
+- araCreate-ARA-VCET__2026-08-05_759444fb (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-05_759444fb.md) — 2026-08-05 — mobile bugs, wrong push to production, backup restore (moved from ac-training)
+- araCreate-ARA-VCET__2026-08-03_bd19a94e (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_bd19a94e.md) — 2026-08-03 — Kartra popup, nav button, mobile nav, overlays (moved from ac-training)
+- araCreate-ARA-VCET__2026-08-03_399bc7ee (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_399bc7ee.md) — 2026-08-03 — video thumbnail, testimonial carousel (moved from ac-training)
+- araCreate-ARA-VCET__2026-07-31_7365f964 (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_7365f964.md) — 2026-07-31 — PRP page nav, video cards to Figma (moved from ac-training)
+- araCreate-ARA-VCET__2026-07-31_214fd31f (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_214fd31f.md) — 2026-07-31 — PRP apply section, testimonials, responsive (moved from ac-training)
+- araCreate-ARA-VCET__2026-07-31_c147b55b (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_c147b55b.md) — 2026-07-31 — copy of 214fd31f (moved from ac-training)
+- araCreate-ARA-VCET__2026-07-31_0b04f0ff (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_0b04f0ff.md) — 2026-07-31 — hero height, short (moved from ac-training)
+- own-demo-projects-ai-siite-2__2026-07-29_39f77807 (archived: Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_39f77807.md) — 2026-07-29 — Figma MCP, section-by-section fixes, marquee, card sizes (moved from tech-to-me)
+- own-demo-projects-ai-siite-2__2026-07-29_2cccca06 (archived: Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_2cccca06.md) — 2026-07-29 — Webflow connection fix, build Perimenopause Reset Programme page, staging publish (moved from tech-to-me)
+- home__2026-07-21_4d5a581b (archived: Projects/the-regen-room/claude-code/home__2026-07-21_4d5a581b.md) — 2026-07-21 to 07-22 — Webflow re-auth, nav audit, mobile/desktop nav fixes, revert

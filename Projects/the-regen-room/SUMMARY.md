@@ -70,7 +70,7 @@ updated: 2026-10-06
 - **Programme:** "Perimenopause Reset Programme" — 3 partners: REGEN (cellular wellness therapies), Elevated Wellness (coaching and behaviour change), Nuvivo (advanced health testing).
 - **Kartra setup:** form id 3 "Perimenopause Reset Programme"; sequence "Perimenopause Reset"; step "Welcome Email", sends immediately; subject "Thanks for registering!"; merge tag {first_name}.
 - **Links:** theregenroom.co.uk; Webflow staging theregenroom.webflow.io; Figma files in `aracreate/fst/the regen room/` (office Mac).
-- **Dev history:** [[Projects/the-regen-room/DEV-LOG]] (Claude Code sessions, office Mac; includes sessions moved from tech-to-me and ac-training). Chats index: [[Projects/the-regen-room/chats/INDEX]].
+- **Dev history:** [[Projects/the-regen-room/DEV-LOG]] (Claude Code sessions, office Mac; includes sessions moved from tech-to-me and ac-training). Chats index: INDEX (archived: Projects/the-regen-room/chats/INDEX.md).
 - **Related content:** "CEO Circle" brochure (Future State 2026) and AIBF Cork talk slides.
 - **Related:** [[Projects/system/SUMMARY]] (463 MB duplicate room images to remove).
 
@@ -87,5 +87,5 @@ updated: 2026-10-06
 - Kartra cannot be opened by Claude (blocked in built-in browser); Vishnu must click.
 
 ## 9. All chats in this project
-- [[Projects/the-regen-room/chats/2026-09-01 Email replies for applicants|Email replies for applicants]] — 2026-09-01
-- [[Projects/the-regen-room/chats/2026-09-11 Problem meeting|Problem meeting]] — 2026-09-11
+- Email replies for applicants (archived: Projects/the-regen-room/chats/2026-09-01 Email replies for applicants.md) — 2026-09-01
+- Problem meeting (archived: Projects/the-regen-room/chats/2026-09-11 Problem meeting.md) — 2026-09-11

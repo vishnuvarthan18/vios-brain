@@ -73,41 +73,41 @@ Built from 38 Claude Code transcripts (30 Jul to 28 Sep 2026). The app is the ar
 
 ## Session index
 
-- [[Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-30_63662178]] — 30 Jul — 3D scroll website for the bootcamp, Sketchfab models
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_0b04f0ff]] — 31 Jul — (REGEN Room) hero height, short
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_214fd31f]] — 31 Jul — (REGEN Room) PRP apply section, testimonials, responsive
-- [[Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-31_2a648033]] — 31 Jul — run project locally, short
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_7365f964]] — 31 Jul — (REGEN Room) PRP page nav, video cards to Figma
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_c147b55b]] — 31 Jul — (REGEN Room) PRP apply section, responsive (copy of 214fd31f)
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_399bc7ee]] — 3 Aug — (REGEN Room) video thumbnail, testimonial carousel
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_bd19a94e]] — 3–4 Aug — (REGEN Room) Kartra popup, nav button, mobile nav, overlays
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-05_759444fb]] — 5 Aug — (REGEN Room) mobile bugs, wrong push to production, backup restore
-- [[Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-11_d0268dd2]] — 11 Aug — (REGEN Room) SEO/GEO, schema, alt text, backlinks
-- [[Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-08-11_e61dcc0e]] — 11 Aug — personal daily dashboard (Gmail/Calendar/Slack)
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_12ce8e08]] — 16 Sep — local setup, EEE data, admin panel check, profile migration
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_298bcbac]] — 16–17 Sep — resume upload to server, student side rebuild, sidebar
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_4749344d]] — 16 Sep — design system re-skin check, login background, workshop name
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_7d165055]] — 16 Sep — ECE data load, team codes, new secrets
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_0420ee88]] — 17–18 Sep — v2 night build (Lane A), deploy before Day 1, Tinkercad, survey mode
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_304062ff]] — 17 Sep — no date locks, admin visibility, lead-only tabs, staff password
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_51587eed]] — 17 Sep — team and lead list per department
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_b0efea84]] — 17 Sep — v2 Lane B: profile completion, Drive client, CV migration script
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_c3517afb]] — 17 Sep — required profile answers (10 chars), PDF/DOCX only, deploy
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_fc9fb15c]] — 17 Sep — UI polish, staff projects, open/close, scoring, test team, go live
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8c3b0c60]] — 18–19 Sep — Drive go-live, Tinkercad deploy, CVs to Drive, folder lock, projects admin
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8da504f0]] — 18–19 Sep — health check, known issues, project formats, project groups
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_2bfb9c3b]] — 19 Sep — chase lists, survey Track 2 (Lane A), live 500 fix
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_575dea2b]] — 19 Sep — per-student tasks, orphan Drive files, 58 s deploy
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_919f31ff]] — 19 Sep — Lane B: fake data, harness, handover
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_b78f928f]] — 19 Sep — React UI migration (26 screens), shape check, local run
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_4ad34fb2]] — 23 Sep — marking review, per-member rank, certificates built and live
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_fd2efc80]] — 23–25 Sep — comparison tool research, CV plan, OCR, final resume upload deploy
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-24_ac3e9176]] — 24 Sep — leaderboard rank bug, team-size scaling (Option B), deploy
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_1d4a65ed]] — 25 Sep — local run, adjustments show date
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_77f6dee5]] — 25 Sep — marking exports, attendance, overall sheet, resumes sheet
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_96117e33]] — 25–26 Sep — full export pack, final scores from PDF, board shows final only
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_9dee9cca]] — 25 Sep — board closed to students, request points, admin switch
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_35896f6f]] — 26 Sep — hide project score from students
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_4a7c9e26]] — 26 Sep — joint 1st place, top four set, project marks hidden from staff
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_7e7879d5]] — 26 Sep — project evaluation form (out of 50), live and tested
-- [[Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-28_467fca82]] — 28 Sep — late submissions export, client photo folder, certificate download count
+- araCreate-ARA-VCET__2026-07-30_63662178 (archived: Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-30_63662178.md) — 30 Jul — 3D scroll website for the bootcamp, Sketchfab models
+- araCreate-ARA-VCET__2026-07-31_0b04f0ff (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_0b04f0ff.md) — 31 Jul — (REGEN Room) hero height, short
+- araCreate-ARA-VCET__2026-07-31_214fd31f (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_214fd31f.md) — 31 Jul — (REGEN Room) PRP apply section, testimonials, responsive
+- araCreate-ARA-VCET__2026-07-31_2a648033 (archived: Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-31_2a648033.md) — 31 Jul — run project locally, short
+- araCreate-ARA-VCET__2026-07-31_7365f964 (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_7365f964.md) — 31 Jul — (REGEN Room) PRP page nav, video cards to Figma
+- araCreate-ARA-VCET__2026-07-31_c147b55b (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_c147b55b.md) — 31 Jul — (REGEN Room) PRP apply section, responsive (copy of 214fd31f)
+- araCreate-ARA-VCET__2026-08-03_399bc7ee (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_399bc7ee.md) — 3 Aug — (REGEN Room) video thumbnail, testimonial carousel
+- araCreate-ARA-VCET__2026-08-03_bd19a94e (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_bd19a94e.md) — 3–4 Aug — (REGEN Room) Kartra popup, nav button, mobile nav, overlays
+- araCreate-ARA-VCET__2026-08-05_759444fb (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-05_759444fb.md) — 5 Aug — (REGEN Room) mobile bugs, wrong push to production, backup restore
+- araCreate-ARA-VCET__2026-08-11_d0268dd2 (archived: Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-11_d0268dd2.md) — 11 Aug — (REGEN Room) SEO/GEO, schema, alt text, backlinks
+- araCreate-ARA-VCET__2026-08-11_e61dcc0e (archived: Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-08-11_e61dcc0e.md) — 11 Aug — personal daily dashboard (Gmail/Calendar/Slack)
+- araCreate-bootcamp-dashboard__2026-09-16_12ce8e08 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_12ce8e08.md) — 16 Sep — local setup, EEE data, admin panel check, profile migration
+- araCreate-bootcamp-dashboard__2026-09-16_298bcbac (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_298bcbac.md) — 16–17 Sep — resume upload to server, student side rebuild, sidebar
+- araCreate-bootcamp-dashboard__2026-09-16_4749344d (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_4749344d.md) — 16 Sep — design system re-skin check, login background, workshop name
+- araCreate-bootcamp-dashboard__2026-09-16_7d165055 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_7d165055.md) — 16 Sep — ECE data load, team codes, new secrets
+- araCreate-bootcamp-dashboard__2026-09-17_0420ee88 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_0420ee88.md) — 17–18 Sep — v2 night build (Lane A), deploy before Day 1, Tinkercad, survey mode
+- araCreate-bootcamp-dashboard__2026-09-17_304062ff (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_304062ff.md) — 17 Sep — no date locks, admin visibility, lead-only tabs, staff password
+- araCreate-bootcamp-dashboard__2026-09-17_51587eed (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_51587eed.md) — 17 Sep — team and lead list per department
+- araCreate-bootcamp-dashboard__2026-09-17_b0efea84 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_b0efea84.md) — 17 Sep — v2 Lane B: profile completion, Drive client, CV migration script
+- araCreate-bootcamp-dashboard__2026-09-17_c3517afb (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_c3517afb.md) — 17 Sep — required profile answers (10 chars), PDF/DOCX only, deploy
+- araCreate-bootcamp-dashboard__2026-09-17_fc9fb15c (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_fc9fb15c.md) — 17 Sep — UI polish, staff projects, open/close, scoring, test team, go live
+- araCreate-bootcamp-dashboard__2026-09-18_8c3b0c60 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8c3b0c60.md) — 18–19 Sep — Drive go-live, Tinkercad deploy, CVs to Drive, folder lock, projects admin
+- araCreate-bootcamp-dashboard__2026-09-18_8da504f0 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8da504f0.md) — 18–19 Sep — health check, known issues, project formats, project groups
+- araCreate-bootcamp-dashboard__2026-09-19_2bfb9c3b (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_2bfb9c3b.md) — 19 Sep — chase lists, survey Track 2 (Lane A), live 500 fix
+- araCreate-bootcamp-dashboard__2026-09-19_575dea2b (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_575dea2b.md) — 19 Sep — per-student tasks, orphan Drive files, 58 s deploy
+- araCreate-bootcamp-dashboard__2026-09-19_919f31ff (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_919f31ff.md) — 19 Sep — Lane B: fake data, harness, handover
+- araCreate-bootcamp-dashboard__2026-09-19_b78f928f (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_b78f928f.md) — 19 Sep — React UI migration (26 screens), shape check, local run
+- araCreate-bootcamp-dashboard__2026-09-23_4ad34fb2 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_4ad34fb2.md) — 23 Sep — marking review, per-member rank, certificates built and live
+- araCreate-bootcamp-dashboard__2026-09-23_fd2efc80 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_fd2efc80.md) — 23–25 Sep — comparison tool research, CV plan, OCR, final resume upload deploy
+- araCreate-bootcamp-dashboard__2026-09-24_ac3e9176 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-24_ac3e9176.md) — 24 Sep — leaderboard rank bug, team-size scaling (Option B), deploy
+- araCreate-bootcamp-dashboard__2026-09-25_1d4a65ed (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_1d4a65ed.md) — 25 Sep — local run, adjustments show date
+- araCreate-bootcamp-dashboard__2026-09-25_77f6dee5 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_77f6dee5.md) — 25 Sep — marking exports, attendance, overall sheet, resumes sheet
+- araCreate-bootcamp-dashboard__2026-09-25_96117e33 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_96117e33.md) — 25–26 Sep — full export pack, final scores from PDF, board shows final only
+- araCreate-bootcamp-dashboard__2026-09-25_9dee9cca (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_9dee9cca.md) — 25 Sep — board closed to students, request points, admin switch
+- araCreate-bootcamp-dashboard__2026-09-26_35896f6f (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_35896f6f.md) — 26 Sep — hide project score from students
+- araCreate-bootcamp-dashboard__2026-09-26_4a7c9e26 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_4a7c9e26.md) — 26 Sep — joint 1st place, top four set, project marks hidden from staff
+- araCreate-bootcamp-dashboard__2026-09-26_7e7879d5 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_7e7879d5.md) — 26 Sep — project evaluation form (out of 50), live and tested
+- araCreate-bootcamp-dashboard__2026-09-28_467fca82 (archived: Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-28_467fca82.md) — 28 Sep — late submissions export, client photo folder, certificate download count

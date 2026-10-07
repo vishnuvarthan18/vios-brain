@@ -68,6 +68,6 @@ owner: "[[People/Vishnu]]"
 - Exact address, opening hours, analytics IDs and social links are still unknown.
 
 ## 9. All chats in this project
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_e1378dbf|Root structure into src, verified commits]] — 2026-10-01
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_ebf9d469|Root structure (empty start)]] — 2026-10-01
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-09-26_99f545a6|Run locally, conventions, health, push]] — 2026-09-26
+- Root structure into src, verified commits (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_e1378dbf.md) — 2026-10-01
+- Root structure (empty start) (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_ebf9d469.md) — 2026-10-01
+- Run locally, conventions, health, push (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-09-26_99f545a6.md) — 2026-09-26

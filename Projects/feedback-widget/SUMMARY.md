@@ -130,26 +130,26 @@ updated: 2026-10-06
 - Scratch `_tmp-*` files and untracked test files left in `testing_widget`.
 
 ## 9. All chats in this project
-- Index: [[Projects/feedback-widget/chats/INDEX]] · Claude Code sessions: see [[Projects/feedback-widget/DEV-LOG]] session index
-- [[Projects/feedback-widget/chats/2026-08-24 Text explanation|Text explanation]] — 2026-08-24
-- [[Projects/feedback-widget/chats/2026-08-25 Client message|Client message]] — 2026-08-25
-- [[Projects/feedback-widget/chats/2026-09-01 Content clarity research|Content clarity research]] — 2026-09-01
-- [[Projects/feedback-widget/chats/2026-09-02 Planning and readiness check|Planning and readiness check]] — 2026-09-02
-- [[Projects/feedback-widget/chats/2026-09-02 Project tech stack overview|Project tech stack overview]] — 2026-09-02
-- [[Projects/feedback-widget/chats/2026-09-07 AI agent development setup|AI agent development setup]] — 2026-09-07
-- [[Projects/feedback-widget/chats/2026-09-07 Progress and pending items|Progress and pending items]] — 2026-09-07
-- [[Projects/feedback-widget/chats/2026-09-08 Dev agent development|Dev agent development]] — 2026-09-08
-- [[Projects/feedback-widget/chats/2026-09-08 Discussion starter|Discussion starter]] — 2026-09-08
-- [[Projects/feedback-widget/chats/2026-09-08 Overnight run completion|Overnight run completion]] — 2026-09-08
-- [[Projects/feedback-widget/chats/2026-09-09 Feedback widget HTTPS setup|Feedback widget HTTPS setup]] — 2026-09-09
-- [[Projects/feedback-widget/chats/2026-09-09 Feedback widget end-to-end testing|Feedback widget end-to-end testing]] — 2026-09-09
-- [[Projects/feedback-widget/chats/2026-09-09 Pending items (NGf2J6)|Pending items (NGf2J6)]] — 2026-09-09
-- [[Projects/feedback-widget/chats/2026-09-09 Pending items|Pending items]] — 2026-09-09
-- [[Projects/feedback-widget/chats/2026-09-10 Screenshot speed optimization|Screenshot speed optimization]] — 2026-09-10
-- [[Projects/feedback-widget/chats/2026-09-10 Server-side capture A-B test|Server-side capture A-B test]] — 2026-09-10
-- [[Projects/feedback-widget/chats/2026-09-11 Returning session|Returning session]] — 2026-09-11
-- [[Projects/feedback-widget/chats/2026-09-21 Capture engine session record|Capture engine session record]] — 2026-09-21
-- [[Projects/feedback-widget/chats/2026-09-21 Pending items|Pending items]] — 2026-09-21
-- [[Projects/feedback-widget/chats/2026-09-21 Project next steps|Project next steps]] — 2026-09-21
-- [[Projects/feedback-widget/chats/2026-09-22 Continuation|Continuation]] — 2026-09-22
-- [[Projects/feedback-widget/chats/2026-09-22 Engine fix alignment|Engine fix alignment]] — 2026-09-22
+- Index: INDEX (archived: Projects/feedback-widget/chats/INDEX.md) · Claude Code sessions: see [[Projects/feedback-widget/DEV-LOG]] session index
+- Text explanation (archived: Projects/feedback-widget/chats/2026-08-24 Text explanation.md) — 2026-08-24
+- Client message (archived: Projects/feedback-widget/chats/2026-08-25 Client message.md) — 2026-08-25
+- Content clarity research (archived: Projects/feedback-widget/chats/2026-09-01 Content clarity research.md) — 2026-09-01
+- Planning and readiness check (archived: Projects/feedback-widget/chats/2026-09-02 Planning and readiness check.md) — 2026-09-02
+- Project tech stack overview (archived: Projects/feedback-widget/chats/2026-09-02 Project tech stack overview.md) — 2026-09-02
+- AI agent development setup (archived: Projects/feedback-widget/chats/2026-09-07 AI agent development setup.md) — 2026-09-07
+- Progress and pending items (archived: Projects/feedback-widget/chats/2026-09-07 Progress and pending items.md) — 2026-09-07
+- Dev agent development (archived: Projects/feedback-widget/chats/2026-09-08 Dev agent development.md) — 2026-09-08
+- Discussion starter (archived: Projects/feedback-widget/chats/2026-09-08 Discussion starter.md) — 2026-09-08
+- Overnight run completion (archived: Projects/feedback-widget/chats/2026-09-08 Overnight run completion.md) — 2026-09-08
+- Feedback widget HTTPS setup (archived: Projects/feedback-widget/chats/2026-09-09 Feedback widget HTTPS setup.md) — 2026-09-09
+- Feedback widget end-to-end testing (archived: Projects/feedback-widget/chats/2026-09-09 Feedback widget end-to-end testing.md) — 2026-09-09
+- Pending items (NGf2J6) (archived: Projects/feedback-widget/chats/2026-09-09 Pending items (NGf2J6).md) — 2026-09-09
+- Pending items (archived: Projects/feedback-widget/chats/2026-09-09 Pending items.md) — 2026-09-09
+- Screenshot speed optimization (archived: Projects/feedback-widget/chats/2026-09-10 Screenshot speed optimization.md) — 2026-09-10
+- Server-side capture A-B test (archived: Projects/feedback-widget/chats/2026-09-10 Server-side capture A-B test.md) — 2026-09-10
+- Returning session (archived: Projects/feedback-widget/chats/2026-09-11 Returning session.md) — 2026-09-11
+- Capture engine session record (archived: Projects/feedback-widget/chats/2026-09-21 Capture engine session record.md) — 2026-09-21
+- Pending items (archived: Projects/feedback-widget/chats/2026-09-21 Pending items.md) — 2026-09-21
+- Project next steps (archived: Projects/feedback-widget/chats/2026-09-21 Project next steps.md) — 2026-09-21
+- Continuation (archived: Projects/feedback-widget/chats/2026-09-22 Continuation.md) — 2026-09-22
+- Engine fix alignment (archived: Projects/feedback-widget/chats/2026-09-22 Engine fix alignment.md) — 2026-09-22

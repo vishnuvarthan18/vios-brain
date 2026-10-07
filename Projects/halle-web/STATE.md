@@ -33,4 +33,4 @@ Full history: [[Projects/halle-web/SUMMARY]] · Log: [[Projects/halle-web/LOG]] 
 - Staging: halle-dev.webflow.io/style-guide
 - Figma: figma.com/design/A7xoUgwhqye2UmZ7R2Obfa/www.b-halle.de (Design System page node 374-362)
 - Docs: `halle-standard-design-values.md`, `halle-webflow-style-guide-progress.md`, `halle-design-system-next-steps.md`
-- Brand guide: [[Raw/mac-personal/Vishnu/projects /creative work/Branding/B-Halle-Optik-Logodesign-Guide-V01.pdf]]
+- Brand guide: B-Halle-Optik-Logodesign-Guide-V01.pdf (archived: Raw/mac-personal/Vishnu/projects /creative work/Branding/B-Halle-Optik-Logodesign-Guide-V01.pdf.md)

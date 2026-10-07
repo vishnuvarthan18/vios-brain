@@ -29,10 +29,10 @@ updated: 2026-10-06
 - Install GitHub CLI (`gh`) if PRs from Claude are wanted (not sure if done).
 
 ## Session index
-- [[Projects/system/claude-code/personal-mac__home__2026-10-03_7c74c9ce]] — 2026-10-03 — personal Mac slow (RAM/swap check)
-- [[Projects/system/claude-code/home__2026-10-05_92f60cc1]] — 2026-10-05 — kill all local runs
-- [[Projects/system/claude-code/home__2026-10-05_be5e9ba8]] — 2026-10-05 — title-only: kill local runs
-- [[Projects/system/claude-code/home__2026-09-03_45e6b494]] — 2026-09-03 — "what is your name"
-- [[Projects/system/claude-code/home__2026-09-03_017886b3]] — 2026-09-03 — stop all local servers and apps
-- [[Projects/system/claude-code/home__2026-07-14_2cc7102c]] — 2026-07-14 — first PR starter, gh missing
-- [[Projects/system/claude-code/home__2026-07-14_83819674]] — 2026-07-14 — backup ~/.claude, remove personal items
+- personal-mac__home__2026-10-03_7c74c9ce (archived: Projects/system/claude-code/personal-mac__home__2026-10-03_7c74c9ce.md) — 2026-10-03 — personal Mac slow (RAM/swap check)
+- home__2026-10-05_92f60cc1 (archived: Projects/system/claude-code/home__2026-10-05_92f60cc1.md) — 2026-10-05 — kill all local runs
+- home__2026-10-05_be5e9ba8 (archived: Projects/system/claude-code/home__2026-10-05_be5e9ba8.md) — 2026-10-05 — title-only: kill local runs
+- home__2026-09-03_45e6b494 (archived: Projects/system/claude-code/home__2026-09-03_45e6b494.md) — 2026-09-03 — "what is your name"
+- home__2026-09-03_017886b3 (archived: Projects/system/claude-code/home__2026-09-03_017886b3.md) — 2026-09-03 — stop all local servers and apps
+- home__2026-07-14_2cc7102c (archived: Projects/system/claude-code/home__2026-07-14_2cc7102c.md) — 2026-07-14 — first PR starter, gh missing
+- home__2026-07-14_83819674 (archived: Projects/system/claude-code/home__2026-07-14_83819674.md) — 2026-07-14 — backup ~/.claude, remove personal items

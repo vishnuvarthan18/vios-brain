@@ -42,4 +42,4 @@ owner: "[[People/Vishnu]]"
 - Where is the Worker source code (repo)?
 
 ## 9. All chats in this project
-- [[Projects/clockify-automation-project/chats/2026-08-18 Context verification|Context verification]] — 2026-08-18
+- Context verification (archived: Projects/clockify-automation-project/chats/2026-08-18 Context verification.md) — 2026-08-18

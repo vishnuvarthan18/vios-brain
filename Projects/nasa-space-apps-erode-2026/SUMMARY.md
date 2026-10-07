@@ -95,7 +95,7 @@ State: [[Projects/nasa-space-apps-erode-2026/STATE]] · Log: [[Projects/nasa-spa
 - **Budget:** ₹4.93 lakh for 200 participants (Mission Plan).
 - **Tools:** [[Tools/Claude]], [[Tools/Claude in Chrome]] (Space Apps site, WhatsApp Web), [[Tools/Gmail]], [[Tools/WhatsApp]], [[Tools/Slack]] (Local Lead Slack, `#questions-for-go-team`; invite link must not be shared), [[Tools/Google Drive]], [[Tools/Google Calendar]], [[Tools/LinkedIn]], [[Tools/Instagram]].
 - **Where work was done:** office Claude project (planning, decks) and personal claude.ai project "space app" (registrations, emails, WhatsApp). No GitHub repos or servers.
-- **Chats index:** [[Projects/nasa-space-apps-erode-2026/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/nasa-space-apps-erode-2026/chats/INDEX.md)
 
 ## 7. Files and documents
 - `docs/claude-erode-event-status.md` — status note (updated 1 Oct).
@@ -122,9 +122,9 @@ State: [[Projects/nasa-space-apps-erode-2026/STATE]] · Log: [[Projects/nasa-spa
 - Local Event Schedule tab (agenda) still empty.
 
 ## 9. All chats in this project
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-09-01 NASA Space Apps Erode handoff|NASA Space Apps Erode handoff]] — 2026-09-01 (office)
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-09-07 Event planning with VCET|Event planning with VCET]] — 2026-09-07 (office)
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-09-09 NASA Space Apps Batticaloa 2026|NASA Space Apps Batticaloa 2026]] — 2026-09-09 (office)
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-09-10 Social media promotion plan|Social media promotion plan]] — 2026-09-10 (office)
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-10-01 Message and mail response plan|Message and mail response plan]] — 2026-10-01 (personal)
-- [[Projects/nasa-space-apps-erode-2026/chats/2026-10-02 Moving project to viOS (11)|Moving project to viOS (11)]] — 2026-10-02 (personal)
+- NASA Space Apps Erode handoff (archived: Projects/nasa-space-apps-erode-2026/chats/2026-09-01 NASA Space Apps Erode handoff.md) — 2026-09-01 (office)
+- Event planning with VCET (archived: Projects/nasa-space-apps-erode-2026/chats/2026-09-07 Event planning with VCET.md) — 2026-09-07 (office)
+- NASA Space Apps Batticaloa 2026 (archived: Projects/nasa-space-apps-erode-2026/chats/2026-09-09 NASA Space Apps Batticaloa 2026.md) — 2026-09-09 (office)
+- Social media promotion plan (archived: Projects/nasa-space-apps-erode-2026/chats/2026-09-10 Social media promotion plan.md) — 2026-09-10 (office)
+- Message and mail response plan (archived: Projects/nasa-space-apps-erode-2026/chats/2026-10-01 Message and mail response plan.md) — 2026-10-01 (personal)
+- Moving project to viOS (11) (archived: Projects/nasa-space-apps-erode-2026/chats/2026-10-02 Moving project to viOS (11).md) — 2026-10-02 (personal)

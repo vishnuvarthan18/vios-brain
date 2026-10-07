@@ -55,7 +55,7 @@ updated: 2026-10-06
 - **Companies:** [[Companies/Sinolink]], [[Companies/araCreate Group]]
 - **Tools:** [[Tools/Webflow]], [[Tools/Claude Code]], [[Tools/Clockify]] (tag #slk), Web3Forms
 - **Links / repos / servers / file paths:** live www.sinolink.de and sinolink.pt; Webflow staging sinolink-dev.webflow.io; repo folder `araCreate/SLK/www.sinolink.de` (office Mac, branches `dev` and `main`); MCP folder `~/Desktop/sinolink` (`.mcp.json`). Webflow site/workspace IDs (not saved here).
-- **Dev history:** [[Projects/sinolink/DEV-LOG]] (Claude Code sessions, office Mac). Chats index: [[Projects/sinolink/chats/INDEX]].
+- **Dev history:** [[Projects/sinolink/DEV-LOG]] (Claude Code sessions, office Mac). Chats index: INDEX (archived: Projects/sinolink/chats/INDEX.md).
 - **Design:** new logo grey #7C7E7F + yellow #FBB404 (Sep 2026); earlier brand yellow #F6C506; legal pages use #f7f5f0 bg, #1a1a1a header/footer, gold #b5843a, Cormorant Garamond + DM Sans; nav uses the Walsh cloneable template classes (`walsh-nav-...-2`).
 - **Services (6 cards):** Source Inspection, Source Identification, Preparation, Partner Network, Forwarding, Fill the Gap.
 - **Related:** [[Projects/aracreate/SUMMARY]] (SinoLink LinkedIn launch post)
@@ -73,11 +73,11 @@ updated: 2026-10-06
 - 2026-06-02 "Axiom" service template (from Fleet template) — was it for SinoLink? (not sure)
 
 ## 9. All chats in this project
-- [[Projects/sinolink/chats/2026-06-02 Responsive maintenance page HTML|Responsive maintenance page HTML]] — 2026-06-02
-- [[Projects/sinolink/chats/2026-06-02 Website under development template|Website under development template]] — 2026-06-02
-- [[Projects/sinolink/chats/2026-06-03 Converting PDF legal pages to responsive website|Converting PDF legal pages to responsive website]] — 2026-06-03
-- [[Projects/sinolink/chats/2026-06-07 Connecting Webflow MCP to Claude in terminal|Connecting Webflow MCP to Claude in terminal]] — 2026-06-07
-- [[Projects/sinolink/chats/2026-06-08 Converting slider cards to vertical scroll|Converting slider cards to vertical scroll]] — 2026-06-08
-- [[Projects/sinolink/chats/2026-06-09 Webflow navbar logo visibility on mobile scroll|Webflow navbar logo visibility on mobile scroll]] — 2026-06-09
-- [[Projects/sinolink/chats/2026-06-11 Website full animation review|Website full animation review]] — 2026-06-11
-- [[Projects/sinolink/chats/2026-06-12 Forms not working after webflow export|Forms not working after webflow export]] — 2026-06-12
+- Responsive maintenance page HTML (archived: Projects/sinolink/chats/2026-06-02 Responsive maintenance page HTML.md) — 2026-06-02
+- Website under development template (archived: Projects/sinolink/chats/2026-06-02 Website under development template.md) — 2026-06-02
+- Converting PDF legal pages to responsive website (archived: Projects/sinolink/chats/2026-06-03 Converting PDF legal pages to responsive website.md) — 2026-06-03
+- Connecting Webflow MCP to Claude in terminal (archived: Projects/sinolink/chats/2026-06-07 Connecting Webflow MCP to Claude in terminal.md) — 2026-06-07
+- Converting slider cards to vertical scroll (archived: Projects/sinolink/chats/2026-06-08 Converting slider cards to vertical scroll.md) — 2026-06-08
+- Webflow navbar logo visibility on mobile scroll (archived: Projects/sinolink/chats/2026-06-09 Webflow navbar logo visibility on mobile scroll.md) — 2026-06-09
+- Website full animation review (archived: Projects/sinolink/chats/2026-06-11 Website full animation review.md) — 2026-06-11
+- Forms not working after webflow export (archived: Projects/sinolink/chats/2026-06-12 Forms not working after webflow export.md) — 2026-06-12

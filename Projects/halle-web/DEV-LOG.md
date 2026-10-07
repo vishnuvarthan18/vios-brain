@@ -35,10 +35,10 @@ updated: 2026-10-06
 - Carry out the text hierarchy plan (Phase 1–3; optional Phase 4 section headers 40px).
 
 ## Session index
-- (moved to feedback-widget) [[Projects/feedback-widget/claude-code/home__2026-10-05_38619bdb]], [[Projects/feedback-widget/claude-code/home__2026-10-05_eacda357]] — 2026-10-05 — server login
-- [[Projects/halle-web/claude-code/home__2026-07-17_b012888e]] — 2026-07-17 — commemorative card, responsive fixes, type hierarchy plan
-- [[Projects/halle-web/claude-code/home__2026-07-14_79a8e2c7]] — 2026-07-14 — v2 dropped, hero gaps >1794px, logo gap
-- [[Projects/halle-web/claude-code/home__2026-07-14_36dfe593]] — 2026-07-14 — hero curve wide-screen fix, revert, split hero/logos
-- [[Projects/halle-web/claude-code/home__2026-07-14_67726727]] — 2026-07-14 — Home v2 nav, Figma MCP connection help
-- [[Projects/halle-web/claude-code/home__2026-07-14_cfcb6aaa]] — 2026-07-14 — new home from Figma, native nav rebuild
-- [[Projects/halle-web/claude-code/home__2026-07-13_63996ee1]] — 2026-07-13 to 07-14 — hero SVG curve, home broken and rebuilt, exact Figma curve
+- (moved to feedback-widget) home__2026-10-05_38619bdb (archived: Projects/feedback-widget/claude-code/home__2026-10-05_38619bdb.md), home__2026-10-05_eacda357 (archived: Projects/feedback-widget/claude-code/home__2026-10-05_eacda357.md) — 2026-10-05 — server login
+- home__2026-07-17_b012888e (archived: Projects/halle-web/claude-code/home__2026-07-17_b012888e.md) — 2026-07-17 — commemorative card, responsive fixes, type hierarchy plan
+- home__2026-07-14_79a8e2c7 (archived: Projects/halle-web/claude-code/home__2026-07-14_79a8e2c7.md) — 2026-07-14 — v2 dropped, hero gaps >1794px, logo gap
+- home__2026-07-14_36dfe593 (archived: Projects/halle-web/claude-code/home__2026-07-14_36dfe593.md) — 2026-07-14 — hero curve wide-screen fix, revert, split hero/logos
+- home__2026-07-14_67726727 (archived: Projects/halle-web/claude-code/home__2026-07-14_67726727.md) — 2026-07-14 — Home v2 nav, Figma MCP connection help
+- home__2026-07-14_cfcb6aaa (archived: Projects/halle-web/claude-code/home__2026-07-14_cfcb6aaa.md) — 2026-07-14 — new home from Figma, native nav rebuild
+- home__2026-07-13_63996ee1 (archived: Projects/halle-web/claude-code/home__2026-07-13_63996ee1.md) — 2026-07-13 to 07-14 — hero SVG curve, home broken and rebuilt, exact Figma curve

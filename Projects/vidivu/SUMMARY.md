@@ -98,7 +98,7 @@ State: [[Projects/vidivu/STATE]] · Log: [[Projects/vidivu/LOG]]
 - **Repo:** github.com/vishnuvarthan18/vidivu.in- (on [[Tools/GitHub]]). Local copy `~/vidivu.in` (since 2026-08-10). Older local folder had a trailing space in its name; folders scattered across Desktop and Downloads (cleanup paused).
 - **Domain:** vidivu.in on [[Tools/Cloudflare]]. Subdomain `ops.vidivu.in` used by [[Projects/india-data-atlas/SUMMARY]].
 - **Hosting:** [[Tools/Vercel]] planned (free tier). Not deployed (as of last session 2026-08-10).
-- **Dev history:** [[Projects/vidivu/DEV-LOG]] (Claude Code sessions, personal Mac). Chats index: [[Projects/vidivu/chats/INDEX]]. Project docs copied to `docs/`.
+- **Dev history:** [[Projects/vidivu/DEV-LOG]] (Claude Code sessions, personal Mac). Chats index: INDEX (archived: Projects/vidivu/chats/INDEX.md). Project docs copied to `docs/`.
 - **Not Vidivu (filed here by folder only):** "Halo / USD Halo" stablecoin landing page (2026-08-03, `~/Desktop/vidivu.in`, practice build, not sure); gift portfolio site for photographer [[People/Nevin Xavier]] (21 Aug 2026); "Waterminal AI for buildings" idea chat (separate idea).
 - **Stack:** [[Tools/Next.js]] 16, [[Tools/Tailwind CSS]] v4, shadcn-compatible components ([[Tools/shadcn-ui]]).
 - **Design tools:** [[Tools/Google Stitch]] (page mockups), [[Tools/Figma]] (logo).

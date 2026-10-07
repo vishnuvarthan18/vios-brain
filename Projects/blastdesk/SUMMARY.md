@@ -50,5 +50,5 @@ updated: 2026-10-06
 - Is the v2 rebuild finished?
 
 ## 9. All chats in this project
-- [[Projects/blastdesk/chats/2026-10-02 Moving project to viOS (3)|Moving project to viOS (3)]] — 2026-10-02
-- [[Projects/blastdesk/chats/2026-10-02 Moving project to viOS (6)|Moving project to viOS (6)]] — 2026-10-02
+- Moving project to viOS (3) (archived: Projects/blastdesk/chats/2026-10-02 Moving project to viOS (3).md) — 2026-10-02
+- Moving project to viOS (6) (archived: Projects/blastdesk/chats/2026-10-02 Moving project to viOS (6).md) — 2026-10-02

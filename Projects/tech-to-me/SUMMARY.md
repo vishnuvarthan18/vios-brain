@@ -59,7 +59,7 @@ updated: 2026-10-06
 - **Tools:** [[Tools/Claude]], [[Tools/Claude Code]], [[Tools/Claude in Chrome]], [[Tools/VS Code]], [[Tools/n8n]], [[Tools/React]], [[Tools/Tailwind CSS]], [[Tools/Vite]], Webflow MCP, Headroom, Arduino IDE, NodeMCU ESP8266, KiCad and Fusion 360 (planned)
 - **Links / repos / servers / file paths:** Headroom: github.com/headroomlabs-ai/headroom. Webflow MCP package: `webflow-mcp-server` (stdio). Webflow token (secret, not saved) — it was pasted in a chat, so it should be rotated. GitHub: `conventions`, `project-template`, `vishnuvarthan18` (profile README).
 - **Dev history:** none here. The 2 Claude Code sessions once filed here (2026-07-29, folder `own/demo-projects/ai-siite-2`) were The Regen Room "Perimenopause Reset Programme" page and were moved to [[Projects/the-regen-room/DEV-LOG]]. Stub: [[Projects/tech-to-me/DEV-LOG]].
-- **Chats index:** [[Projects/tech-to-me/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/tech-to-me/chats/INDEX.md)
 - **Related:** [[Projects/aracreate-academy/SUMMARY]] (NodeMCU ideas for the kids' academy), [[Projects/career/SUMMARY]], [[Projects/wedding2day-app/SUMMARY]]
 
 ## 7. Files and documents
@@ -79,18 +79,18 @@ updated: 2026-10-06
 - Has Software Phase 1 really started? No sessions are logged.
 
 ## 9. All chats in this project
-- [[Projects/tech-to-me/chats/2025-05-12 Free Hosting Options for n8n Automation|Free Hosting Options for n8n Automation]] — 2025-05-12
-- [[Projects/tech-to-me/chats/2025-05-28 Optimal Font Sizes for 430px Mobile Screens|Optimal Font Sizes for 430px Mobile Screens]] — 2025-05-28
-- [[Projects/tech-to-me/chats/2026-06-03 Maximizing Claude Pro credits and usage|Maximizing Claude Pro credits and usage]] — 2026-06-03
-- [[Projects/tech-to-me/chats/2026-06-09 Connecting Claude to multiple websites in Webflow|Connecting Claude to multiple websites in Webflow]] — 2026-06-09
-- [[Projects/tech-to-me/chats/2026-06-10 Connecting multiple Webflow websites to Claude|Connecting multiple Webflow websites to Claude]] — 2026-06-10
-- [[Projects/tech-to-me/chats/2026-06-10 Getting started with Arduino embedded systems|Getting started with Arduino embedded systems]] — 2026-06-10
-- [[Projects/tech-to-me/chats/2026-06-11 Viewing local site in VS Code|Viewing local site in VS Code]] — 2026-06-11
-- [[Projects/tech-to-me/chats/2026-06-12 AI website builder identification|AI website builder identification]] — 2026-06-12
-- [[Projects/tech-to-me/chats/2026-06-15 Claude modules and their uses|Claude modules and their uses]] — 2026-06-15
-- [[Projects/tech-to-me/chats/2026-06-21 Resolving npm permission denied errors|Resolving npm permission denied errors]] — 2026-06-21
-- [[Projects/tech-to-me/chats/2026-06-29 Installing Headroom token reduction tool|Installing Headroom token reduction tool]] — 2026-06-29
-- [[Projects/tech-to-me/chats/2026-06-29 Usage credits not working|Usage credits not working]] — 2026-06-29
-- [[Projects/tech-to-me/chats/2026-07-14 Disconnecting office account from personal Claude|Disconnecting office account from personal Claude]] — 2026-07-14
-- [[Projects/tech-to-me/chats/2026-07-24 Frontend design skill review|Frontend design skill review]] — 2026-07-24
-- [[Projects/tech-to-me/chats/2026-09-17 NodeMcu ESP8266 V3 WiFi Dev Board setup|NodeMcu ESP8266 V3 WiFi Dev Board setup]] — 2026-09-17
+- Free Hosting Options for n8n Automation (archived: Projects/tech-to-me/chats/2025-05-12 Free Hosting Options for n8n Automation.md) — 2025-05-12
+- Optimal Font Sizes for 430px Mobile Screens (archived: Projects/tech-to-me/chats/2025-05-28 Optimal Font Sizes for 430px Mobile Screens.md) — 2025-05-28
+- Maximizing Claude Pro credits and usage (archived: Projects/tech-to-me/chats/2026-06-03 Maximizing Claude Pro credits and usage.md) — 2026-06-03
+- Connecting Claude to multiple websites in Webflow (archived: Projects/tech-to-me/chats/2026-06-09 Connecting Claude to multiple websites in Webflow.md) — 2026-06-09
+- Connecting multiple Webflow websites to Claude (archived: Projects/tech-to-me/chats/2026-06-10 Connecting multiple Webflow websites to Claude.md) — 2026-06-10
+- Getting started with Arduino embedded systems (archived: Projects/tech-to-me/chats/2026-06-10 Getting started with Arduino embedded systems.md) — 2026-06-10
+- Viewing local site in VS Code (archived: Projects/tech-to-me/chats/2026-06-11 Viewing local site in VS Code.md) — 2026-06-11
+- AI website builder identification (archived: Projects/tech-to-me/chats/2026-06-12 AI website builder identification.md) — 2026-06-12
+- Claude modules and their uses (archived: Projects/tech-to-me/chats/2026-06-15 Claude modules and their uses.md) — 2026-06-15
+- Resolving npm permission denied errors (archived: Projects/tech-to-me/chats/2026-06-21 Resolving npm permission denied errors.md) — 2026-06-21
+- Installing Headroom token reduction tool (archived: Projects/tech-to-me/chats/2026-06-29 Installing Headroom token reduction tool.md) — 2026-06-29
+- Usage credits not working (archived: Projects/tech-to-me/chats/2026-06-29 Usage credits not working.md) — 2026-06-29
+- Disconnecting office account from personal Claude (archived: Projects/tech-to-me/chats/2026-07-14 Disconnecting office account from personal Claude.md) — 2026-07-14
+- Frontend design skill review (archived: Projects/tech-to-me/chats/2026-07-24 Frontend design skill review.md) — 2026-07-24
+- NodeMcu ESP8266 V3 WiFi Dev Board setup (archived: Projects/tech-to-me/chats/2026-09-17 NodeMcu ESP8266 V3 WiFi Dev Board setup.md) — 2026-09-17

@@ -1,0 +1,533 @@
+Personal/chats/2026-06-02 Editing empty space in document.md
+Personal/chats/2026-07-23 Cycling and fitness industry growth potential.md
+Personal/chats/2026-07-12 Today's AI update.md
+Personal/chats/2026-07-13 Today update on tha world.md
+Personal/chats/2026-06-11 Correct TDS value for drinking water.md
+Personal/chats/2026-07-04 Detailed investigation overview.md
+Personal/chats/2026-06-06 Getting started with a new harmonica.md
+Personal/chats/2026-06-03 Organizing by category.md
+Personal/chats/2026-06-26 Bengaluru to Lucknow flight itinerary.md
+Personal/chats/2026-06-05 Grassroots leadership and community service motivation.md
+Personal/chats/2026-07-23 Projecting my future with 1% weekly improvements.md
+Personal/chats/2026-07-14 Apple device lock proposal not viable.md
+Personal/chats/2026-07-14 SOTA.zine- Y Combinator's DIY print-to-order publication.md
+Personal/chats/2026-07-09 Trip planning and advisor connections.md
+Personal/chats/2026-06-07 Airtel sim network reach.md
+Personal/chats/2025-06-10 Completing Anna's Call Tasks.md
+Personal/chats/2026-07-19 Static electricity buildup concerns.md
+Personal/chats/2026-10-02 Add all numbers.md
+Personal/chats/2026-06-11 Waiting list ticket refund policy.md
+Personal/chats/2026-06-09 Today.md
+Personal/chats/2026-07-01 Best tablet under 15k.md
+Personal/chats/2026-06-04 Planning a day with scientific methods.md
+Personal/chats/2026-06-07 What you know about me.md
+Personal/chats/2026-06-02 Memory update review.md
+Personal/chats/2026-07-14 Starvaa connection setup.md
+Personal/chats/2026-06-05 Top 10 world news.md
+Personal/chats/2026-06-11 Chair cushion replacement advice.md
+Personal/chats/2026-06-16 Incomplete conversation.md
+Personal/chats/2025-02-12 Brand Color Codes.md
+Personal/chats/_moved-to-private.md
+Personal/chats/2026-06-04 Improving personal habits.md
+Personal/chats/2026-06-04 Personal goal tracking system.md
+Personal/chats/2026-06-05 Best smartwatch brand recommendations.md
+Personal/chats/2026-06-21 Where we stopped.md
+Personal/claude-code/home__2026-10-01_6c9e74bf.md
+Personal/claude-code/home__2026-10-01_96ba3875.md
+Projects/ac-ds/chats/2026-08-21 Design systems merge.md
+Projects/ac-ds/chats/INDEX.md
+Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_09a74d35.md
+Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_aee944f1.md
+Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_2634b7f3.md
+Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_3f19615a.md
+Projects/ac-iso-27001-isms/chats/2026-06-15 ISO audit preparation checklist.md
+Projects/ac-iso-27001-isms/chats/2026-06-12 Preparing for second audit checklist.md
+Projects/ac-iso-27001-isms/chats/2026-06-02 ISO 27001 audit non-conformities clearance.md
+Projects/ac-iso-27001-isms/chats/INDEX.md
+Projects/ac-iso-27001-isms/chats/2026-10-02 Move project to viOS.md
+Projects/ac-iso-27001-isms/chats/2026-06-13 ISO documentation structure and organization.md
+Projects/ac-iso-27001-isms/chats/2026-06-15 Organizing drive file structure.md
+Projects/ac-iso-27001-isms/chats/2026-06-13 Evidence requirements.md
+Projects/ac-iso-27001-isms/chats/2026-06-15 ACI-ISMS audit checklist structure.md
+Projects/ac-training/chats/2026-09-19 Dual development lanes.md
+Projects/ac-training/chats/2026-09-16 UI-UX production workflow.md
+Projects/ac-training/chats/INDEX.md
+Projects/ac-training/chats/2026-09-24 Daily poster for social media.md
+Projects/ac-training/chats/2026-09-20 Project bugs and dashboard issues.md
+Projects/ac-training/chats/2026-09-19 Completing and completed.md
+Projects/ac-training/chats/2026-09-17 Student progress tracking platform.md
+Projects/ac-training/chats/2026-09-16 Bootcamp infrastructure setup.md
+Projects/ac-training/chats/2026-09-26 Team photo and project form.md
+Projects/ac-training/chats/2026-09-16 The plan.md
+Projects/ac-training/chats/2026-09-20 Deployment tasks.md
+Projects/ac-training/chats/2026-09-19 Track 5 student profile page.md
+Projects/ac-training/chats/2026-09-16 Progress so far.md
+Projects/ac-training/chats/2026-09-19 Session state review.md
+Projects/ac-training/chats/2026-09-19 Rework status report.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_96117e33.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_7e7879d5.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_9dee9cca.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_4749344d.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_fc9fb15c.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_0420ee88.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_c3517afb.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_575dea2b.md
+Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-08-11_e61dcc0e.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_12ce8e08.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_7d165055.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_1d4a65ed.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_919f31ff.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_fd2efc80.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8c3b0c60.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-18_8da504f0.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_304062ff.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_4a7c9e26.md
+Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-31_2a648033.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-26_35896f6f.md
+Projects/ac-training/claude-code/home__2026-09-16_46d014af.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-16_298bcbac.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_b0efea84.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-23_4ad34fb2.md
+Projects/ac-training/claude-code/araCreate-ARA-VCET__2026-07-30_63662178.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_2bfb9c3b.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-24_ac3e9176.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-17_51587eed.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-19_b78f928f.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-25_77f6dee5.md
+Projects/ac-training/claude-code/araCreate-bootcamp-dashboard__2026-09-28_467fca82.md
+Projects/aracreate-academy/chats/2026-06-26 Marketing robotics and AI to schools.md
+Projects/aracreate-academy/chats/2026-09-19 Custom question formatting request.md
+Projects/aracreate-academy/chats/2026-07-16 Job description template customization.md
+Projects/aracreate-academy/chats/INDEX.md
+Projects/aracreate-academy/chats/2026-06-14 Social media reach analysis for poster content.md
+Projects/aracreate-academy/chats/2026-06-30 First 10 social media content ideas.md
+Projects/aracreate-academy/chats/2026-07-23 Incomplete request.md
+Projects/aracreate-academy/chats/2026-07-23 Simplify page 2 layout.md
+Projects/aracreate-academy/chats/2026-07-22 Quick deck changes.md
+Projects/aracreate/chats/2026-08-07 Design system components for website.md
+Projects/aracreate/chats/2026-07-01 Webflow AI not showing on some sites.md
+Projects/aracreate/chats/INDEX.md
+Projects/aracreate/chats/2026-08-19 Website export from Webflow.md
+Projects/aracreate/chats/2026-07-16 Claude's capabilities beyond UI-UX design.md
+Projects/aracreate/chats/2026-09-22 WhatsApp contact link.md
+Projects/aracreate/chats/2026-07-15 PDF content verification across design versions.md
+Projects/aracreate/chats/2026-07-03 LinkedIn testimonial for improved website results.md
+Projects/aracreate/chats/2026-06-23 Customizing Webflow template for brand.md
+Projects/aracreate/chats/2026-08-19 Design system planning.md
+Projects/aracreate/chats/2026-06-21 Creating editable chip package design with AI.md
+Projects/aracreate/chats/2026-06-19 Freelance website with enrollment and ID card system.md
+Projects/arakraft/claude-code/Downloads-arakraft-works__2026-09-26_99f545a6.md
+Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_e1378dbf.md
+Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_ebf9d469.md
+Projects/arm-ui/chats/2026-07-14 Migrating Claude Projects to enterprise accounts.md
+Projects/arm-ui/chats/INDEX.md
+Projects/arm-ui/chats/2026-06-12 Deep research from PM perspective.md
+Projects/arm-ui/chats/2026-06-22 Last prompt clarification.md
+Projects/arm-ui/chats/2026-10-02 Moving project to viOS.md
+Projects/arm-ui/chats/2026-06-10 Migrating Figma design to Radix UI components.md
+Projects/arm-ui/chats/2026-05-23 Comprehensive application documentation for developers.md
+Projects/arm-ui/chats/2026-06-21 Role-based platform architecture with admin, operator, and user personas.md
+Projects/arm-ui/chats/2026-06-05 Shadcn UI implementation for our project.md
+Projects/arm-ui/chats/2026-06-19 Stage 1 — go.md
+Projects/arm-ui/chats/2026-06-12 Generate separate dev and testing documentation.md
+Projects/arm-ui/chats/2026-10-02 Moving project to viOS (2).md
+Projects/arm-ui/chats/2026-06-17 Project overview explanation.md
+Projects/arm-ui/chats/2026-06-17 Radix UI web application Figma files.md
+Projects/arm-ui/chats/2026-06-21 Full app reference UI prompt for Claude.md
+Projects/arm-ui/chats/2026-06-22 Resuming previous discussion.md
+Projects/arm-ui/chats/2026-06-19 ARM requirement brief for UI-UX design.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-08-31_ebf2e4c3.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_570f9c1f.md
+Projects/arm-ui/claude-code/home__2026-09-08_df42755a.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_9a333fc6.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_7e2d7142.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker__2026-08-29_aa78b203.md
+Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43c896f3.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-02_81bed4d1.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-arm-service-notification__2026-09-03_aed6b2b2.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_6d78c6a6.md
+Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_c5ee5b57.md
+Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43367165.md
+Projects/blastdesk/chats/2026-10-02 Moving project to viOS (6).md
+Projects/blastdesk/chats/INDEX.md
+Projects/blastdesk/chats/2026-10-02 Moving project to viOS (3).md
+Projects/career/chats/2026-07-24 Affordable niche master's degree online.md
+Projects/career/chats/2026-08-10 Spec review and implementation recommendations.md
+Projects/career/chats/2026-07-03 LinkedIn profile write-up placement.md
+Projects/career/chats/INDEX.md
+Projects/career/chats/2026-07-09 vishnu portfolio.md
+Projects/career/chats/2026-07-28 IELTS certificate loopholes and shortcuts.md
+Projects/career/chats/2025-08-07 Project Management Certification Pathways.md
+Projects/career/chats/2026-06-18 AI tools for UI-UX design.md
+Projects/career/chats/2026-07-24 Master's degree in anthropology.md
+Projects/clockify-automation-project/chats/INDEX.md
+Projects/clockify-automation-project/chats/2026-08-18 Context verification.md
+Projects/clockify/chats/2026-10-02 Moving project to viOS (10).md
+Projects/clockify/chats/INDEX.md
+Projects/clockify/chats/2026-09-01 Clockify time report review.md
+Projects/clockify/chats/2026-09-30 Google Chrome clicky entries.md
+Projects/clockify/chats/2026-09-30 Clockify entries analysis.md
+Projects/ede-website-proposal/chats/INDEX.md
+Projects/ede-website-proposal/chats/2026-10-01 EDE Snapshot project scope.md
+Projects/feedback-widget/chats/2026-09-09 Feedback widget HTTPS setup.md
+Projects/feedback-widget/chats/2026-09-08 Dev agent development.md
+Projects/feedback-widget/chats/2026-09-09 Pending items.md
+Projects/feedback-widget/chats/2026-09-09 Pending items (NGf2J6).md
+Projects/feedback-widget/chats/2026-09-10 Screenshot speed optimization.md
+Projects/feedback-widget/chats/2026-09-21 Project next steps.md
+Projects/feedback-widget/chats/2026-09-02 Planning and readiness check.md
+Projects/feedback-widget/chats/2026-09-21 Capture engine session record.md
+Projects/feedback-widget/chats/2026-09-21 Pending items.md
+Projects/feedback-widget/chats/INDEX.md
+Projects/feedback-widget/chats/2026-09-08 Discussion starter.md
+Projects/feedback-widget/chats/2026-08-24 Text explanation.md
+Projects/feedback-widget/chats/2026-09-22 Engine fix alignment.md
+Projects/feedback-widget/chats/2026-09-07 Progress and pending items.md
+Projects/feedback-widget/chats/2026-08-25 Client message.md
+Projects/feedback-widget/chats/2026-09-02 Project tech stack overview.md
+Projects/feedback-widget/chats/2026-09-01 Content clarity research.md
+Projects/feedback-widget/chats/2026-09-22 Continuation.md
+Projects/feedback-widget/chats/2026-09-09 Feedback widget end-to-end testing.md
+Projects/feedback-widget/chats/2026-09-11 Returning session.md
+Projects/feedback-widget/chats/2026-09-08 Overnight run completion.md
+Projects/feedback-widget/chats/2026-09-07 AI agent development setup.md
+Projects/feedback-widget/chats/2026-09-10 Server-side capture A-B test.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_ebdfb0b7.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-02_3d95566b.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-07_35aa90df.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-05_aafacd4d.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-02_04bafd0b.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_db1e8676.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-02_0e09829a.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_7e111804.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-05_76dfd452.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_4445288e.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-10_81159cb8.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_53355724.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-23_e926b4cf.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-05_ab7137fb.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-30_68c8e7ea.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_3e348634.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_4b59b0fe.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget-halle-feedback-widget__2026-10-05_837081a1.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_32aac108.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_29a15db1.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_2ee9dfb2.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_2456cd15.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-30_f9745f33.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_337ea8ad.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-07_bc872be0.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_59e128f1.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-10_e9d000a9.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget-halle-feedback-widget-src-web__2026-10-02_fd36ab86.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-02_98e1c427.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_f2b37da0.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_1cf3f0c5.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-21_4c6c4eaa.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_d566d728.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-07_446a7276.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_6194b9bc.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_8fcf2c46.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-30_133124dc.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-10_3a06758e.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-09_690ff28a.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-05_a10d30d3.md
+Projects/feedback-widget/claude-code/home__2026-10-05_38619bdb.md
+Projects/feedback-widget/claude-code/home__2026-10-05_eacda357.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-22_ea3e1952.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-30_99772fcb.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-07_eeeabb0f.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget-halle-feedback-widget-src-web__2026-10-02_b9a10023.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-28_005e5468.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_1b1024c2.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-07_c59814c5.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-08_8b3715b6.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-10_e8b521fc.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-23_3c7af8aa.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-10-02_56e32277.md
+Projects/feedback-widget/claude-code/araCreate-HLE-testing-widget__2026-09-21_bbee31ee.md
+Projects/forest/chats/2026-10-02 Moving project to viOS (9).md
+Projects/forest/chats/INDEX.md
+Projects/forest/chats/2026-06-14 Nilgiri biosphere.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_57c8be60.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_7ecc4e5c.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-06_086e72f6.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-02_7634b645.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_d56a3ea0.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_3a6d6c93.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_c119dbd6.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-05_4cb645be.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-10-03_eade91de.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-09_c504989d.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_a48e8010.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_913006a3.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-07_8b73fa77.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_56b2131f.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_0c3a56a7.md
+Projects/forest/claude-code/personal-mac__sathyamangalam-atlas__2026-09-08_f192d4c4.md
+Projects/halle-web/chats/2026-09-09 Button line height issue.md
+Projects/halle-web/chats/2026-09-08 Halle website UI analysis.md
+Projects/halle-web/chats/INDEX.md
+Projects/halle-web/chats/2026-07-13 Webfloe connection setup.md
+Projects/halle-web/chats/2026-06-18 Webflow vs custom code decision.md
+Projects/halle-web/claude-code/home__2026-07-14_67726727.md
+Projects/halle-web/claude-code/home__2026-07-14_36dfe593.md
+Projects/halle-web/claude-code/home__2026-07-13_63996ee1.md
+Projects/halle-web/claude-code/home__2026-07-14_cfcb6aaa.md
+Projects/halle-web/claude-code/home__2026-07-14_79a8e2c7.md
+Projects/halle-web/claude-code/home__2026-07-17_b012888e.md
+Projects/hr-leads-bala/chats/INDEX.md
+Projects/hr-leads-bala/chats/2026-07-08 Work-from-home HR and lead tracking PWA.md
+Projects/india-data-atlas/chats/2026-08-28 We have a problem.md
+Projects/india-data-atlas/chats/INDEX.md
+Projects/india-data-atlas/chats/2026-10-02 Moving project to viOS (12).md
+Projects/india-data-atlas/chats/2026-08-27 Flora and fauna normalization pipeline with species deduplication.md
+Projects/india-data-atlas/chats/2026-08-27 Sathyamangalam Atlas pipeline fixes and coverage expansion.md
+Projects/india-data-atlas/chats/2026-10-02 Pikapods vs OVHcloud comparison.md
+Projects/india-data-atlas/chats/2026-08-31 Progress update.md
+Projects/india-data-atlas/chats/2026-09-07 Server password retrieval.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_fd56665b.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_af1630bb.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_5cefb471.md
+Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-09-29_c34327dc.md
+Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-10-01_dc2343c6.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_2f09bcea.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_405ea857.md
+Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-02_44017208.md
+Projects/kuzhali-academy/claude-code/personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff.md
+Projects/nasa-space-apps-erode-2026/chats/2026-09-10 Social media promotion plan.md
+Projects/nasa-space-apps-erode-2026/chats/INDEX.md
+Projects/nasa-space-apps-erode-2026/chats/2026-09-07 Event planning with VCET.md
+Projects/nasa-space-apps-erode-2026/chats/2026-09-01 NASA Space Apps Erode handoff.md
+Projects/nasa-space-apps-erode-2026/chats/2026-10-02 Moving project to viOS (11).md
+Projects/nasa-space-apps-erode-2026/chats/2026-10-01 Message and mail response plan.md
+Projects/nasa-space-apps-erode-2026/chats/2026-09-09 NASA Space Apps Batticaloa 2026.md
+Projects/niborra/chats/INDEX.md
+Projects/niborra/chats/2026-08-18 Context check.md
+Projects/niborra/chats/2026-06-04 Computer analysis and SWOT assessment.md
+Projects/niborra/chats/2026-06-03 New project requirements and scope overview.md
+Projects/semmozhi/chats/2026-10-02 Moving project to viOS (8).md
+Projects/semmozhi/chats/INDEX.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_7b4954bd.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_d88496dd.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_15c18525.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_1e506a87.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_2a7f43d1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-05_f73349ae.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ffc3deb8.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_0544c64f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_c729a23f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_cfaf503b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_8c8deece.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_09896fbb.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_f1d465b7.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_da2e8832.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_10e0d1ac.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_b817dea9.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_813b25a1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_10660f58.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ee034518.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_bd600062.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_2373cd52.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_7ca53482.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_034f49cf.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_9fb9e3fc.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_489736fb.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_99fb7371.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_1946a8cc.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_f7be1294.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ead1f82b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_b3ec9e2d.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-25_8f855d03.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_99a8e25b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_2e2ef616.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ee631bfa.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_4fedc973.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-23_a8e19cdf.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a26efd3e.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_72e81928.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a598a21c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_f6d0506c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_0018775b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_dc615546.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_be9e02ee.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_d68b6764.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_01302d1e.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_573c4a84.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_7dab0ee8.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_07c440e1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_3d42223d.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ca14fb9f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-29_e7f7b8d7.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_89b04686.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-10-03_b8caa415.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_12c5f4f8.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_9c01e01b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_494474aa.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_6a0e6b91.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_e08aa66a.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_1e8f837c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_954da73c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_fe355786.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_df5455d4.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_4eca7ca2.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_c94f4273.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_bba84e9c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_caa3041b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_fe5ece91.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_9f069d23.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_668cfc65.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_6a6c444c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-06_288b3082.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_d0e134c7.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-25_18759e2c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a6268be9.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_4b6b2ca9.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_29651167.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_2142097e.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_679cc832.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_976174fc.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_4f04762c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a2fd0008.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a009adca.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_2366b48e.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a4c73e4c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_388e5afe.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_354ca567.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_4ce6ca39.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_78eecf64.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_fbaedb7b.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_6ab2a7f6.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_37e30607.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_fd3f5cf8.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a8dfb91a.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_f0a62329.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_51bacbb1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_7db0dd14.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_53b65bad.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_86d83f9a.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_e42b02c3.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_e1d9261c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_db6caabe.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-08-28_2a9fde37.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_8ee1e8f2.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_335a2dd2.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_427395f1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_0015ad1c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_70b3cada.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_bcccea28.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_08769737.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_134951e6.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_309e6c3f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_597917c1.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_5c6867d8.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-28_e5cb127c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_179a2bb4.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-27_96348158.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-25_1be78540.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-10-02_93e0545c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_d7b1a954.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_ac08dc47.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_6b9375c9.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_e38c4a98.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_0e8cea1c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_35da178f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a5a52304.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_3c1d5a68.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_7da3cd79.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_5206833a.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_63b4ec75.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_3a2fdf8f.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-27_b49c44ef.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_440ba7b2.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_09ace1b4.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_a75d7e31.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_eb94ec1c.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_133d89b2.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_b1a81145.md
+Projects/semmozhi/claude-code/personal-mac__Downloads-tamil-harvest__2026-09-26_28398aea.md
+Projects/sinolink/chats/2026-06-12 Forms not working after webflow export.md
+Projects/sinolink/chats/INDEX.md
+Projects/sinolink/chats/2026-06-08 Converting slider cards to vertical scroll.md
+Projects/sinolink/chats/2026-06-02 Website under development template.md
+Projects/sinolink/chats/2026-06-03 Converting PDF legal pages to responsive website.md
+Projects/sinolink/chats/2026-06-11 Website full animation review.md
+Projects/sinolink/chats/2026-06-02 Responsive maintenance page HTML.md
+Projects/sinolink/chats/2026-06-07 Connecting Webflow MCP to Claude in terminal.md
+Projects/sinolink/chats/2026-06-09 Webflow navbar logo visibility on mobile scroll.md
+Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-25_93aaa3cc.md
+Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-23_3e4642bb.md
+Projects/system/chats/2026-08-20 Folder cleanup.md
+Projects/system/chats/INDEX.md
+Projects/system/claude-code/home__2026-07-14_83819674.md
+Projects/system/claude-code/home__2026-07-14_2cc7102c.md
+Projects/system/claude-code/home__2026-10-05_be5e9ba8.md
+Projects/system/claude-code/home__2026-09-03_017886b3.md
+Projects/system/claude-code/personal-mac__home__2026-10-03_7c74c9ce.md
+Projects/system/claude-code/home__2026-10-05_92f60cc1.md
+Projects/system/claude-code/home__2026-09-03_45e6b494.md
+Projects/tech-to-me/chats/2026-06-03 Maximizing Claude Pro credits and usage.md
+Projects/tech-to-me/chats/2026-09-17 NodeMcu ESP8266 V3 WiFi Dev Board setup.md
+Projects/tech-to-me/chats/2026-07-24 Frontend design skill review.md
+Projects/tech-to-me/chats/INDEX.md
+Projects/tech-to-me/chats/2026-06-11 Viewing local site in VS Code.md
+Projects/tech-to-me/chats/2025-05-12 Free Hosting Options for n8n Automation.md
+Projects/tech-to-me/chats/2025-05-28 Optimal Font Sizes for 430px Mobile Screens.md
+Projects/tech-to-me/chats/2026-06-21 Resolving npm permission denied errors.md
+Projects/tech-to-me/chats/2026-06-10 Getting started with Arduino embedded systems.md
+Projects/tech-to-me/chats/2026-06-10 Connecting multiple Webflow websites to Claude.md
+Projects/tech-to-me/chats/2026-06-09 Connecting Claude to multiple websites in Webflow.md
+Projects/tech-to-me/chats/2026-06-29 Installing Headroom token reduction tool.md
+Projects/tech-to-me/chats/2026-06-15 Claude modules and their uses.md
+Projects/tech-to-me/chats/2026-06-12 AI website builder identification.md
+Projects/tech-to-me/chats/2026-07-14 Disconnecting office account from personal Claude.md
+Projects/tech-to-me/chats/2026-06-29 Usage credits not working.md
+Projects/the-regen-room/chats/INDEX.md
+Projects/the-regen-room/chats/2026-09-11 Problem meeting.md
+Projects/the-regen-room/chats/2026-09-01 Email replies for applicants.md
+Projects/the-regen-room/claude-code/home__2026-07-21_4d5a581b.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_214fd31f.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_bd19a94e.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-11_d0268dd2.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-03_399bc7ee.md
+Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_2cccca06.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_c147b55b.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_0b04f0ff.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-07-31_7365f964.md
+Projects/the-regen-room/claude-code/own-demo-projects-ai-siite-2__2026-07-29_39f77807.md
+Projects/the-regen-room/claude-code/araCreate-ARA-VCET__2026-08-05_759444fb.md
+Projects/timer/chats/2026-09-08 Progress update.md
+Projects/timer/chats/INDEX.md
+Projects/timer/chats/2026-09-28 Where we stopped.md
+Projects/timer/chats/2026-09-23 miro planning.md
+Projects/timer/chats/2026-09-10 Project progress review.md
+Projects/timer/chats/2026-09-08 Timer project analysis.md
+Projects/timer/chats/2026-10-02 Moving project to viOS (7).md
+Projects/trip-meghalaya/chats/INDEX.md
+Projects/trip-meghalaya/chats/2026-08-31 Final plan.md
+Projects/trip-meghalaya/chats/2026-09-08 Change in plan.md
+Projects/trip-meghalaya/chats/2026-09-10 Starting tomorrow.md
+Projects/trip-meghalaya/chats/2026-06-16 Cheapest flight from Chennai to tier 2 cities.md
+Projects/trip-meghalaya/chats/2026-09-09 Plan finalization deadline.md
+Projects/trip-meghalaya/chats/2026-08-23 Self-drive car alternative plan from Guwahati.md
+Projects/trip-meghalaya/chats/2026-09-05 Finalizing plan with limited time.md
+Projects/vidivu/chats/INDEX.md
+Projects/vidivu/chats/2026-08-08 Logo design specifications.md
+Projects/vidivu/chats/2026-08-07 Project progress update.md
+Projects/vidivu/chats/2026-10-02 Moving project to viOS (5).md
+Projects/vidivu/chats/2026-08-21 Launching startup with block pages for SEO visibility.md
+Projects/vidivu/chats/2026-08-07 Waterminal AI for buildings feasibility.md
+Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-02_e088fd8b.md
+Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_9fc48207.md
+Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-03_97cdc351.md
+Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_1eeeceb9.md
+Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_c33c21b0.md
+Projects/vios/chats/2026-10-02 Moving project to viOS (4).md
+Projects/vios/chats/2026-10-02 RULES.md from viOS brain.md
+Projects/vios/chats/INDEX.md
+Projects/vios/chats/2026-09-30 viOS personal operating system.md
+Projects/vios/chats/2026-10-02 Status update.md
+Projects/web-bala/chats/INDEX.md
+Projects/web-bala/chats/2026-06-08 Adobe account reseller admin panel and user portal.md
+Projects/wedding2day-com/chats/INDEX.md
+Projects/wedding2day-com/chats/2026-08-05 Zoho mail DNS configuration on Cloudflare.md

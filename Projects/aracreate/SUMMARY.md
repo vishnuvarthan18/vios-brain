@@ -93,6 +93,6 @@ updated: 2026-10-06
 - Monument Extended is a commercial font — never in a public repo.
 
 ## 9. All chats in this project
-- Index: [[Projects/aracreate/chats/INDEX]] (11 chats; 9 imported from the personal account on 2026-10-06)
-- [[Projects/aracreate/chats/2026-08-19 Website export from Webflow|Website export from Webflow]] — 2026-08-19
-- [[Projects/aracreate/chats/2026-08-19 Design system planning|Design system planning]] — 2026-08-19
+- Index: INDEX (archived: Projects/aracreate/chats/INDEX.md) (11 chats; 9 imported from the personal account on 2026-10-06)
+- Website export from Webflow (archived: Projects/aracreate/chats/2026-08-19 Website export from Webflow.md) — 2026-08-19
+- Design system planning (archived: Projects/aracreate/chats/2026-08-19 Design system planning.md) — 2026-08-19

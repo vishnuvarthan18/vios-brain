@@ -1,0 +1,38 @@
+Projects/wedding2day-app/chats/2026-07-08 Starting phase 3.md
+Projects/wedding2day-app/chats/2026-06-04 Apps and websites.md
+Projects/wedding2day-app/chats/2026-07-06 M1 project scope overview.md
+Projects/wedding2day-app/chats/2026-07-16 QR code for customer data collection.md
+Projects/wedding2day-app/chats/2026-07-13 Next steps.md
+Projects/wedding2day-app/chats/2026-07-20 Long day, back again.md
+Projects/wedding2day-app/chats/2026-06-27 Current location status.md
+Projects/wedding2day-app/chats/2026-07-06 Changed decision announcement.md
+Projects/wedding2day-app/chats/2026-07-07 Starting a new conversation.md
+Projects/wedding2day-app/chats/2026-07-25 Next steps and current status.md
+Projects/wedding2day-app/chats/2026-06-27 Starting the next step.md
+Projects/wedding2day-app/chats/INDEX.md
+Projects/wedding2day-app/chats/2026-07-14 Creating a listing.md
+Projects/wedding2day-app/chats/2026-06-02 B2B manufacturer-service provider platform- MVP to scale strategy.md
+Projects/wedding2day-app/chats/2026-07-06 Wedding2day MVP launch strategy and tech stack.md
+Projects/wedding2day-app/chats/2026-07-04 Migration to Cloudflare and cost analysis.md
+Projects/wedding2day-app/chats/2026-07-23 W2D project development roadmap.md
+Projects/wedding2day-app/chats/2026-06-08 Reviewing recent conversation highlights.md
+Projects/wedding2day-app/chats/2026-06-26 Completing version 1 for client delivery.md
+Projects/wedding2day-app/chats/2026-06-06 Flutter Flow v1 scope setup steps.md
+Projects/wedding2day-app/chats/2026-07-08 Project knowledge migration to Cursor IDE.md
+Projects/wedding2day-app/chats/2026-06-19 Project status update.md
+Projects/wedding2day-app/chats/2026-06-17 Canceling unwanted FlutterFlow subscription before debit.md
+Projects/wedding2day-app/chats/2026-06-05 Designing UI-UX wireframes.md
+Projects/wedding2day-app/chats/2026-06-19 Completing the process next steps.md
+Projects/wedding2day-app/chats/2026-10-02 Project summary for viOS.md
+Projects/wedding2day-app/chats/2026-07-07 Final steps in a process.md
+Projects/wedding2day-app/docs/claude-AUDIT_2026-09-01_ROLE_SECURITY.md
+Projects/wedding2day-app/docs/claude-DEV_PROMPTS_BATCH_1.md
+Projects/wedding2day-app/docs/claude-RESEARCH_PHASE1_AI_RUN_FULL.md
+Projects/wedding2day-app/docs/claude-RESEARCH_PHASE1_DESK.md
+Projects/wedding2day-app/docs/claude-SESSION_LOG_2026-08-19.md
+Projects/wedding2day-app/docs/claude-SESSION_LOG_2026-08-20.md
+Projects/wedding2day-app/docs/claude-SESSION_LOG_2026-08-21.md
+Projects/wedding2day-app/docs/claude-SESSION_LOG_2026-09-01.md
+Projects/wedding2day-app/docs/claude-SESSION_LOG_2026-09-02.md
+Projects/wedding2day-app/docs/claude-TEST_PLAN_2026-08-21.md
+Projects/wedding2day-app/docs/v1 .md

@@ -74,11 +74,11 @@ updated: 2026-10-06
 - Who is the client for the 15-day deck (VCET?) (not sure).
 
 ## 9. All chats in this project
-- [[Projects/aracreate-academy/chats/2026-06-14 Social media reach analysis for poster content|Social media reach analysis for poster content]] — 2026-06-14
-- [[Projects/aracreate-academy/chats/2026-06-26 Marketing robotics and AI to schools|Marketing robotics and AI to schools]] — 2026-06-26
-- [[Projects/aracreate-academy/chats/2026-06-30 First 10 social media content ideas|First 10 social media content ideas]] — 2026-06-30
-- [[Projects/aracreate-academy/chats/2026-07-16 Job description template customization|Job description template customization]] — 2026-07-16
-- [[Projects/aracreate-academy/chats/2026-07-22 Quick deck changes|Quick deck changes]] — 2026-07-22
-- [[Projects/aracreate-academy/chats/2026-07-23 Incomplete request|Incomplete request]] — 2026-07-23
-- [[Projects/aracreate-academy/chats/2026-07-23 Simplify page 2 layout|Simplify page 2 layout]] — 2026-07-23
-- [[Projects/aracreate-academy/chats/2026-09-19 Custom question formatting request|Custom question formatting request]] — 2026-09-19
+- Social media reach analysis for poster content (archived: Projects/aracreate-academy/chats/2026-06-14 Social media reach analysis for poster content.md) — 2026-06-14
+- Marketing robotics and AI to schools (archived: Projects/aracreate-academy/chats/2026-06-26 Marketing robotics and AI to schools.md) — 2026-06-26
+- First 10 social media content ideas (archived: Projects/aracreate-academy/chats/2026-06-30 First 10 social media content ideas.md) — 2026-06-30
+- Job description template customization (archived: Projects/aracreate-academy/chats/2026-07-16 Job description template customization.md) — 2026-07-16
+- Quick deck changes (archived: Projects/aracreate-academy/chats/2026-07-22 Quick deck changes.md) — 2026-07-22
+- Incomplete request (archived: Projects/aracreate-academy/chats/2026-07-23 Incomplete request.md) — 2026-07-23
+- Simplify page 2 layout (archived: Projects/aracreate-academy/chats/2026-07-23 Simplify page 2 layout.md) — 2026-07-23
+- Custom question formatting request (archived: Projects/aracreate-academy/chats/2026-09-19 Custom question formatting request.md) — 2026-09-19

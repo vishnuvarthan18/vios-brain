@@ -41,7 +41,7 @@ updated: 2026-10-06
 - **Related:** [[Projects/wedding2day-app/SUMMARY]], [[Projects/wedding2day-com/SUMMARY]]
 
 ## 7. Files and documents
-- `AGENTS.md` — Next.js agent rules boilerplate only ([[Raw/mac-personal/Desktop/mura/www.mrdecors.com/AGENTS]])
+- `AGENTS.md` — Next.js agent rules boilerplate only (AGENTS (archived: Raw/mac-personal/Desktop/mura/www.mrdecors.com/AGENTS.md))
 - "Online Sale Product" sheet (Google Drive, Jan 2025)
 
 ## 8. Open questions and problems

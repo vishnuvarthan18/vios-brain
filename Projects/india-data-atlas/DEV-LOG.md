@@ -70,11 +70,11 @@ Coding history from Claude Code sessions on the personal Mac. Started as the "Ec
 - Contact pop-up request: unclear which site (not done).
 
 ## Session index
-- [[Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-10-01_dc2343c6]] — 2026-10-01 to 10-06 — Uptime page, 3-hour schedules, Engines counts, mobile menu, save all
-- [[Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-09-29_c34327dc]] — 2026-09-29 to 10-01 — monorepo, new shadcn console, CI/CD, deploy, ops.vidivu.in switch
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_2f09bcea]] — 2026-09-07 — next-phase steps 1 to 6 without VPS access
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_5cefb471]] — 2026-09-07 — GBIF check, POWO/WCVP enrichment, disk usage
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_405ea857]] — 2026-09-07 — slug migration, PARIVESH fix, harvest wrapper
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_af1630bb]] — 2026-09-06 — overnight build phases A to G on VPS
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_fd56665b]] — 2026-09-06 — seed-list dry run, normalizer fixes, state names, cooldown
-- [[Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-02_44017208]] — 2026-09-02 — .env keys, why site is not live, file paths
+- personal-mac__india-data-platform__2026-10-01_dc2343c6 (archived: Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-10-01_dc2343c6.md) — 2026-10-01 to 10-06 — Uptime page, 3-hour schedules, Engines counts, mobile menu, save all
+- personal-mac__india-data-platform__2026-09-29_c34327dc (archived: Projects/india-data-atlas/claude-code/personal-mac__india-data-platform__2026-09-29_c34327dc.md) — 2026-09-29 to 10-01 — monorepo, new shadcn console, CI/CD, deploy, ops.vidivu.in switch
+- personal-mac__Ecotourism__2026-09-07_2f09bcea (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_2f09bcea.md) — 2026-09-07 — next-phase steps 1 to 6 without VPS access
+- personal-mac__Ecotourism__2026-09-07_5cefb471 (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_5cefb471.md) — 2026-09-07 — GBIF check, POWO/WCVP enrichment, disk usage
+- personal-mac__Ecotourism__2026-09-07_405ea857 (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-07_405ea857.md) — 2026-09-07 — slug migration, PARIVESH fix, harvest wrapper
+- personal-mac__Ecotourism__2026-09-06_af1630bb (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_af1630bb.md) — 2026-09-06 — overnight build phases A to G on VPS
+- personal-mac__Ecotourism__2026-09-06_fd56665b (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-06_fd56665b.md) — 2026-09-06 — seed-list dry run, normalizer fixes, state names, cooldown
+- personal-mac__Ecotourism__2026-09-02_44017208 (archived: Projects/india-data-atlas/claude-code/personal-mac__Ecotourism__2026-09-02_44017208.md) — 2026-09-02 — .env keys, why site is not live, file paths

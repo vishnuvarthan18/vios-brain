@@ -54,4 +54,4 @@ owner: "[[People/Vishnu]]"
 - Is the Client X / credits feature live?
 
 ## 9. All chats in this project
-- [[Projects/web-bala/chats/2026-06-08 Adobe account reseller admin panel and user portal|Adobe account reseller admin panel and user portal]] — 2026-06-08
+- Adobe account reseller admin panel and user portal (archived: Projects/web-bala/chats/2026-06-08 Adobe account reseller admin panel and user portal.md) — 2026-06-08

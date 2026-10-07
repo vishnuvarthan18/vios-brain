@@ -54,7 +54,7 @@ updated: 2026-10-06
   - Deploy: `wrangler pages deploy .` from the folder
 - **Tech:** index.html; css/tokens.css (colours), base.css, layout.css, components.css; js/main.js (sticky nav, scroll reveal, filter tabs, WhatsApp forms, WHATSAPP_NUMBER); assets: 17 unDraw illustrations, 6 Fluent Emoji icons (MIT); fonts Raleway + Inter (Google Fonts); tested 280px to 1920px.
 - **Related:** [[Projects/vidivu/SUMMARY]] (Vishnu's studio)
-- **Dev sessions:** [[Projects/kuzhali-academy/claude-code/personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff]]
+- **Dev sessions:** personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff (archived: Projects/kuzhali-academy/claude-code/personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff.md)
 
 ## 7. Files and documents
 - `README.md` — how to run, what to change, pre-launch checklist, deploy options, licences (in the repo; copy in Raw/mac-personal/Downloads/kuzhali-academy/)
@@ -69,4 +69,4 @@ updated: 2026-10-06
 - Raster assets (favicon PNGs, og-image) may still have old colours (not sure).
 
 ## 9. All chats in this project
-- [[Projects/kuzhali-academy/claude-code/personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff|Run locally, redesign, deploy to Cloudflare, push to GitHub]] — 2026-08-23
+- Run locally, redesign, deploy to Cloudflare, push to GitHub (archived: Projects/kuzhali-academy/claude-code/personal-mac__Downloads-kuzhali-academy__2026-08-23_e056ecff.md) — 2026-08-23

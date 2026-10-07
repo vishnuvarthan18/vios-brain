@@ -33,4 +33,4 @@ Full history: [[Projects/wedding2day-app/SUMMARY]] · Log: [[Projects/wedding2da
 ## Key places
 - Local: `~/Desktop/mura/w2d/b2b/` (wedding2day-app, w2d-admin, w2d-landing)
 - Repos: github.com/vishnuvarthan18/wedding2day-app, /w2d-admin, /w2d-landing
-- Source of truth: `DECISIONS.md` in the repo root; findings: [[Raw/mac-personal/Desktop/mura/w2d/b2b/w2d-app/E2E_FINDINGS]]
+- Source of truth: `DECISIONS.md` in the repo root; findings: E2E_FINDINGS (archived: Raw/mac-personal/Desktop/mura/w2d/b2b/w2d-app/E2E_FINDINGS.md)

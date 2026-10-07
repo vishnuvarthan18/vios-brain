@@ -43,7 +43,7 @@ updated: 2026-10-06
 - **Related:** [[Projects/vidivu/SUMMARY]] (client web work)
 
 ## 7. Files and documents
-- `README.md` — structure, design tokens, known gaps, next steps ([[Raw/mac-personal/Vishnu/nalaas-website/README]])
+- `README.md` — structure, design tokens, known gaps, next steps (README (archived: Raw/mac-personal/Vishnu/nalaas-website/README.md))
 
 ## 8. Open questions and problems
 - Did the client reply to the 17 Aug pitch? (demo was built without being asked, so not paid work yet)

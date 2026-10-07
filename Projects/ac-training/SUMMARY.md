@@ -128,18 +128,18 @@ updated: 2026-10-06
 - Team form branching and feedback form (no sign-in) not confirmed working.
 
 ## 9. All chats in this project
-- Index: [[Projects/ac-training/chats/INDEX]] · Claude Code sessions: see [[Projects/ac-training/DEV-LOG]] session index
-- [[Projects/ac-training/chats/2026-09-16 Bootcamp infrastructure setup|Bootcamp infrastructure setup]] — 2026-09-16
-- [[Projects/ac-training/chats/2026-09-16 The plan|The plan]] — 2026-09-16
-- [[Projects/ac-training/chats/2026-09-16 UI-UX production workflow|UI/UX production workflow]] — 2026-09-16
-- [[Projects/ac-training/chats/2026-09-16 Progress so far|Progress so far]] — 2026-09-16
-- [[Projects/ac-training/chats/2026-09-17 Student progress tracking platform|Student progress tracking platform]] — 2026-09-17
-- [[Projects/ac-training/chats/2026-09-19 Rework status report|Rework status report]] — 2026-09-19
-- [[Projects/ac-training/chats/2026-09-19 Dual development lanes|Dual development lanes]] — 2026-09-19
-- [[Projects/ac-training/chats/2026-09-19 Completing and completed|Completing and completed]] — 2026-09-19
-- [[Projects/ac-training/chats/2026-09-19 Session state review|Session state review]] — 2026-09-19
-- [[Projects/ac-training/chats/2026-09-19 Track 5 student profile page|Track 5 student profile page]] — 2026-09-19
-- [[Projects/ac-training/chats/2026-09-20 Deployment tasks|Deployment tasks]] — 2026-09-20
-- [[Projects/ac-training/chats/2026-09-20 Project bugs and dashboard issues|Project bugs and dashboard issues]] — 2026-09-20
-- [[Projects/ac-training/chats/2026-09-24 Daily poster for social media|Daily poster for social media]] — 2026-09-24
-- [[Projects/ac-training/chats/2026-09-26 Team photo and project form|Team photo and project form]] — 2026-09-26
+- Index: INDEX (archived: Projects/ac-training/chats/INDEX.md) · Claude Code sessions: see [[Projects/ac-training/DEV-LOG]] session index
+- Bootcamp infrastructure setup (archived: Projects/ac-training/chats/2026-09-16 Bootcamp infrastructure setup.md) — 2026-09-16
+- The plan (archived: Projects/ac-training/chats/2026-09-16 The plan.md) — 2026-09-16
+- UI/UX production workflow (archived: Projects/ac-training/chats/2026-09-16 UI-UX production workflow.md) — 2026-09-16
+- Progress so far (archived: Projects/ac-training/chats/2026-09-16 Progress so far.md) — 2026-09-16
+- Student progress tracking platform (archived: Projects/ac-training/chats/2026-09-17 Student progress tracking platform.md) — 2026-09-17
+- Rework status report (archived: Projects/ac-training/chats/2026-09-19 Rework status report.md) — 2026-09-19
+- Dual development lanes (archived: Projects/ac-training/chats/2026-09-19 Dual development lanes.md) — 2026-09-19
+- Completing and completed (archived: Projects/ac-training/chats/2026-09-19 Completing and completed.md) — 2026-09-19
+- Session state review (archived: Projects/ac-training/chats/2026-09-19 Session state review.md) — 2026-09-19
+- Track 5 student profile page (archived: Projects/ac-training/chats/2026-09-19 Track 5 student profile page.md) — 2026-09-19
+- Deployment tasks (archived: Projects/ac-training/chats/2026-09-20 Deployment tasks.md) — 2026-09-20
+- Project bugs and dashboard issues (archived: Projects/ac-training/chats/2026-09-20 Project bugs and dashboard issues.md) — 2026-09-20
+- Daily poster for social media (archived: Projects/ac-training/chats/2026-09-24 Daily poster for social media.md) — 2026-09-24
+- Team photo and project form (archived: Projects/ac-training/chats/2026-09-26 Team photo and project form.md) — 2026-09-26

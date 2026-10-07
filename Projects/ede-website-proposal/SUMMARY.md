@@ -95,5 +95,5 @@ updated: 2026-10-06
 - Sign-off turnaround, browser support and performance target are open.
 
 ## 9. All chats in this project
-- Index: [[Projects/ede-website-proposal/chats/INDEX]]
-- [[Projects/ede-website-proposal/chats/2026-10-01 EDE Snapshot project scope|EDE Snapshot project scope]] — 2026-10-01
+- Index: INDEX (archived: Projects/ede-website-proposal/chats/INDEX.md)
+- EDE Snapshot project scope (archived: Projects/ede-website-proposal/chats/2026-10-01 EDE Snapshot project scope.md) — 2026-10-01

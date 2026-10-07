@@ -41,15 +41,15 @@ tags: project
 - Timer: add task/project label next (asked, not answered).
 
 ## Session index
-- [[Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43367165]] — 2026-10-05 — new timer app with ARM UI components
-- [[Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43c896f3]] — 2026-10-05 — title-only side session
-- [[Projects/arm-ui/claude-code/home__2026-09-08_df42755a]] — 2026-09-08 — clone 10 ARM repos
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_c5ee5b57]] — 2026-09-03 — run website locally (already on :3100)
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_9a333fc6]] — 2026-09-03 — content pass, legal pages, PR #1
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_7e2d7142]] — 2026-09-03 — section 05 dataset SVG, reverted
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_6d78c6a6]] — 2026-09-03 — asked for Gmail template; none in repo
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_570f9c1f]] — 2026-09-03 — responsive, calendar image position
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-arm-service-notification__2026-09-03_aed6b2b2]] — 2026-09-03 — email templates redesign, PR into dev
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-02_81bed4d1]] — 2026-09-02 to 09-03 — animated Projects/Vendors SVGs
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-08-31_ebf2e4c3]] — 2026-08-31 to 09-03 — run website, cookie banner, hero, responsive text
-- [[Projects/arm-ui/claude-code/araCreate-ARM-docker__2026-08-29_aa78b203]] — 2026-08-29 to 08-30 — arm-core-fe landing hero SVG, push feature branch
+- araCreate-ARM-dev__2026-10-05_43367165 (archived: Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43367165.md) — 2026-10-05 — new timer app with ARM UI components
+- araCreate-ARM-dev__2026-10-05_43c896f3 (archived: Projects/arm-ui/claude-code/araCreate-ARM-dev__2026-10-05_43c896f3.md) — 2026-10-05 — title-only side session
+- home__2026-09-08_df42755a (archived: Projects/arm-ui/claude-code/home__2026-09-08_df42755a.md) — 2026-09-08 — clone 10 ARM repos
+- araCreate-ARM-docker-webiste-arm-website__2026-09-03_c5ee5b57 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_c5ee5b57.md) — 2026-09-03 — run website locally (already on :3100)
+- araCreate-ARM-docker-webiste-arm-website__2026-09-03_9a333fc6 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_9a333fc6.md) — 2026-09-03 — content pass, legal pages, PR #1
+- araCreate-ARM-docker-webiste-arm-website__2026-09-03_7e2d7142 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_7e2d7142.md) — 2026-09-03 — section 05 dataset SVG, reverted
+- araCreate-ARM-docker-webiste-arm-website__2026-09-03_6d78c6a6 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_6d78c6a6.md) — 2026-09-03 — asked for Gmail template; none in repo
+- araCreate-ARM-docker-webiste-arm-website__2026-09-03_570f9c1f (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-03_570f9c1f.md) — 2026-09-03 — responsive, calendar image position
+- araCreate-ARM-docker-arm-service-notification__2026-09-03_aed6b2b2 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-arm-service-notification__2026-09-03_aed6b2b2.md) — 2026-09-03 — email templates redesign, PR into dev
+- araCreate-ARM-docker-webiste-arm-website__2026-09-02_81bed4d1 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-09-02_81bed4d1.md) — 2026-09-02 to 09-03 — animated Projects/Vendors SVGs
+- araCreate-ARM-docker-webiste-arm-website__2026-08-31_ebf2e4c3 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker-webiste-arm-website__2026-08-31_ebf2e4c3.md) — 2026-08-31 to 09-03 — run website, cookie banner, hero, responsive text
+- araCreate-ARM-docker__2026-08-29_aa78b203 (archived: Projects/arm-ui/claude-code/araCreate-ARM-docker__2026-08-29_aa78b203.md) — 2026-08-29 to 08-30 — arm-core-fe landing hero SVG, push feature branch

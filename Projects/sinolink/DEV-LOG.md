@@ -34,5 +34,5 @@ updated: 2026-10-06
 - Small issues from the full code check were left on purpose.
 
 ## Session index
-- [[Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-25_93aaa3cc]] — 2026-09-25 — Impressum/Privacy for all languages, footer rename, remove names, deploy
-- [[Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-23_3e4642bb]] — 2026-09-23 — SinoLink Europe logo everywhere, deploy
+- araCreate-SLK-www-sinolink-de__2026-09-25_93aaa3cc (archived: Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-25_93aaa3cc.md) — 2026-09-25 — Impressum/Privacy for all languages, footer rename, remove names, deploy
+- araCreate-SLK-www-sinolink-de__2026-09-23_3e4642bb (archived: Projects/sinolink/claude-code/araCreate-SLK-www-sinolink-de__2026-09-23_3e4642bb.md) — 2026-09-23 — SinoLink Europe logo everywhere, deploy

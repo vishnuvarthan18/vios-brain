@@ -32,7 +32,7 @@ DATE: 23/06/2025
 Payment info
 Account Name: Trust9tech Solutions
 Account Number: 5949196975
-IFSC Code: KKBK0008525                                         Signature
+IFSC Code: [REDACTED-IFSC]                                         Signature
 Account Type: Current account
 SWIFT CODE: KKBKINBBCPC
 

@@ -36,7 +36,7 @@ tags: project
 - Chrome blocks localhost, so visual checks need another way (Safari can't be driven).
 
 ## Session index
-- [[Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_09a74d35]] — 2026-10-06 — main session: principles doc, audits, tokens v1, button/card docs
-- [[Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_2634b7f3]] — 2026-10-06 — title-only: organise folders as input/process/output
-- [[Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_3f19615a]] — 2026-10-06 — title-only side session
-- [[Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_aee944f1]] — 2026-10-06 — title-only side session (browser setup)
+- araCreate-AC-ACDS__2026-10-06_09a74d35 (archived: Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_09a74d35.md) — 2026-10-06 — main session: principles doc, audits, tokens v1, button/card docs
+- araCreate-AC-ACDS__2026-10-06_2634b7f3 (archived: Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_2634b7f3.md) — 2026-10-06 — title-only: organise folders as input/process/output
+- araCreate-AC-ACDS__2026-10-06_3f19615a (archived: Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_3f19615a.md) — 2026-10-06 — title-only side session
+- araCreate-AC-ACDS__2026-10-06_aee944f1 (archived: Projects/ac-ds/claude-code/araCreate-AC-ACDS__2026-10-06_aee944f1.md) — 2026-10-06 — title-only side session (browser setup)

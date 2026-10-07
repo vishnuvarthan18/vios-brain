@@ -47,7 +47,7 @@ updated: 2026-10-06
 - **Figma file key:** `oul2s4ac1NaWZXvnrmteUr` (pages: Flows, Wireframes Portal, Wireframes Studio, UI Kit, Hi-fi).
 - **Tools:** [[Tools/Figma]], Miro, [[Tools/GitHub]] issues.
 - **UX research:** earlier name "InkWave"; hypothesis only — no real user interviews yet.
-- **Chats index:** [[Projects/niborra/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/niborra/chats/INDEX.md)
 - **Working prefs noted:** concise bullets, direct recommendations, no em dashes, docx + Miro deliverables, one focus at a time.
 
 ## 7. Files and documents
@@ -61,7 +61,7 @@ updated: 2026-10-06
 - No real user interviews yet.
 
 ## 9. All chats in this project
-- [[Projects/niborra/chats/2026-06-03 New project requirements and scope overview|New project requirements and scope overview]] — 2026-06-03
-- [[Projects/niborra/chats/2026-06-04 Computer analysis and SWOT assessment|Computer analysis and SWOT assessment]] — 2026-06-04
-- [[Projects/niborra/chats/2026-08-18 Context check|Context check]] — 2026-08-18
+- New project requirements and scope overview (archived: Projects/niborra/chats/2026-06-03 New project requirements and scope overview.md) — 2026-06-03
+- Computer analysis and SWOT assessment (archived: Projects/niborra/chats/2026-06-04 Computer analysis and SWOT assessment.md) — 2026-06-04
+- Context check (archived: Projects/niborra/chats/2026-08-18 Context check.md) — 2026-08-18
 - (Empty "save chat" note moved to Archive/empty-save-chats/.)

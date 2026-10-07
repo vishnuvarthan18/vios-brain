@@ -1,0 +1,9 @@
+index.md:42
+Projects/career/SUMMARY.md:27
+Projects/halle-web/STATE.md:36
+Projects/halle-web/SUMMARY.md:78
+Projects/mrdecors/SUMMARY.md:44
+Projects/nalaas/STATE.md:30
+Projects/nalaas/SUMMARY.md:46
+Projects/wedding2day-app/STATE.md:36
+Projects/wedding2day-app/SUMMARY.md:31

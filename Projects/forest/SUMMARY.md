@@ -188,8 +188,8 @@ Note: [[Projects/india-data-atlas/SUMMARY]] links to `Projects/sathyamangalam-at
 - Did Vishnu apply for the Fire Control Centre Technical Assistant (GIS) post (closed 29 Sep)?
 
 ## 9. All chats in this project
-- Index: [[Projects/forest/chats/INDEX]] · Claude Code sessions: see [[Projects/forest/DEV-LOG]] session index · 95 project docs in `docs/` (imported 2026-10-06)
+- Index: INDEX (archived: Projects/forest/chats/INDEX.md) · Claude Code sessions: see [[Projects/forest/DEV-LOG]] session index · 95 project docs in `docs/` (imported 2026-10-06)
 - Spec review and implementation recommendations — 2026-08-10 (now filed under [[Projects/career/SUMMARY]])
-- [[Projects/forest/chats/2026-06-14 Nilgiri biosphere|Nilgiri biosphere]] — 2026-06-14
-- [[Projects/forest/chats/2026-10-02 Moving project to viOS (9)|Moving project to viOS (9)]] — 2026-10-02 (viOS meta chat)
+- Nilgiri biosphere (archived: Projects/forest/chats/2026-06-14 Nilgiri biosphere.md) — 2026-06-14
+- Moving project to viOS (9) (archived: Projects/forest/chats/2026-10-02 Moving project to viOS (9).md) — 2026-10-02 (viOS meta chat)
 - Most build work happened in [[Tools/Claude Code]] / Cowork sessions and is recorded as project docs, not chats.

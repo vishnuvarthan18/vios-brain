@@ -24,7 +24,7 @@ updated: 2026-10-06
 - 12-month plan (12 Aug): ship two real products end to end, write up the decisions, get good at React and one design system, pick one domain, learn basic usability tests. Nothing shipped yet.
 - Certificates: ISO 27001:2022 Internal Auditor (QHSE Solutions, March 2026; LinkedIn post 3 Jul); [[Companies/IxDF]] "Certified Course Completer" (Oct 2025) plus more (Jan 2026); [[Companies/Airtribe]] PM Launchpad Cohort 22 (Aug 2025 – 2026, Demo Day 13 Mar 2026).
 - IELTS: one-page Writing guide PDF (28 Jul). Exam date not known.
-- Resumes on Mac: old UI/UX designer resume and newer "creative project designer" resume ([[Raw/mac-personal/Vishnu/resume/archive/New Vishnuvarthan PM _compressed.pdf]]).
+- Resumes on Mac: old UI/UX designer resume and newer "creative project designer" resume (New Vishnuvarthan PM _compressed.pdf (archived: Raw/mac-personal/Vishnu/resume/archive/New Vishnuvarthan PM _compressed.pdf.md)).
 
 ## 3. Next steps
 1. Call the IGNOU regional centre (Coimbatore or Madurai — to confirm) about the MSCGI January 2027 intake and lab/practical blocks before paying.
@@ -96,12 +96,12 @@ updated: 2026-10-06
 - IELTS: purpose and exam date not stated.
 
 ## 9. All chats in this project
-- Index: [[Projects/career/chats/INDEX]]
-- [[Projects/career/chats/2025-08-07 Project Management Certification Pathways|Project Management Certification Pathways]] — 2025-08-07
-- [[Projects/career/chats/2026-06-18 AI tools for UI-UX design|AI tools for UI-UX design]] — 2026-06-18
-- [[Projects/career/chats/2026-07-03 LinkedIn profile write-up placement|LinkedIn profile write-up placement]] — 2026-07-03
-- [[Projects/career/chats/2026-07-09 vishnu portfolio|vishnu portfolio]] — 2026-07-09
-- [[Projects/career/chats/2026-07-24 Affordable niche master's degree online|Affordable niche master's degree online]] — 2026-07-24
-- [[Projects/career/chats/2026-07-24 Master's degree in anthropology|Master's degree in anthropology]] — 2026-07-24
-- [[Projects/career/chats/2026-07-28 IELTS certificate loopholes and shortcuts|IELTS certificate loopholes and shortcuts]] — 2026-07-28
-- [[Projects/career/chats/2026-08-10 Spec review and implementation recommendations|Spec review and implementation recommendations]] — 2026-08-10
+- Index: INDEX (archived: Projects/career/chats/INDEX.md)
+- Project Management Certification Pathways (archived: Projects/career/chats/2025-08-07 Project Management Certification Pathways.md) — 2025-08-07
+- AI tools for UI-UX design (archived: Projects/career/chats/2026-06-18 AI tools for UI-UX design.md) — 2026-06-18
+- LinkedIn profile write-up placement (archived: Projects/career/chats/2026-07-03 LinkedIn profile write-up placement.md) — 2026-07-03
+- vishnu portfolio (archived: Projects/career/chats/2026-07-09 vishnu portfolio.md) — 2026-07-09
+- Affordable niche master's degree online (archived: Projects/career/chats/2026-07-24 Affordable niche master's degree online.md) — 2026-07-24
+- Master's degree in anthropology (archived: Projects/career/chats/2026-07-24 Master's degree in anthropology.md) — 2026-07-24
+- IELTS certificate loopholes and shortcuts (archived: Projects/career/chats/2026-07-28 IELTS certificate loopholes and shortcuts.md) — 2026-07-28
+- Spec review and implementation recommendations (archived: Projects/career/chats/2026-08-10 Spec review and implementation recommendations.md) — 2026-08-10

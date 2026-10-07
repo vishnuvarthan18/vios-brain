@@ -27,4 +27,4 @@ Full history: [[Projects/nalaas/SUMMARY]] · Log: [[Projects/nalaas/LOG]]
 ## Key places
 - Demo: nalaas-website.pages.dev
 - GitHub `vishnuvarthan18/nalaas-website`; Mac `~/Vishnu/nalaas-website`
-- [[Raw/mac-personal/Vishnu/nalaas-website/README]]
+- README (archived: Raw/mac-personal/Vishnu/nalaas-website/README.md)

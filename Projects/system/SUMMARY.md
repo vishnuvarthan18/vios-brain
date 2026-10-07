@@ -39,7 +39,7 @@ updated: 2026-10-06
 ## 6. Key facts
 - **Folders in ~/araCreate:** FST, NOA, TARA, SLK, AC, ISO, DSA, HLE, ARA-VCET, arm-ui, arm-website (later ARM reorganised — see [[Projects/timer/SUMMARY]]).
 - **Backup:** `claude-full-backup-20260714.zip` on the office Mac Desktop.
-- **Dev history:** [[Projects/system/DEV-LOG]] (Claude Code sessions). Chats index: [[Projects/system/chats/INDEX]].
+- **Dev history:** [[Projects/system/DEV-LOG]] (Claude Code sessions). Chats index: INDEX (archived: Projects/system/chats/INDEX.md).
 - **Related:** [[Projects/the-regen-room/SUMMARY]] (room images), [[Projects/aracreate/SUMMARY]], [[Projects/feedback-widget/SUMMARY]].
 
 ## 7. Files and documents
@@ -52,5 +52,5 @@ updated: 2026-10-06
 - Keep as a project or turn into an Area ("mac-setup")?
 
 ## 9. All chats in this project
-- [[Projects/system/chats/2026-08-20 Folder cleanup|Folder cleanup]] — 2026-08-20
+- Folder cleanup (archived: Projects/system/chats/2026-08-20 Folder cleanup.md) — 2026-08-20
 - Claude Code sessions: see [[Projects/system/DEV-LOG]].

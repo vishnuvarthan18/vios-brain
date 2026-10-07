@@ -85,7 +85,7 @@ State: [[Projects/clockify/STATE]] · Log: [[Projects/clockify/LOG]]
 - **Clockify API method:** base `https://global.api.clockify.me`, `X-Auth-Token` from the page's own login (no key saved). Calls: `/v1/user`; `/v1/workspaces/{ws}/user/{uid}/time-entries?start=&end=&page-size=1000`; `PUT /v1/workspaces/{ws}/time-entries/{id}` with 120 ms delay.
 - **Tips:** shared boundary times shift by the same seconds; check overlaps across all pairs in a day, not only neighbours.
 - **Tools:** [[Tools/Clockify]], [[Tools/Claude]], [[Tools/Claude in Chrome]], [[Tools/Slack]], [[Tools/Google Calendar]], [[Tools/Python]]. No GitHub repo or server.
-- **Chats index:** [[Projects/clockify/chats/INDEX]]
+- **Chats index:** INDEX (archived: Projects/clockify/chats/INDEX.md)
 - **Related:** [[Projects/clockify-automation-project/SUMMARY]] (kept separate), [[Projects/timer/SUMMARY]].
 
 ## 7. Files and documents
@@ -105,7 +105,7 @@ State: [[Projects/clockify/STATE]] · Log: [[Projects/clockify/LOG]]
 - Is this a monthly task (October next)?
 
 ## 9. All chats in this project
-- [[Projects/clockify/chats/2026-09-01 Clockify time report review|Clockify time report review]] — 2026-09-01 (office)
-- [[Projects/clockify/chats/2026-09-30 Clockify entries analysis|Clockify entries analysis]] — 2026-09-30 (personal)
-- [[Projects/clockify/chats/2026-09-30 Google Chrome clicky entries|Google Chrome clicky entries]] — 2026-09-30 (personal)
-- [[Projects/clockify/chats/2026-10-02 Moving project to viOS (10)|Moving project to viOS (10)]] — 2026-10-02 (personal)
+- Clockify time report review (archived: Projects/clockify/chats/2026-09-01 Clockify time report review.md) — 2026-09-01 (office)
+- Clockify entries analysis (archived: Projects/clockify/chats/2026-09-30 Clockify entries analysis.md) — 2026-09-30 (personal)
+- Google Chrome clicky entries (archived: Projects/clockify/chats/2026-09-30 Google Chrome clicky entries.md) — 2026-09-30 (personal)
+- Moving project to viOS (10) (archived: Projects/clockify/chats/2026-10-02 Moving project to viOS (10).md) — 2026-10-02 (personal)

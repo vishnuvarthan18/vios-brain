@@ -46,8 +46,8 @@ Coding history from Claude Code sessions on the personal Mac. Business side: [[P
 - Halo page: add TT Norms Pro woff2 files (not sure if still needed).
 
 ## Session index
-- [[Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_9fc48207]] — 2026-08-10 — run local server again
-- [[Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_1eeeceb9]] — 2026-08-10 — run dev server, check homepage
-- [[Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_c33c21b0]] — 2026-08-10 — clone repo, run, brand colours, logo in navbar + footer
-- [[Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-03_97cdc351]] — 2026-08-03 — build Halo / USD Halo landing page; later run attempt
-- [[Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-02_e088fd8b]] — 2026-08-02 — /design-sync tried in empty folder
+- personal-mac__vidivu-in__2026-08-10_9fc48207 (archived: Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_9fc48207.md) — 2026-08-10 — run local server again
+- personal-mac__vidivu-in__2026-08-10_1eeeceb9 (archived: Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_1eeeceb9.md) — 2026-08-10 — run dev server, check homepage
+- personal-mac__vidivu-in__2026-08-10_c33c21b0 (archived: Projects/vidivu/claude-code/personal-mac__vidivu-in__2026-08-10_c33c21b0.md) — 2026-08-10 — clone repo, run, brand colours, logo in navbar + footer
+- personal-mac__Desktop-vidivu-in__2026-08-03_97cdc351 (archived: Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-03_97cdc351.md) — 2026-08-03 — build Halo / USD Halo landing page; later run attempt
+- personal-mac__Desktop-vidivu-in__2026-08-02_e088fd8b (archived: Projects/vidivu/claude-code/personal-mac__Desktop-vidivu-in__2026-08-02_e088fd8b.md) — 2026-08-02 — /design-sync tried in empty folder

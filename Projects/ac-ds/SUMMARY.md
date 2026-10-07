@@ -118,6 +118,6 @@ Phase 1 leftovers:
 - Old open questions are answered: ACDS stays the company default (single source); the three merge tasks were done inside the big merge; Landing Page card is not locked; switch-over is done.
 
 ## 9. All chats in this project
-- Index: [[Projects/ac-ds/chats/INDEX]]
-- [[Projects/ac-ds/chats/2026-08-21 Design systems merge|Design systems merge]] — 2026-08-21
+- Index: INDEX (archived: Projects/ac-ds/chats/INDEX.md)
+- Design systems merge (archived: Projects/ac-ds/chats/2026-08-21 Design systems merge.md) — 2026-08-21
 - Claude Code sessions (2026-10-06): see [[Projects/ac-ds/DEV-LOG]] session index

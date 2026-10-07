@@ -39,6 +39,6 @@ Summary: [[Projects/arakraft/SUMMARY]] · State: [[Projects/arakraft/STATE]]
 - Optional `llms.txt`, Content-Security-Policy.
 
 ## Session index
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_e1378dbf]] — 2026-10-01 — root structure into `src/`, push, verified commits how-to
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_ebf9d469]] — 2026-10-01 — empty start (title only)
-- [[Projects/arakraft/claude-code/Downloads-arakraft-works__2026-09-26_99f545a6]] — 2026-09-26 to 09-28 — run locally, conventions, health, SEO/share, cleanup, first push, handoff removed
+- Downloads-arakraft-works__2026-10-01_e1378dbf (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_e1378dbf.md) — 2026-10-01 — root structure into `src/`, push, verified commits how-to
+- Downloads-arakraft-works__2026-10-01_ebf9d469 (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-10-01_ebf9d469.md) — 2026-10-01 — empty start (title only)
+- Downloads-arakraft-works__2026-09-26_99f545a6 (archived: Projects/arakraft/claude-code/Downloads-arakraft-works__2026-09-26_99f545a6.md) — 2026-09-26 to 09-28 — run locally, conventions, health, SEO/share, cleanup, first push, handoff removed

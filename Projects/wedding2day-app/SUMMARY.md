@@ -28,7 +28,7 @@ updated: 2026-10-06
   - Tier 1 matching (category beats district).
   - **Firestore rules — two records, state both:**
     - LIVE: the 2026-09-02 session log says rules (with the role lock fix) were deployed to production.
-    - LOCAL: the overnight run (09-01/02) fixed 4 Firestore permission holes (e.g. `users.role` was self-writable); `E2E_FINDINGS` says these fixes are local only until `firebase deploy --only firestore` runs. 275 app tests + 29 admin rule tests pass. Not sure if the 09-02 deploy included all 4 fixes — running the deploy again is the safe single next action. See [[Raw/mac-personal/Desktop/mura/w2d/b2b/w2d-app/E2E_FINDINGS]].
+    - LOCAL: the overnight run (09-01/02) fixed 4 Firestore permission holes (e.g. `users.role` was self-writable); `E2E_FINDINGS` says these fixes are local only until `firebase deploy --only firestore` runs. 275 app tests + 29 admin rule tests pass. Not sure if the 09-02 deploy included all 4 fixes — running the deploy again is the safe single next action. See E2E_FINDINGS (archived: Raw/mac-personal/Desktop/mura/w2d/b2b/w2d-app/E2E_FINDINGS.md).
   - Preview APK built with [[Tools/EAS]] on 2026-09-02 (expired 2026-09-16).
   - Automated test suite (`npm test` with emulator wrapper).
   - `w2d-admin` web dashboard exists ([[Tools/Vite]] / [[Tools/React]]).
@@ -145,7 +145,7 @@ updated: 2026-10-06
 - **Domain:** wedding2day.com (landing page, [[Tools/Cloudflare]] Pages; also https://w2d-landing.pages.dev/). Separate stack — do not reuse its code in the app.
 - **Old stack (June 2026):** FlutterFlow + Supabase (abandoned 2026-07-06).
 - **Cost tracker:** a Google Keep note tracks Wedding2day costs (Claude, FlutterFlow spend).
-- **Chats index:** [[Projects/wedding2day-app/chats/INDEX]]. Project docs copied to `docs/`.
+- **Chats index:** INDEX (archived: Projects/wedding2day-app/chats/INDEX.md). Project docs copied to `docs/`.
 - **Landing signups:** [[Tools/Google Sheets]] "W2D Pre-Launch Registrations" via [[Tools/Google Apps Script]].
 - **Emulator ports:** Auth 9099, Firestore 8080, Storage 9199, UI 4000. Mac local IP `192.168.31.16`.
 - **Last preview build:** https://expo.dev/accounts/vishnu18/projects/w2d/builds/3f8bb6ba-30d9-470e-a774-c8cec17b4dc2 (commit `6edaa41`, expired 2026-09-16).
@@ -191,31 +191,31 @@ updated: 2026-10-06
 - No locked launch date.
 
 ## 9. All chats in this project
-- [[Projects/wedding2day-app/chats/2026-06-02 B2B manufacturer-service provider platform- MVP to scale strategy|B2B manufacturer-service provider platform- MVP to scale strategy]] — 2026-06-02
-- [[Projects/wedding2day-app/chats/2026-06-04 Apps and websites|Apps and websites]] — 2026-06-04
-- [[Projects/wedding2day-app/chats/2026-06-05 Designing UI-UX wireframes|Designing UI-UX wireframes]] — 2026-06-05
-- [[Projects/wedding2day-app/chats/2026-06-06 Flutter Flow v1 scope setup steps|Flutter Flow v1 scope setup steps]] — 2026-06-06
-- [[Projects/wedding2day-app/chats/2026-06-08 Reviewing recent conversation highlights|Reviewing recent conversation highlights]] — 2026-06-08
-- [[Projects/wedding2day-app/chats/2026-06-17 Canceling unwanted FlutterFlow subscription before debit|Canceling unwanted FlutterFlow subscription before debit]] — 2026-06-17
-- [[Projects/wedding2day-app/chats/2026-06-19 Completing the process next steps|Completing the process next steps]] — 2026-06-19
-- [[Projects/wedding2day-app/chats/2026-06-19 Project status update|Project status update]] — 2026-06-19
-- [[Projects/wedding2day-app/chats/2026-06-26 Completing version 1 for client delivery|Completing version 1 for client delivery]] — 2026-06-26
-- [[Projects/wedding2day-app/chats/2026-06-27 Current location status|Current location status]] — 2026-06-27
-- [[Projects/wedding2day-app/chats/2026-06-27 Starting the next step|Starting the next step]] — 2026-06-27
-- [[Projects/wedding2day-app/chats/2026-07-04 Migration to Cloudflare and cost analysis|Migration to Cloudflare and cost analysis]] — 2026-07-04
-- [[Projects/wedding2day-app/chats/2026-07-06 Changed decision announcement|Changed decision announcement]] — 2026-07-06
-- [[Projects/wedding2day-app/chats/2026-07-06 M1 project scope overview|M1 project scope overview]] — 2026-07-06
-- [[Projects/wedding2day-app/chats/2026-07-06 Wedding2day MVP launch strategy and tech stack|Wedding2day MVP launch strategy and tech stack]] — 2026-07-06
-- [[Projects/wedding2day-app/chats/2026-07-07 Final steps in a process|Final steps in a process]] — 2026-07-07
-- [[Projects/wedding2day-app/chats/2026-07-07 Starting a new conversation|Starting a new conversation]] — 2026-07-07
-- [[Projects/wedding2day-app/chats/2026-07-08 Project knowledge migration to Cursor IDE|Project knowledge migration to Cursor IDE]] — 2026-07-08
-- [[Projects/wedding2day-app/chats/2026-07-08 Starting phase 3|Starting phase 3]] — 2026-07-08
-- [[Projects/wedding2day-app/chats/2026-07-13 Next steps|Next steps]] — 2026-07-13
-- [[Projects/wedding2day-app/chats/2026-07-14 Creating a listing|Creating a listing]] — 2026-07-14
-- [[Projects/wedding2day-app/chats/2026-07-16 QR code for customer data collection|QR code for customer data collection]] — 2026-07-16
-- [[Projects/wedding2day-app/chats/2026-07-20 Long day, back again|Long day, back again]] — 2026-07-20
-- [[Projects/wedding2day-app/chats/2026-07-23 W2D project development roadmap|W2D project development roadmap]] — 2026-07-23
-- [[Projects/wedding2day-app/chats/2026-07-25 Next steps and current status|Next steps and current status]] — 2026-07-25
-- [[Projects/wedding2day-app/chats/2026-10-02 Project summary for viOS|Project summary for viOS]] — 2026-10-02
+- B2B manufacturer-service provider platform- MVP to scale strategy (archived: Projects/wedding2day-app/chats/2026-06-02 B2B manufacturer-service provider platform- MVP to scale strategy.md) — 2026-06-02
+- Apps and websites (archived: Projects/wedding2day-app/chats/2026-06-04 Apps and websites.md) — 2026-06-04
+- Designing UI-UX wireframes (archived: Projects/wedding2day-app/chats/2026-06-05 Designing UI-UX wireframes.md) — 2026-06-05
+- Flutter Flow v1 scope setup steps (archived: Projects/wedding2day-app/chats/2026-06-06 Flutter Flow v1 scope setup steps.md) — 2026-06-06
+- Reviewing recent conversation highlights (archived: Projects/wedding2day-app/chats/2026-06-08 Reviewing recent conversation highlights.md) — 2026-06-08
+- Canceling unwanted FlutterFlow subscription before debit (archived: Projects/wedding2day-app/chats/2026-06-17 Canceling unwanted FlutterFlow subscription before debit.md) — 2026-06-17
+- Completing the process next steps (archived: Projects/wedding2day-app/chats/2026-06-19 Completing the process next steps.md) — 2026-06-19
+- Project status update (archived: Projects/wedding2day-app/chats/2026-06-19 Project status update.md) — 2026-06-19
+- Completing version 1 for client delivery (archived: Projects/wedding2day-app/chats/2026-06-26 Completing version 1 for client delivery.md) — 2026-06-26
+- Current location status (archived: Projects/wedding2day-app/chats/2026-06-27 Current location status.md) — 2026-06-27
+- Starting the next step (archived: Projects/wedding2day-app/chats/2026-06-27 Starting the next step.md) — 2026-06-27
+- Migration to Cloudflare and cost analysis (archived: Projects/wedding2day-app/chats/2026-07-04 Migration to Cloudflare and cost analysis.md) — 2026-07-04
+- Changed decision announcement (archived: Projects/wedding2day-app/chats/2026-07-06 Changed decision announcement.md) — 2026-07-06
+- M1 project scope overview (archived: Projects/wedding2day-app/chats/2026-07-06 M1 project scope overview.md) — 2026-07-06
+- Wedding2day MVP launch strategy and tech stack (archived: Projects/wedding2day-app/chats/2026-07-06 Wedding2day MVP launch strategy and tech stack.md) — 2026-07-06
+- Final steps in a process (archived: Projects/wedding2day-app/chats/2026-07-07 Final steps in a process.md) — 2026-07-07
+- Starting a new conversation (archived: Projects/wedding2day-app/chats/2026-07-07 Starting a new conversation.md) — 2026-07-07
+- Project knowledge migration to Cursor IDE (archived: Projects/wedding2day-app/chats/2026-07-08 Project knowledge migration to Cursor IDE.md) — 2026-07-08
+- Starting phase 3 (archived: Projects/wedding2day-app/chats/2026-07-08 Starting phase 3.md) — 2026-07-08
+- Next steps (archived: Projects/wedding2day-app/chats/2026-07-13 Next steps.md) — 2026-07-13
+- Creating a listing (archived: Projects/wedding2day-app/chats/2026-07-14 Creating a listing.md) — 2026-07-14
+- QR code for customer data collection (archived: Projects/wedding2day-app/chats/2026-07-16 QR code for customer data collection.md) — 2026-07-16
+- Long day, back again (archived: Projects/wedding2day-app/chats/2026-07-20 Long day, back again.md) — 2026-07-20
+- W2D project development roadmap (archived: Projects/wedding2day-app/chats/2026-07-23 W2D project development roadmap.md) — 2026-07-23
+- Next steps and current status (archived: Projects/wedding2day-app/chats/2026-07-25 Next steps and current status.md) — 2026-07-25
+- Project summary for viOS (archived: Projects/wedding2day-app/chats/2026-10-02 Project summary for viOS.md) — 2026-10-02
 - (2026-07-16 "QR code for customer data collection" is the pre-launch landing page work.)
 - Note: work from 2026-08-18 to 2026-09-02 was done in other sessions (Cowork/[[Tools/Cursor]]). It exists only in the session logs (docs/), not as chats.

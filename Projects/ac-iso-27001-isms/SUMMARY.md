@@ -109,7 +109,7 @@ updated: 2026-10-06
 - Did Vishnu start the Lead Auditor course?
 
 ## 9. All chats in this project
-- Index: [[Projects/ac-iso-27001-isms/chats/INDEX]]
+- Index: INDEX (archived: Projects/ac-iso-27001-isms/chats/INDEX.md)
 - ISO 27001 audit non-conformities clearance — 2026-06-02
 - Preparing for second audit checklist — 2026-06-12
 - ISO documentation structure and organization — 2026-06-13
