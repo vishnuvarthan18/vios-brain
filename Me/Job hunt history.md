@@ -12,7 +12,7 @@ Contested facts: [[Me/Career facts]]
 - **Applications:** IBM (SAP ABAP HANA App Developer, Dec), JustDial (Executive - Database, Dec), ZappyWorks (careers + intern training, Nov-Dec).
 - **Cold emails for internships (Dec):** Integrines, Arantec, Livestream Tech, Tecnova, Welkyn. Integrines offered a Java Full-Stack intern role but wanted 2022 graduates.
 - **Competitions:** IBM Hack Challenge 2022 (project submitted, finale invite); ICT Academy RPA Skill-a-thon.
-- Mail: [[Mail/personal/2022/2022-12]]
+- Mail: 2022-12 (archived: Mail/personal/2022/2022-12.md)
 
 ## 2. First job: FR8 internship (Jan 2023)
 - More cold emails (3 Jan). Sporfy interview invite (6 Jan).
@@ -21,7 +21,7 @@ Contested facts: [[Me/Career facts]]
 ## 3. Data roles (Mar-Apr 2023)
 - Data Analyst / Data Scientist / Data Engineer roles: KreditBee, Miko, Samsung, IBM, Virtusa, AB InBev, Affine, Wavicle, TVS Next, Paytm, Cisco, Shell, Cyient, Huawei, Bosch, Wipro and others. About 170 applications in March.
 - **Rounds reached:** Xartup Fellowship (shortlisted, interview 6 Mar), Taiyo.AI (ML assignment, 22 Mar), Postulate Info Tech (interview call, 27 Apr).
-- Mail: [[Mail/personal/2023/2023-03]]
+- Mail: 2023-03 (archived: Mail/personal/2023/2023-03.md)
 
 ## 4. VFX and animation (May-Jun 2023)
 - Rockstar Games, The Mill, MPC, DNEG, Weta FX, Phantom FX, FutureWorks (internship), Technicolor, BOT VFX, AutoVRse (Gameplay Engineer) and others.
@@ -38,7 +38,7 @@ Contested facts: [[Me/Career facts]]
   - [[Companies/AutoVRse]] — asked for portfolio (Mar 2024).
   - Realtime Innovations — shortlisted, video task (Mar 2024).
   - [[Companies/doodleblue Innovations]] — interviews 14 and 20 Mar 2024, offer 28 Mar as Creative UI/UX Designer.
-- **Result:** joined doodleblue 1 Apr 2024. Mail: [[Mail/personal/2024/2024-03]]
+- **Result:** joined doodleblue 1 Apr 2024. Mail: 2024-03 (archived: Mail/personal/2024/2024-03.md)
 
 ## 6. Move to araCreate (Jul-Sep 2024)
 - Also applied: Assistant Project Manager at designnbuy, DXC, Experian, Freshworks, HighLevel. Waitlisted at [[Companies/Airtribe]] PM Launchpad.
@@ -61,7 +61,7 @@ Contested facts: [[Me/Career facts]]
   - Talent Worx, Fomogo — screening rounds (Nov 2025).
 - **Other tries:** METI Japan Internship (Jul 2025), [[Companies/Founder School]] Cohort 3 (declined), YC co-founder matching ([[Companies/Y Combinator]]), eMudhra registration authority (Jan 2026).
 - **Support:** Airtribe mock interviews and career services (Dec 2025 - May 2026).
-- Mail: [[Mail/personal/2025/2025-08]], [[Mail/personal/2025/2025-11]]
+- Mail: 2025-08 (archived: Mail/personal/2025/2025-08.md), 2025-11 (archived: Mail/personal/2025/2025-11.md)
 
 ## Patterns
 - Moves between fields: data -> VFX -> UI/UX -> product / project management.
